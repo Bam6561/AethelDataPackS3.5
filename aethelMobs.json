@@ -1,0 +1,18 @@
+{
+  "zombie": [
+    {
+      "type": "Rotghoul",
+      "parent": "",
+      "children": "",
+      "attributes": [
+        {
+          "max_health": "10",
+          "attack_damage": "2",
+          "movement_speed": "0.2645"
+        }
+      ],
+      "unique": "Spawns in groups of 4",
+      "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs."
+    }
+  ]
+}
