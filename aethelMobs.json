@@ -1,4 +1,24 @@
 {
+  "entity": [
+    {
+      "type": "",
+      "parent": "",
+      "children": "",
+      "attributes": [
+        {
+          "max_health": "",
+          "attack_damage": "",
+          "attack_knockback": "",
+          "armor": "",
+          "armor_toughness": "",
+          "knockback_resistance": "",
+          "movement_speed": ""
+        }
+      ],
+      "unique": "",
+      "description": ""
+    }
+  ],
   "zombie": [
     {
       "type": "Rotghoul",
