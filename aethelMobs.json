@@ -1,38 +1,70 @@
 {
   "entity": [
     {
-      "type": "",
-      "parent": "",
-      "children": "",
-      "attributes": [
-        {
-          "max_health": "",
-          "attack_damage": "",
-          "attack_knockback": "",
-          "armor": "",
-          "armor_toughness": "",
-          "knockback_resistance": "",
-          "movement_speed": ""
-        }
-      ],
-      "unique": "",
-      "description": ""
+      "type": {
+        "demotion": "",
+        "promotion": "",
+        "unique": "",
+        "description": "",
+        "levels": [
+          {
+            "level": "",
+            "attributes": [
+              {
+                "max_health": "",
+                "attack_damage": "",
+                "attack_knockback": "",
+                "armor": "",
+                "armor_toughness": "",
+                "knockback_resistance": "",
+                "movement_speed": ""
+              }
+            ]
+          }
+        ]
+      }
     }
   ],
   "zombie": [
     {
-      "type": "Rotghoul",
-      "parent": "",
-      "children": "",
-      "attributes": [
-        {
-          "max_health": "10",
-          "attack_damage": "2",
-          "movement_speed": "0.2645"
-        }
-      ],
-      "unique": "Spawns in groups of 4",
-      "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs."
+      "rotghoul": {
+        "demotion": "",
+        "promotion": "rotfiend",
+        "unique": "Can spawn in packs of 4",
+        "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
+        "levels": [
+          {
+            "level": "1",
+            "attributes": [
+              {
+                "max_health": "6",
+                "attack_damage": "2",
+                "movement_speed": "0.345"
+              }
+            ]
+          },
+          {
+            "level": "2",
+            "attributes": [
+              {
+                "max_health": "8",
+                "attack_damage": "2.5",
+                "movement_speed": "0.345"
+              }
+            ]
+          },
+          {
+            "level": "3",
+            "attributes": [
+              {
+                "max_health": "10",
+                "attack_damage": "3",
+                "movement_speed": "0.345"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
