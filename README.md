@@ -30,7 +30,7 @@ Multiplayer
 ## Usage
 In the chat window, type "/functions" and provide one of `aethelDatapack`'s namespaces, followed by ":", and the command you wish to execute. 
 
-<img src="https://i.ibb.co/R2g4x9z/aethel-Datapack-Command-Invocation.png" alt="aethel-Datapack-Command-Invocation" border="0">
+<img src="https://i.ibb.co/G52pLKf/aethel-Datapack-Command-Invocation.png" alt="aethel-Datapack-Command-Invocation" border="0">
 
 ## License
 
