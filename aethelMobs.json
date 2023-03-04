@@ -6,7 +6,7 @@
       "promotion": "",
       "unique": "",
       "description": "",
-      "hand_slots": [
+      "equipment": [
         {
           "main_hand": "",
           "enchantments": ""
@@ -14,9 +14,7 @@
         {
           "off_hand": "",
           "enchantments": ""
-        }
-      ],
-      "armor_slots": [
+        },
         {
           "helmet": "",
           "enchantments": ""
@@ -51,7 +49,6 @@
   "zombie": [
     {
       "type": "rotghoul",
-      "demotion": "",
       "promotion": "rotfiend",
       "unique": "Can spawn in packs of 4",
       "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
