@@ -1,70 +1,80 @@
 {
   "entity": [
     {
-      "type": {
-        "demotion": "",
-        "promotion": "",
-        "unique": "",
-        "description": "",
-        "levels": [
-          {
-            "level": "",
-            "attributes": [
-              {
-                "max_health": "",
-                "attack_damage": "",
-                "attack_knockback": "",
-                "armor": "",
-                "armor_toughness": "",
-                "knockback_resistance": "",
-                "movement_speed": ""
-              }
-            ]
-          }
-        ]
-      }
+      "type": "",
+      "demotion": "",
+      "promotion": "",
+      "unique": "",
+      "description": "",
+      "hand_slots": [
+        {
+          "main_hand": "",
+          "enchantments": ""
+        },
+        {
+          "off_hand": "",
+          "enchantments": ""
+        }
+      ],
+      "armor_slots": [
+        {
+          "helmet": "",
+          "enchantments": ""
+        },
+        {
+          "chestplate": "",
+          "enchantments": ""
+        },
+        {
+          "leggings": "",
+          "enchantments": ""
+        },
+        {
+          "boots": "",
+          "enchantments": ""
+        }
+      ],
+      "levels": [
+        {
+          "level": "",
+          "max_health": "",
+          "attack_damage": "",
+          "attack_knockback": "",
+          "armor": "",
+          "armor_toughness": "",
+          "knockback_resistance": "",
+          "movement_speed": ""
+        }
+      ]
     }
   ],
   "zombie": [
     {
-      "rotghoul": {
-        "demotion": "",
-        "promotion": "rotfiend",
-        "unique": "Can spawn in packs of 4",
-        "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
-        "levels": [
-          {
-            "level": "1",
-            "attributes": [
-              {
-                "max_health": "6",
-                "attack_damage": "2",
-                "movement_speed": "0.345"
-              }
-            ]
-          },
-          {
-            "level": "2",
-            "attributes": [
-              {
-                "max_health": "8",
-                "attack_damage": "2.5",
-                "movement_speed": "0.345"
-              }
-            ]
-          },
-          {
-            "level": "3",
-            "attributes": [
-              {
-                "max_health": "10",
-                "attack_damage": "3",
-                "movement_speed": "0.345"
-              }
-            ]
-          }
-        ]
-      }
+      "type": "rotghoul",
+      "demotion": "",
+      "promotion": "rotfiend",
+      "unique": "Can spawn in packs of 4",
+      "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "6",
+          "attack_damage": "2",
+          "movement_speed": "0.345"
+        },
+        {
+          "level": "2",
+          "max_health": "8",
+          "attack_damage": "2.5",
+          "movement_speed": "0.345"
+        },
+        {
+          "level": "3",
+          "max_health": "10",
+          "attack_damage": "3",
+          "movement_speed": "0.345"
+        }
+      ]
     }
   ]
 }
