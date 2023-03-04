@@ -1,0 +1,1 @@
+summon minecraft:zombie ~ ~ ~ {IsBaby: 0, CustomName: '[{"text":"Rotfiend III"}]', Health: 12, CanPickUpLoot: 0, Tags: ["rotfiend"], HandItems: [{}], ArmorItems: [{}], Attributes: [{Name: "generic.max_health", Base: 12}, {Name: "generic.attack_damage", Base: 3.5d}, {Name: "generic.movement_speed", Base: 0.345d}], HandDropChances: [], ArmorDropChances: []}
