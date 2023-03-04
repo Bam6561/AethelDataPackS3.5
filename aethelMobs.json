@@ -99,6 +99,33 @@
           "movement_speed": "0.345"
         }
       ]
+    },
+    {
+      "type": "rothaunt",
+      "demotion": "rotfiend",
+      "promotion": "rothound",
+      "unique": "Can spawn in packs",
+      "description": "Driven into a ravenous frenzy at the smell of flesh, Rothaunts are known to pounce upon nearby unwary travelers.",
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "14",
+          "attack_damage": "4.5",
+          "movement_speed": "0.4025"
+        },
+        {
+          "level": "2",
+          "max_health": "17",
+          "attack_damage": "5.5",
+          "movement_speed": "0.4025"
+        },
+        {
+          "level": "3",
+          "max_health": "20",
+          "attack_damage": "6.5",
+          "movement_speed": "0.4025"
+        }
+      ]
     }
   ]
 }
