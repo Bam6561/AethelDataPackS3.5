@@ -1,0 +1,1 @@
+summon minecraft:zombie ~ ~ ~ {IsBaby: 0, CustomName: '[{"text":"Rothound II"}]', Health: 30, CanPickUpLoot: 0, Tags: ["rothound"], HandItems: [{}], ArmorItems: [{}], Attributes: [{Name: "generic.max_health", Base: 30}, {Name: "generic.attack_damage", Base: 9.5d}, {Name: "generic.movement_speed", Base: 0.46d}], HandDropChances: [], ArmorDropChances: []}

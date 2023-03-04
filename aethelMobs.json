@@ -126,6 +126,33 @@
           "movement_speed": "0.4025"
         }
       ]
+    },
+    {
+      "type": "rothound",
+      "demotion": "rothaunt",
+      "promotion": "rotraven",
+      "unique": "Can spawn in packs",
+      "description": "Reverting back to its primal senses, the Rothound loses a sense of itself and becomes one with its pack.",
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "25",
+          "attack_damage": "8",
+          "movement_speed": "0.46"
+        },
+        {
+          "level": "2",
+          "max_health": "30",
+          "attack_damage": "9.5",
+          "movement_speed": "0.46"
+        },
+        {
+          "level": "3",
+          "max_health": "40",
+          "attack_damage": "11",
+          "movement_speed": "0.46"
+        }
+      ]
     }
   ]
 }
