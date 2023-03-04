@@ -153,6 +153,32 @@
           "movement_speed": "0.46"
         }
       ]
+    },
+    {
+      "type": "rotraven",
+      "demotion": "rothound",
+      "unique": "Can spawn in packs",
+      "description": "Rotravens gather in flocks to deliver death en-masse.",
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "50",
+          "attack_damage": "12",
+          "movement_speed": "0.5175"
+        },
+        {
+          "level": "2",
+          "max_health": "60",
+          "attack_damage": "13",
+          "movement_speed": "0.5175"
+        },
+        {
+          "level": "3",
+          "max_health": "75",
+          "attack_damage": "15",
+          "movement_speed": "0.5175"
+        }
+      ]
     }
   ]
 }
