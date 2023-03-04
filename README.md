@@ -12,6 +12,9 @@ Minecraft datapack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDatapack/wiki/Home) for documentation on its commands.
 
+Related Resources:
+- [Aethel Resources](https://github.com/Bam6561/AethelResources)
+
 ## Setup
 
 Singleplayer
