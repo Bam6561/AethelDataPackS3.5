@@ -2,6 +2,7 @@
   "entity": [
     {
       "type": "",
+      "tier": "",
       "demotion": "",
       "promotion": "",
       "unique": "",
@@ -49,6 +50,7 @@
   "zombie": [
     {
       "type": "rotghoul",
+      "tier": "1",
       "promotion": "rotfiend",
       "unique": "Can spawn in packs",
       "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
@@ -75,6 +77,7 @@
     },
     {
       "type": "rotfiend",
+      "tier": "2",
       "demotion": "rotghoul",
       "promotion": "rothaunt",
       "unique": "Can spawn in packs",
@@ -102,6 +105,7 @@
     },
     {
       "type": "rothaunt",
+      "tier": "3",
       "demotion": "rotfiend",
       "promotion": "rothound",
       "unique": "Can spawn in packs",
@@ -129,6 +133,7 @@
     },
     {
       "type": "rothound",
+      "tier": "4",
       "demotion": "rothaunt",
       "promotion": "rotraven",
       "unique": "Can spawn in packs",
@@ -156,6 +161,7 @@
     },
     {
       "type": "rotraven",
+      "tier": "5",
       "demotion": "rothound",
       "unique": "Can spawn in packs",
       "description": "Rotravens gather in flocks to deliver death en-masse.",
