@@ -52,9 +52,9 @@
   ],
   "skeleton": [
     {
-      "type": "rattle_marksman",
+      "type": "rattle marksman",
       "tier": "2",
-      "promotion": "rattle_sharpshooter",
+      "promotion": "rattle sharpshooter",
       "unique": "Possesses a large follow range",
       "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
       "equipment": [
@@ -85,10 +85,10 @@
       ]
     },
     {
-      "type": "rattle_sharpshooter",
+      "type": "rattle sharpshooter",
       "tier": "3",
-      "demotion": "rattle_marksman",
-      "promotion": "rattle_sniper",
+      "demotion": "rattle marksman",
+      "promotion": "rattle sniper",
       "unique": "Possesses a large follow range",
       "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
       "equipment": [
@@ -119,10 +119,10 @@
       ]
     },
     {
-      "type": "rattle_sniper",
+      "type": "rattle sniper",
       "tier": "4",
-      "demotion": "rattle_sharpshooter",
-      "promotion": "rattle_deadshot",
+      "demotion": "rattle sharpshooter",
+      "promotion": "rattle deadshot",
       "unique": "Possesses a large follow range",
       "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
       "equipment": [
@@ -153,9 +153,9 @@
       ]
     },
     {
-      "type": "rattle_deadshot",
+      "type": "rattle deadshot",
       "tier": "5",
-      "demotion": "rattle_sniper",
+      "demotion": "rattle sniper",
       "unique": "Possesses a large follow range",
       "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
       "equipment": [
