@@ -52,154 +52,6 @@
   ],
   "skeleton": [
     {
-      "type": "rattle marksman",
-      "tier": "2",
-      "promotion": "rattle sharpshooter",
-      "unique": "Possesses a large follow range",
-      "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
-      "equipment": [
-        {
-          "main_hand": "bow",
-          "enchantments": "power II"
-        },
-        {
-          "helmet": "bone"
-        }
-      ],
-      "levels": [
-        {
-          "level": "1",
-          "max_health": "10",
-          "movement_speed": "0.125",
-          "mob_follow_range": "40"
-        },
-        {
-          "level": "2",
-          "max_health": "12",
-          "movement_speed": "0.125",
-          "mob_follow_range": "40"
-        },
-        {
-          "level": "3",
-          "max_health": "14",
-          "movement_speed": "0.125",
-          "mob_follow_range": "40"
-        }
-      ]
-    },
-    {
-      "type": "rattle sharpshooter",
-      "tier": "3",
-      "demotion": "rattle marksman",
-      "promotion": "rattle sniper",
-      "unique": "Possesses a large follow range",
-      "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
-      "equipment": [
-        {
-          "main_hand": "bow",
-          "enchantments": "power IV"
-        },
-        {
-          "helmet": "bone"
-        }
-      ],
-      "levels": [
-        {
-          "level": "1",
-          "max_health": "16",
-          "movement_speed": "0.1875",
-          "mob_follow_range": "48"
-        },
-        {
-          "level": "2",
-          "max_health": "18",
-          "movement_speed": "0.1875",
-          "mob_follow_range": "48"
-        },
-        {
-          "level": "3",
-          "max_health": "20",
-          "movement_speed": "0.1875",
-          "mob_follow_range": "48"
-        }
-      ]
-    },
-    {
-      "type": "rattle sniper",
-      "tier": "4",
-      "demotion": "rattle sharpshooter",
-      "promotion": "rattle deadshot",
-      "unique": "Possesses a large follow range",
-      "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
-      "equipment": [
-        {
-          "main_hand": "bow",
-          "enchantments": "power VI"
-        },
-        {
-          "helmet": "bone"
-        }
-      ],
-      "levels": [
-        {
-          "level": "1",
-          "max_health": "25",
-          "movement_speed": "0.25",
-          "mob_follow_range": "56"
-        },
-        {
-          "level": "2",
-          "max_health": "30",
-          "movement_speed": "0.25",
-          "mob_follow_range": "56"
-        },
-        {
-          "level": "3",
-          "max_health": "35",
-          "movement_speed": "0.25",
-          "mob_follow_range": "56"
-        }
-      ]
-    },
-    {
-      "type": "rattle deadshot",
-      "tier": "5",
-      "demotion": "rattle sniper",
-      "unique": "Possesses a large follow range",
-      "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
-      "equipment": [
-        {
-          "main_hand": "bow"
-        },
-        {
-          "helmet": "bone"
-        }
-      ],
-      "levels": [
-        {
-          "level": "1",
-          "max_health": "40",
-          "movement_speed": "0.3125",
-          "mob_follow_range": "64",
-          "enchantments": "power VIII"
-        },
-        {
-          "level": "2",
-          "max_health": "50",
-          "movement_speed": "0.3125",
-          "mob_follow_range": "64",
-          "enchantments": "power IX"
-        },
-        {
-          "level": "3",
-          "max_health": "60",
-          "movement_speed": "0.3125",
-          "mob_follow_range": "64",
-          "enchantments": "power X"
-        }
-      ]
-    },
-    {
       "type": "bon-dur",
       "tier": "1",
       "promotion": "bon-dead",
@@ -432,6 +284,154 @@
           "armor": "20",
           "movement_speed": "0.05",
           "knockback_resistance": "1"
+        }
+      ]
+    },
+    {
+      "type": "rattle marksman",
+      "tier": "2",
+      "promotion": "rattle sharpshooter",
+      "unique": "Possesses a large follow range",
+      "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
+      "equipment": [
+        {
+          "main_hand": "bow",
+          "enchantments": "power II"
+        },
+        {
+          "helmet": "bone"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "10",
+          "movement_speed": "0.125",
+          "mob_follow_range": "40"
+        },
+        {
+          "level": "2",
+          "max_health": "12",
+          "movement_speed": "0.125",
+          "mob_follow_range": "40"
+        },
+        {
+          "level": "3",
+          "max_health": "14",
+          "movement_speed": "0.125",
+          "mob_follow_range": "40"
+        }
+      ]
+    },
+    {
+      "type": "rattle sharpshooter",
+      "tier": "3",
+      "demotion": "rattle marksman",
+      "promotion": "rattle sniper",
+      "unique": "Possesses a large follow range",
+      "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
+      "equipment": [
+        {
+          "main_hand": "bow",
+          "enchantments": "power IV"
+        },
+        {
+          "helmet": "bone"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "16",
+          "movement_speed": "0.1875",
+          "mob_follow_range": "48"
+        },
+        {
+          "level": "2",
+          "max_health": "18",
+          "movement_speed": "0.1875",
+          "mob_follow_range": "48"
+        },
+        {
+          "level": "3",
+          "max_health": "20",
+          "movement_speed": "0.1875",
+          "mob_follow_range": "48"
+        }
+      ]
+    },
+    {
+      "type": "rattle sniper",
+      "tier": "4",
+      "demotion": "rattle sharpshooter",
+      "promotion": "rattle deadshot",
+      "unique": "Possesses a large follow range",
+      "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
+      "equipment": [
+        {
+          "main_hand": "bow",
+          "enchantments": "power VI"
+        },
+        {
+          "helmet": "bone"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "25",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        },
+        {
+          "level": "2",
+          "max_health": "30",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        },
+        {
+          "level": "3",
+          "max_health": "35",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        }
+      ]
+    },
+    {
+      "type": "rattle deadshot",
+      "tier": "5",
+      "demotion": "rattle sniper",
+      "unique": "Possesses a large follow range",
+      "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
+      "equipment": [
+        {
+          "main_hand": "bow"
+        },
+        {
+          "helmet": "bone"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "40",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power VIII"
+        },
+        {
+          "level": "2",
+          "max_health": "50",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power IX"
+        },
+        {
+          "level": "3",
+          "max_health": "60",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power X"
         }
       ]
     }
