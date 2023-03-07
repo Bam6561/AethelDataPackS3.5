@@ -52,10 +52,10 @@
   ],
   "skeleton": [
     {
-      "type": "rattlemarksman",
+      "type": "rattle_marksman",
       "tier": "2",
-      "promotion": "rattlesharpshooter",
-      "unique": "Posseses an extremely large follow range",
+      "promotion": "rattle_sharpshooter",
+      "unique": "Possesses a large follow range",
       "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
       "equipment": [
         {
@@ -75,16 +75,22 @@
           "max_health": "12",
           "movement_speed": "0.125",
           "mob_follow_range": "40"
+        },
+        {
+          "level": "3",
+          "max_health": "14",
+          "movement_speed": "0.125",
+          "mob_follow_range": "40"
         }
       ]
-    }
-        ,{
-      "type": "rattlesharpshooter",
+    },
+    {
+      "type": "rattle_sharpshooter",
       "tier": "3",
-      "demotion": "rattlemarksman",
-      "promotion": "rattlesniper",
-      "unique": "Posseses an extremely large follow range",
-      "description": "An experienced shooter, the lifes it has taken weigh heavily on its frail body.",
+      "demotion": "rattle_marksman",
+      "promotion": "rattle_sniper",
+      "unique": "Possesses a large follow range",
+      "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
       "equipment": [
         {
           "main_hand": "bow",
@@ -96,91 +102,89 @@
           "level": "1",
           "max_health": "16",
           "movement_speed": "0.1875",
-          "mob_follow_range": "50"
+          "mob_follow_range": "48"
         },
         {
           "level": "2",
           "max_health": "18",
           "movement_speed": "0.1875",
-          "mob_follow_range": "50"
+          "mob_follow_range": "48"
         },
         {
           "level": "3",
           "max_health": "20",
           "movement_speed": "0.1875",
-          "mob_follow_range": "40"
+          "mob_follow_range": "48"
         }
       ]
-    }
-        ,{
-          "type": "rattlesniper",
-          "tier": "4",
-          "demotion": "rattlesharpshooter",
-          "promotion": "rattleexpert",
-          "unique": "Posseses an extremely large follow range",
-          "description": "Haunted by the ghosts it has killed, this sniper kills to excape its past.",
-          "equipment": [
-            {
-              "main_hand": "bow",
-              "enchantments": "power VI"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "25",
-              "movement_speed": "0.25",
-              "mob_follow_range": "60"
-            },
-            {
-              "level": "2",
-              "max_health": "30",
-              "movement_speed": "0.25",
-              "mob_follow_range": "60"
-            },
-            {
-              "level": "3",
-              "max_health": "35",
-              "movement_speed": "0.25",
-              "mob_follow_range": "60"
-            }
-          ]
+    },
+    {
+      "type": "rattle_sniper",
+      "tier": "4",
+      "demotion": "rattle_sharpshooter",
+      "promotion": "rattle_deadshot",
+      "unique": "Possesses a large follow range",
+      "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
+      "equipment": [
+        {
+          "main_hand": "bow",
+          "enchantments": "power VI"
         }
-        
-            ,{
-              "type": "rattleexpert",
-              "tier": "5",
-              "demotion": "rattlsniper",
-              "unique": "Posseses an extremely large follow range",
-              "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
-              "equipment": [
-                {
-                  "main_hand": "bow"
-                  
-                }
-              ],
-              "levels": [
-                {
-                  "level": "1",
-                  "max_health": "40",
-                  "movement_speed": "0.3125",
-                  "mob_follow_range": "72",
-                  "enchantments": "power VIII"
-                }
-                ,{
-                  "level": "2",
-                  "max_health": "50",
-                  "movement_speed": "0.3125",
-                  "mob_follow_range": "80",
-                  "enchantments": "power IX"
-                }
-                ,{
-                  "level": "3",
-                  "max_health": "60",
-                  "movement_speed": "0.3125",
-                  "mob_follow_range": "88",
-                  "enchantments": "power X"
-                }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "25",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        },
+        {
+          "level": "2",
+          "max_health": "30",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        },
+        {
+          "level": "3",
+          "max_health": "35",
+          "movement_speed": "0.25",
+          "mob_follow_range": "56"
+        }
+      ]
+    },
+    {
+      "type": "rattle_deadshot",
+      "tier": "5",
+      "demotion": "rattle_sniper",
+      "unique": "Possesses a large follow range",
+      "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
+      "equipment": [
+        {
+          "main_hand": "bow"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "40",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power VIII"
+        },
+        {
+          "level": "2",
+          "max_health": "50",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power IX"
+        },
+        {
+          "level": "3",
+          "max_health": "60",
+          "movement_speed": "0.3125",
+          "mob_follow_range": "64",
+          "enchantments": "power X"
+        }
       ]
     }
   ],
