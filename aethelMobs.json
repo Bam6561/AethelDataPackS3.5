@@ -63,8 +63,7 @@
           "enchantments": "power II"
         },
         {
-          "helmet": "bone",
-          "enchantments": ""
+          "helmet": "bone"
         }
       ],
       "levels": [
@@ -101,8 +100,7 @@
           "enchantments": "power IV"
         },
         {
-          "helmet": "bone",
-          "enchantments": ""
+          "helmet": "bone"
         }
       ],
       "levels": [
@@ -139,8 +137,7 @@
           "enchantments": "power VI"
         },
         {
-          "helmet": "bone",
-          "enchantments": ""
+          "helmet": "bone"
         }
       ],
       "levels": [
@@ -206,8 +203,8 @@
       "type": "bon-dur",
       "tier": "1",
       "promotion": "bon-dead",
-      "unique": "Fused bones makes this skeleton less flexible, but more durable.",
-      "description": "Bon-Durs are empty headed skeletons and only know how to smash bone.",
+      "unique": "Attacks knockback targets",
+      "description": "Bon-Durs are empty headed skeletons who only know how to smash bone. Fused bones make this skeleton less flexible in exchange for more durability.",
       "equipment": [
         {
           "main_hand": "stick",
@@ -215,8 +212,7 @@
         },
         {
           "chestplate": "leather_chestplate",
-          "atributes": "white",
-          "enchantments": ""
+          "atributes": "white"
         }
       ],
       "levels": [
@@ -248,8 +244,8 @@
       "tier": "2",
       "promotion": "bon-kers",
       "demotion": "bon-dur",
-      "unique": "Fused bones makes this skeleton less flexible, but more durable.",
-      "description": "Accelerated bone growth further immobilizes this skeleton, but gives a protective shell.",
+      "unique": "Attacks knockback targets",
+      "description": "Accelerated bone growth further immobilizes this skeleton but also gives it a protective shell.",
       "equipment": [
         {
           "main_hand": "stick",
@@ -281,7 +277,6 @@
           "armor": "6",
           "movement_speed": "0.125"
         }
-
       ]
     },
     {
@@ -289,8 +284,8 @@
       "tier": "3",
       "promotion": "bon-guard",
       "demotion": "bon-dead",
-      "unique": "This skeletons fused bones have been shaddered repeatedly, creating a spiked body.",
-      "description": "In a crazed attempt to gain mobility, bon-kers have shattered their fused joints. But the Curse of Ossis never rests, re-fusing the broken shards.",
+      "unique": "Attacks knockback targets",
+      "description": "In a crazed attempt to chase their victims, bon-kers have shattered their fused joints. But their cursed body never rests, refusing the broken shards together.",
       "equipment": [
         {
           "main_hand": "bone",
@@ -298,7 +293,6 @@
         },
         {
           "chestplate": "iron_chestplate",
-          "enchantments": "thorns V"
         }
       ],
       "levels": [
@@ -330,8 +324,8 @@
       "tier": "4",
       "promotion": "bon-king",
       "demotion": "bon-kers",
-      "unique": "Fused bones makes this skeleton less flexible, but more durable.",
-      "description": "Its shattered bones have been refused, creating a mass of bone that is tormented by the hollowness of itself.",
+      "unique": "Attacks knockback targets",
+      "description": "Its shattered bones have eventually refused, creating a mass of bone that is tormented by their hollow souls.",
       "equipment": [
         {
           "main_hand": "bone",
@@ -376,11 +370,11 @@
       "type": "bon-king",
       "tier": "5",
       "demotion": "bon-guard",
-      "unique": "Fused bones makes this skeleton less flexible, but more durable.",
-      "description": "Bone surrounds its once frail body, Ossis has created unlimited bone, but no bone at all.",
+      "unique": "Attacks knockback targets",
+      "description": "The curse has completely taken over the skeleton, creating a mountain of bone to weigh down its sins.",
       "equipment": [
         {
-          "main_hand": "iron_sword",
+          "main_hand": "bone",
           "enchantments": "knockback VIII"
         },
         {
