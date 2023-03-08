@@ -52,9 +52,9 @@
   ],
   "skeleton": [
     {
-      "type": "bon-dur",
+      "type": "bonhead",
       "tier": "1",
-      "promotion": "bon-dead",
+      "promotion": "bondead",
       "unique": "Attacks knockback targets",
       "description": "Bon-Durs are empty headed skeletons who only know how to smash bone. Fused bones make this skeleton less flexible in exchange for more durability.",
       "equipment": [
@@ -95,10 +95,10 @@
       ]
     },
     {
-      "type": "bon-dead",
+      "type": "bondead",
       "tier": "2",
-      "promotion": "bon-kers",
-      "demotion": "bon-dur",
+      "demotion": "bonhead",
+      "promotion": "bonkers",
       "unique": "Attacks knockback targets",
       "description": "Accelerated bone growth further immobilizes this skeleton but also gives it a protective shell.",
       "equipment": [
@@ -138,10 +138,10 @@
       ]
     },
     {
-      "type": "bon-kers",
+      "type": "bonkers",
       "tier": "3",
-      "promotion": "bon-guard",
-      "demotion": "bon-dead",
+      "demotion": "bondead",
+      "promotion": "bonguard",
       "unique": "Attacks knockback targets",
       "description": "In a crazed attempt to chase their victims, bon-kers have shattered their fused joints. But their cursed body never rests, refusing the broken shards together.",
       "equipment": [
@@ -184,10 +184,10 @@
       ]
     },
     {
-      "type": "bon-guard",
+      "type": "bonguard",
       "tier": "4",
-      "promotion": "bon-king",
-      "demotion": "bon-kers",
+      "demotion": "bonkers",
+      "promotion": "bonking",
       "unique": "Attacks knockback targets",
       "description": "Its shattered bones have eventually refused, creating a mass of bone that is tormented by their hollow souls.",
       "equipment": [
@@ -234,9 +234,9 @@
       ]
     },
     {
-      "type": "bon-king",
+      "type": "bonking",
       "tier": "5",
-      "demotion": "bon-guard",
+      "demotion": "bonguard",
       "unique": "Attacks knockback targets",
       "description": "The curse has completely taken over the skeleton, creating a mountain of bone to weigh down its sins.",
       "equipment": [
