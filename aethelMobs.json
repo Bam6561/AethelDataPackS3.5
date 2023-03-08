@@ -292,11 +292,11 @@
       "tier": "2",
       "promotion": "rattle sharpshooter",
       "unique": "Possesses a large follow range",
-      "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
+      "description": "As a hunter in its past life, this poor soul has been corrupted in undeath to desire nothing but blood.",
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power II"
+          "enchantments": "power II, curse of vanishing"
         },
         {
           "helmet": "bone"
@@ -329,11 +329,11 @@
       "demotion": "rattle marksman",
       "promotion": "rattle sniper",
       "unique": "Possesses a large follow range",
-      "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
+      "description": "Now a more experienced shooter, it starts to etch the number of lives its taken on the bones of its lifeless body.",
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power IV"
+          "enchantments": "power IV, curse of vanishing"
         },
         {
           "helmet": "bone"
@@ -366,11 +366,11 @@
       "demotion": "rattle sharpshooter",
       "promotion": "rattle deadshot",
       "unique": "Possesses a large follow range",
-      "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
+      "description": "Haunted by constant visions of those it has killed, this sniper continues killing to drown out the screams.",
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power VI"
+          "enchantments": "power VI, curse of vanishing"
         },
         {
           "helmet": "bone"
@@ -405,7 +405,8 @@
       "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
       "equipment": [
         {
-          "main_hand": "bow"
+          "main_hand": "bow",
+          "enchantments": "curse of vanishing"
         },
         {
           "helmet": "bone"
@@ -417,21 +418,21 @@
           "max_health": "40",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power VIII"
+          "enchantments": "power XI"
         },
         {
           "level": "2",
           "max_health": "50",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power IX"
+          "enchantments": "power XIII"
         },
         {
           "level": "3",
           "max_health": "60",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power X"
+          "enchantments": "power XV"
         }
       ]
     }
