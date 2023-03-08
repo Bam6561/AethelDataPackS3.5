@@ -56,7 +56,7 @@
       "tier": "1",
       "promotion": "bondead",
       "unique": "Attacks knockback targets",
-      "description": "Bon-Durs are empty headed skeletons who only know how to smash bone. Fused bones make this skeleton less flexible in exchange for more durability.",
+      "description": "Bonheads are empty headed creatures who only know how to smash bone. Its fused bones make it less flexible in exchange for more durability.",
       "equipment": [
         {
           "main_hand": "stick",
@@ -81,15 +81,15 @@
         {
           "level": "2",
           "max_health": "12",
-          "attack_damage": "4",
-          "armor": "2",
+          "attack_damage": "3.5",
+          "armor": "1.5",
           "movement_speed": ".15"
         },
         {
           "level": "3",
           "max_health": "14",
-          "attack_damage": "5",
-          "armor": "3",
+          "attack_damage": "4",
+          "armor": "2",
           "movement_speed": ".15"
         }
       ]
@@ -100,7 +100,7 @@
       "demotion": "bonhead",
       "promotion": "bonkers",
       "unique": "Attacks knockback targets",
-      "description": "Accelerated bone growth further immobilizes this skeleton but also gives it a protective shell.",
+      "description": "Accelerated bone growth further restricts this skeleton movement but also doubles as a protective shell.",
       "equipment": [
         {
           "main_hand": "stick",
@@ -118,21 +118,21 @@
           "level": "1",
           "max_health": "18",
           "attack_damage": "6",
-          "armor": "4",
+          "armor": "3",
           "movement_speed": "0.125"
         },
         {
           "level": "2",
-          "max_health": "20",
+          "max_health": "22",
           "attack_damage": "7",
-          "armor": "5",
+          "armor": "3.5",
           "movement_speed": "0.125"
         },
         {
           "level": "3",
-          "max_health": "22",
+          "max_health": "26",
           "attack_damage": "8",
-          "armor": "6",
+          "armor": "4",
           "movement_speed": "0.125"
         }
       ]
@@ -143,7 +143,7 @@
       "demotion": "bondead",
       "promotion": "bonguard",
       "unique": "Attacks knockback targets",
-      "description": "In a crazed attempt to chase their victims, bon-kers have shattered their fused joints. But their cursed body never rests, refusing the broken shards together.",
+      "description": "In a crazed attempt to chase their victims, bonkers have shattered their fused joints.",
       "equipment": [
         {
           "main_hand": "bone",
@@ -159,27 +159,24 @@
       "levels": [
         {
           "level": "1",
-          "max_health": "18",
-          "attack_damage": "8",
+          "max_health": "30",
+          "attack_damage": "10",
           "armor": "5",
-          "movement_speed": "0.2",
-          "enchantments": "thorns V"
+          "movement_speed": "0.15"
         },
         {
           "level": "2",
-          "max_health": "20",
-          "attack_damage": "9",
-          "armor": "6",
-          "movement_speed": "0.225",
-          "enchantments": "thorns VI"
+          "max_health": "35",
+          "attack_damage": "12",
+          "armor": "5.5",
+          "movement_speed": "0.165"
         },
         {
           "level": "3",
-          "max_health": "22",
-          "attack_damage": "10",
-          "armor": "7",
-          "movement_speed": "0.25",
-          "enchantments": "thorns VII"
+          "max_health": "40",
+          "attack_damage": "14",
+          "armor": "6",
+          "movement_speed": "0.18"
         }
       ]
     },
@@ -189,15 +186,14 @@
       "demotion": "bonkers",
       "promotion": "bonking",
       "unique": "Attacks knockback targets",
-      "description": "Its shattered bones have eventually refused, creating a mass of bone that is tormented by their hollow souls.",
+      "description": "Previously shattered bones have grown back stronger, creating a mass of sporadic bone armor.",
       "equipment": [
         {
           "main_hand": "bone",
           "enchantments": "knockback VI"
         },
         {
-          "off_hand": "bone",
-          "enchantments": "knockback VI"
+          "off_hand": "bone"
         },
         {
           "helmet": "bone_block"
@@ -209,27 +205,27 @@
       "levels": [
         {
           "level": "1",
-          "max_health": "32",
-          "attack_damage": "14",
-          "armor": "10",
+          "max_health": "50",
+          "attack_damage": "17",
+          "armor": "7",
           "movement_speed": "0.1",
-          "knockback_resistance": "0.5"
+          "knockback_resistance": "0.1"
         },
         {
           "level": "2",
-          "max_health": "36",
-          "attack_damage": "16",
-          "armor": "12",
+          "max_health": "60",
+          "attack_damage": "20",
+          "armor": "8",
           "movement_speed": "0.1",
-          "knockback_resistance": "0.5"
+          "knockback_resistance": "0.1"
         },
         {
           "level": "3",
-          "max_health": "40",
-          "attack_damage": "18",
-          "armor": "14",
+          "max_health": "75",
+          "attack_damage": "24",
+          "armor": "9",
           "movement_speed": "0.1",
-          "knockback_resistance": "0.5"
+          "knockback_resistance": "0.1"
         }
       ]
     },
@@ -238,7 +234,7 @@
       "tier": "5",
       "demotion": "bonguard",
       "unique": "Attacks knockback targets",
-      "description": "The curse has completely taken over the skeleton, creating a mountain of bone to weigh down its sins.",
+      "description": "The regrowth curse has completely taken over the skeleton, creating a mobile mountain of bone.",
       "equipment": [
         {
           "main_hand": "bone",
@@ -263,25 +259,25 @@
       "levels": [
         {
           "level": "1",
-          "max_health": "70",
-          "attack_damage": "20",
-          "armor": "20",
+          "max_health": "100",
+          "attack_damage": "30",
+          "armor": "12",
           "movement_speed": "0.075",
           "knockback_resistance": "0.8"
         },
         {
           "level": "2",
-          "max_health": "80",
-          "attack_damage": "25",
-          "armor": "20",
+          "max_health": "125",
+          "attack_damage": "35",
+          "armor": "14",
           "movement_speed": "0.0625",
           "knockback_resistance": "0.9"
         },
         {
           "level": "3",
-          "max_health": "100",
-          "attack_damage": "30",
-          "armor": "20",
+          "max_health": "150",
+          "attack_damage": "40",
+          "armor": "16",
           "movement_speed": "0.05",
           "knockback_resistance": "1"
         }
@@ -296,7 +292,7 @@
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power II, curse of vanishing"
+          "enchantments": "power II"
         },
         {
           "helmet": "bone"
@@ -333,7 +329,7 @@
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power IV, curse of vanishing"
+          "enchantments": "power IV"
         },
         {
           "helmet": "bone"
@@ -370,7 +366,7 @@
       "equipment": [
         {
           "main_hand": "bow",
-          "enchantments": "power VI, curse of vanishing"
+          "enchantments": "power VI"
         },
         {
           "helmet": "bone"
@@ -405,8 +401,7 @@
       "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
       "equipment": [
         {
-          "main_hand": "bow",
-          "enchantments": "curse of vanishing"
+          "main_hand": "bow"
         },
         {
           "helmet": "bone"
