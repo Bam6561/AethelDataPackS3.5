@@ -57,7 +57,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: https://github.com/Bam6561/AethelDatapack
+Project Link: https://github.com/Bam6561/AethelDataPack
 
 ## Acknowledgements
 
