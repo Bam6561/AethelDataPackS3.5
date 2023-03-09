@@ -76,21 +76,21 @@
           "max_health": "10",
           "attack_damage": "3",
           "armor": "1",
-          "movement_speed": ".15"
+          "movement_speed": "0.2"
         },
         {
           "level": "2",
           "max_health": "12",
           "attack_damage": "3.5",
           "armor": "1.5",
-          "movement_speed": ".15"
+          "movement_speed": "0.2"
         },
         {
           "level": "3",
           "max_health": "14",
           "attack_damage": "4",
           "armor": "2",
-          "movement_speed": ".15"
+          "movement_speed": "0.2"
         }
       ]
     },
@@ -104,7 +104,7 @@
       "equipment": [
         {
           "main_hand": "stick",
-          "enchantments": "knockback IV"
+          "enchantments": "knockback III"
         },
         {
           "helmet": "bone_block"
@@ -119,21 +119,21 @@
           "max_health": "18",
           "attack_damage": "6",
           "armor": "3",
-          "movement_speed": "0.125"
+          "movement_speed": "0.175"
         },
         {
           "level": "2",
           "max_health": "22",
           "attack_damage": "7",
           "armor": "3.5",
-          "movement_speed": "0.125"
+          "movement_speed": "0.175"
         },
         {
           "level": "3",
           "max_health": "26",
           "attack_damage": "8",
           "armor": "4",
-          "movement_speed": "0.125"
+          "movement_speed": "0.175"
         }
       ]
     },
@@ -147,7 +147,7 @@
       "equipment": [
         {
           "main_hand": "bone",
-          "enchantments": "knockback V"
+          "enchantments": "knockback IV"
         },
         {
           "helmet": "bone_block"
@@ -169,14 +169,14 @@
           "max_health": "35",
           "attack_damage": "12",
           "armor": "5.5",
-          "movement_speed": "0.165"
+          "movement_speed": "0.15"
         },
         {
           "level": "3",
           "max_health": "40",
           "attack_damage": "14",
           "armor": "6",
-          "movement_speed": "0.18"
+          "movement_speed": "0.15"
         }
       ]
     },
@@ -190,7 +190,7 @@
       "equipment": [
         {
           "main_hand": "bone",
-          "enchantments": "knockback VI"
+          "enchantments": "knockback V"
         },
         {
           "off_hand": "bone"
@@ -208,24 +208,24 @@
           "max_health": "50",
           "attack_damage": "17",
           "armor": "7",
-          "movement_speed": "0.1",
-          "knockback_resistance": "0.1"
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
         },
         {
           "level": "2",
           "max_health": "60",
           "attack_damage": "20",
-          "armor": "8",
-          "movement_speed": "0.1",
-          "knockback_resistance": "0.1"
+          "armor": "7.5",
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
         },
         {
           "level": "3",
-          "max_health": "75",
+          "max_health": "65",
           "attack_damage": "24",
-          "armor": "9",
-          "movement_speed": "0.1",
-          "knockback_resistance": "0.1"
+          "armor": "8",
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
         }
       ]
     },
@@ -238,13 +238,13 @@
       "equipment": [
         {
           "main_hand": "bone",
-          "enchantments": "knockback VIII"
+          "enchantments": "knockback VI"
         },
         {
           "off-hand": "bone_block"
         },
         {
-          "helmet": "iron_helmet"
+          "helmet": "bone_block"
         },
         {
           "chestplate": "iron_chestplate"
@@ -259,26 +259,26 @@
       "levels": [
         {
           "level": "1",
-          "max_health": "100",
-          "attack_damage": "30",
-          "armor": "12",
-          "movement_speed": "0.075",
-          "knockback_resistance": "0.8"
+          "max_health": "75",
+          "attack_damage": "26",
+          "armor": "3",
+          "movement_speed": "0.1",
+          "knockback_resistance": "1"
         },
         {
           "level": "2",
-          "max_health": "125",
-          "attack_damage": "35",
-          "armor": "14",
-          "movement_speed": "0.0625",
-          "knockback_resistance": "0.9"
+          "max_health": "80",
+          "attack_damage": "28",
+          "armor": "5",
+          "movement_speed": "0.1",
+          "knockback_resistance": "1"
         },
         {
           "level": "3",
-          "max_health": "150",
-          "attack_damage": "40",
-          "armor": "16",
-          "movement_speed": "0.05",
+          "max_health": "80",
+          "attack_damage": "30",
+          "armor": "7",
+          "movement_speed": "0.1",
           "knockback_resistance": "1"
         }
       ]
