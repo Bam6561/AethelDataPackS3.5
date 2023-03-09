@@ -12,9 +12,6 @@ Minecraft datapack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDatapack/wiki/Home) for documentation on its commands.
 
-Related Resources:
-- [Aethel Resources](https://github.com/Bam6561/AethelResources)
-
 ## Setup
 
 Singleplayer
@@ -34,6 +31,23 @@ Multiplayer
 In the chat window, type "/functions" and provide one of `aethelDatapack`'s namespaces, followed by ":", and the command you wish to execute. 
 
 <img src="https://i.ibb.co/G52pLKf/aethel-Datapack-Command-Invocation.png" alt="aethel-Datapack-Command-Invocation" border="0">
+
+## About Us
+
+<a href="https://discord.gg/FzeC4aC6Tg">
+  <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
+</a>
+
+Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
+
+Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
+
+**Related Forms**
+- [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
+- [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
+
+**Related Resources** 
+- [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
 ## License
 
