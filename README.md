@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Aethel Datapack</h3>
-  <img src="https://i.ibb.co/X49nHtz/aethel-Datapack128x128.png" alt="aethel-Datapack128x128">
+  <h3>Aethel Data Pack</h3>
+  <img src="https://i.ibb.co/TWLK0tT/aethel-Data-Pack128x128.png" alt="aethel-Data-Pack128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
 
@@ -8,18 +8,18 @@
 
 ## About The Project
 
-Minecraft datapack written for Aethel SMP.
+Minecraft data pack written for Aethel SMP.
 
-See the [Wiki](https://github.com/Bam6561/AethelDatapack/wiki/Home) for documentation on its commands.
+See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its commands.
 
 ## Setup
 
 Singleplayer
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
-3. Choose the world you want to use the datapack on inside your `saves` folder. 
-4. Insert `aethelDatapack` into the world's `datapacks` folder.
-5. Launch Minecraft and enter the world the datapack was added to.
+3. Choose the world you want to use the data pack on inside your `saves` folder. 
+4. Insert `aethelDataPack` into the world's `datapacks` folder.
+5. Launch Minecraft and enter the world the data pack was added to.
 
 Multiplayer
 1. Clone the repo.
@@ -28,9 +28,9 @@ Multiplayer
 4. Follow singleplayer setup from step 4.
 
 ## Usage
-In the chat window, type "/functions" and provide one of `aethelDatapack`'s namespaces, followed by ":", and the command you wish to execute. 
+In the chat window, type "/functions" and provide one of `aethelDataPack`'s namespaces, followed by ":", and the command you wish to execute. 
 
-<img src="https://i.ibb.co/G52pLKf/aethel-Datapack-Command-Invocation.png" alt="aethel-Datapack-Command-Invocation" border="0">
+ <img src="https://i.ibb.co/F0SNPdf/aethel-Data-Pack-Command.png" alt="aethel-Data-Pack-Command">
 
 ## About Us
 
