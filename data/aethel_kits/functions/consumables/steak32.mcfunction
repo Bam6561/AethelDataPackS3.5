@@ -1,0 +1,1 @@
+give @s cooked_beef{Enchantments:[{id:"vanishing_curse",lvl:1}]} 32

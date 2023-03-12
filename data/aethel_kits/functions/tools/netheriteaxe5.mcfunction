@@ -1,0 +1,1 @@
+give @s netherite_axe{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"sharpness",lvl:5}]} 1
