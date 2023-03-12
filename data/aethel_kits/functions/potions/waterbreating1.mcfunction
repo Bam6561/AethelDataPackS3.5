@@ -1,0 +1,2 @@
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:13,Amplifier:0,Duration:12000}],display:{Name:'"Splash Potion of Water Breathing"'},Enchantments:[{id:"vanishing_curse",lvl:1}]}
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:13,Amplifier:0,Duration:12000}],display:{Name:'"Splash Potion of Water Breathing"'},Enchantments:[{id:"vanishing_curse",lvl:1}]}

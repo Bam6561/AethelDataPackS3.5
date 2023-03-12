@@ -1,0 +1,1 @@
+give @s diamond_axe{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"sharpness",lvl:3}]} 1

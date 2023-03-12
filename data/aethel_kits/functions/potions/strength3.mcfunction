@@ -1,0 +1,3 @@
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:5,Amplifier:1,Duration:1200}],display:{Name:'"Splash Potion of Strength"'},Enchantments:[{id:"vanishing_curse",lvl:1}]}
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:5,Amplifier:1,Duration:1200}],display:{Name:'"Splash Potion of Strength"'},Enchantments:[{id:"vanishing_curse",lvl:1}]}
+give @s minecraft:splash_potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:5,Amplifier:1,Duration:1200}],display:{Name:'"Splash Potion of Strength"'},Enchantments:[{id:"vanishing_curse",lvl:1}]}

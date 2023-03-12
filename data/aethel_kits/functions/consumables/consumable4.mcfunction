@@ -1,0 +1,4 @@
+function aethel_kits:consumables/golden_carrot32
+function aethel_kits:consumables/gold_apple16
+function aethel_kits:consumables/epearl16
+function aethel_kits:consumables/totem1

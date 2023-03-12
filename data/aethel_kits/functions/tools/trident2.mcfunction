@@ -1,0 +1,1 @@
+    give @s trident{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"impaling",lvl:3},{id:"loyalty",lvl:3},{id:"unbreaking",lvl:3}]} 1
