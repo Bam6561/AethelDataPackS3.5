@@ -52,11 +52,243 @@
   ],
   "skeleton": [
     {
+      "type": "bonhead",
+      "tier": "1",
+      "promotion": "bondead",
+      "unique": "Attacks knockback targets",
+      "description": "Bonheads are empty headed creatures who only know how to smash bone. Its fused bones make it less flexible in exchange for more durability.",
+      "equipment": [
+        {
+          "main_hand": "stick",
+          "enchantments": "knockback II"
+        },
+        {
+          "helmet": "bone_block"
+        },
+        {
+          "chestplate": "leather_chestplate",
+          "atributes": "white"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "10",
+          "attack_damage": "3",
+          "armor": "1",
+          "movement_speed": "0.2"
+        },
+        {
+          "level": "2",
+          "max_health": "12",
+          "attack_damage": "3.5",
+          "armor": "1.5",
+          "movement_speed": "0.2"
+        },
+        {
+          "level": "3",
+          "max_health": "14",
+          "attack_damage": "4",
+          "armor": "2",
+          "movement_speed": "0.2"
+        }
+      ]
+    },
+    {
+      "type": "bondead",
+      "tier": "2",
+      "demotion": "bonhead",
+      "promotion": "bonkers",
+      "unique": "Attacks knockback targets",
+      "description": "Accelerated bone growth further restricts this skeleton movement but also doubles as a protective shell.",
+      "equipment": [
+        {
+          "main_hand": "stick",
+          "enchantments": "knockback III"
+        },
+        {
+          "helmet": "bone_block"
+        },
+        {
+          "chestplate": "iron_chestplate"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "18",
+          "attack_damage": "6",
+          "armor": "3",
+          "movement_speed": "0.175"
+        },
+        {
+          "level": "2",
+          "max_health": "22",
+          "attack_damage": "7",
+          "armor": "3.5",
+          "movement_speed": "0.175"
+        },
+        {
+          "level": "3",
+          "max_health": "26",
+          "attack_damage": "8",
+          "armor": "4",
+          "movement_speed": "0.175"
+        }
+      ]
+    },
+    {
+      "type": "bonkers",
+      "tier": "3",
+      "demotion": "bondead",
+      "promotion": "bonguard",
+      "unique": "Attacks knockback targets",
+      "description": "In a crazed attempt to chase their victims, bonkers have shattered their fused joints.",
+      "equipment": [
+        {
+          "main_hand": "bone",
+          "enchantments": "knockback IV"
+        },
+        {
+          "helmet": "bone_block"
+        },
+        {
+          "chestplate": "iron_chestplate"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "30",
+          "attack_damage": "10",
+          "armor": "5",
+          "movement_speed": "0.15"
+        },
+        {
+          "level": "2",
+          "max_health": "35",
+          "attack_damage": "12",
+          "armor": "5.5",
+          "movement_speed": "0.15"
+        },
+        {
+          "level": "3",
+          "max_health": "40",
+          "attack_damage": "14",
+          "armor": "6",
+          "movement_speed": "0.15"
+        }
+      ]
+    },
+    {
+      "type": "bonguard",
+      "tier": "4",
+      "demotion": "bonkers",
+      "promotion": "bonking",
+      "unique": "Attacks knockback targets",
+      "description": "Previously shattered bones have grown back stronger, creating a mass of sporadic bone armor.",
+      "equipment": [
+        {
+          "main_hand": "bone",
+          "enchantments": "knockback V"
+        },
+        {
+          "off_hand": "bone"
+        },
+        {
+          "helmet": "bone_block"
+        },
+        {
+          "chestplate": "iron_chestplate"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "50",
+          "attack_damage": "17",
+          "armor": "7",
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
+        },
+        {
+          "level": "2",
+          "max_health": "60",
+          "attack_damage": "20",
+          "armor": "7.5",
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
+        },
+        {
+          "level": "3",
+          "max_health": "65",
+          "attack_damage": "24",
+          "armor": "8",
+          "movement_speed": "0.125",
+          "knockback_resistance": "0.5"
+        }
+      ]
+    },
+    {
+      "type": "bonking",
+      "tier": "5",
+      "demotion": "bonguard",
+      "unique": "Attacks knockback targets",
+      "description": "The regrowth curse has completely taken over the skeleton, creating a mobile mountain of bone.",
+      "equipment": [
+        {
+          "main_hand": "bone",
+          "enchantments": "knockback VI"
+        },
+        {
+          "off-hand": "bone_block"
+        },
+        {
+          "helmet": "bone_block"
+        },
+        {
+          "chestplate": "iron_chestplate"
+        },
+        {
+          "leggings": "iron_leggings"
+        },
+        {
+          "boots": "iron_boots"
+        }
+      ],
+      "levels": [
+        {
+          "level": "1",
+          "max_health": "75",
+          "attack_damage": "26",
+          "armor": "3",
+          "movement_speed": "0.1",
+          "knockback_resistance": "1"
+        },
+        {
+          "level": "2",
+          "max_health": "80",
+          "attack_damage": "28",
+          "armor": "5",
+          "movement_speed": "0.1",
+          "knockback_resistance": "1"
+        },
+        {
+          "level": "3",
+          "max_health": "80",
+          "attack_damage": "30",
+          "armor": "7",
+          "movement_speed": "0.1",
+          "knockback_resistance": "1"
+        }
+      ]
+    },
+    {
       "type": "rattle marksman",
       "tier": "2",
       "promotion": "rattle sharpshooter",
       "unique": "Possesses a large follow range",
-      "description": "Newly trained in the art of killing, this skeleton's empty ribcage is filled by the blood of its enemies.",
+      "description": "As a hunter in its past life, this poor soul has been corrupted in undeath to desire nothing but blood.",
       "equipment": [
         {
           "main_hand": "bow",
@@ -93,7 +325,7 @@
       "demotion": "rattle marksman",
       "promotion": "rattle sniper",
       "unique": "Possesses a large follow range",
-      "description": "An experienced shooter, the lives it has taken weigh heavily on its cold body.",
+      "description": "Now a more experienced shooter, it starts to etch the number of lives its taken on the bones of its lifeless body.",
       "equipment": [
         {
           "main_hand": "bow",
@@ -130,7 +362,7 @@
       "demotion": "rattle sharpshooter",
       "promotion": "rattle deadshot",
       "unique": "Possesses a large follow range",
-      "description": "Haunted by the ghosts it has killed, this sniper continues killing to excape its past.",
+      "description": "Haunted by constant visions of those it has killed, this sniper continues killing to drown out the screams.",
       "equipment": [
         {
           "main_hand": "bow",
@@ -181,21 +413,21 @@
           "max_health": "40",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power VIII"
+          "enchantments": "power XI"
         },
         {
           "level": "2",
           "max_health": "50",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power IX"
+          "enchantments": "power XIII"
         },
         {
           "level": "3",
           "max_health": "60",
           "movement_speed": "0.3125",
           "mob_follow_range": "64",
-          "enchantments": "power X"
+          "enchantments": "power XV"
         }
       ]
     },
