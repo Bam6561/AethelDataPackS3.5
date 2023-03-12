@@ -3,5 +3,3 @@ give @p diamond_chestplate{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbre
 give @p diamond_leggings{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"protection",lvl:1}]} 1
 give @p diamond_boots{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"protection",lvl:1}]} 1
 give @p diamond_sword{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"sharpness",lvl:1}]} 1
-give @p cooked_porkchop{Enchantments:[{id:"vanishing_curse",lvl:1}]} 32
-effect give @p speed 999999 0
