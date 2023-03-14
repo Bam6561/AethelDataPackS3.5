@@ -9,9 +9,9 @@
       "packages": [
         {
           "package": "<material>",
-          "variants": [
+          "types": [
             {
-              "name": "base",
+              "type": "base",
               "equipment": [
                 {
                   "helmet": "<material>_helmet",
@@ -32,7 +32,7 @@
               ]
             },
             {
-              "name": "prot<level>",
+              "type": "prot<level>",
               "equipment": [
                 {
                   "helmet": "<material>_helmet",
