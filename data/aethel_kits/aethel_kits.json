@@ -1,0 +1,84 @@
+{
+  "modules": [
+    {
+      "module": "",
+      "packages": []
+    },
+    {
+      "module": "armor",
+      "packages": [
+        {
+          "package": "<material>",
+          "variants": [
+            {
+              "name": "base",
+              "equipment": [
+                {
+                  "helmet": "<material>_helmet",
+                  "enchantments": "unbreaking III"
+                },
+                {
+                  "chestplate": "<material>_chestplate",
+                  "enchantments": "unbreaking III"
+                },
+                {
+                  "leggings": "<material>_leggings",
+                  "enchantments": "unbreaking III"
+                },
+                {
+                  "boots": "<material>_boots",
+                  "enchantments": "unbreaking III"
+                }
+              ]
+            },
+            {
+              "name": "prot<level>",
+              "equipment": [
+                {
+                  "helmet": "<material>_helmet",
+                  "enchantments": "protection <level>, unbreaking III"
+                },
+                {
+                  "chestplate": "<material>_chestplate",
+                  "enchantments": "protection <level>, unbreaking III"
+                },
+                {
+                  "leggings": "<material>_leggings",
+                  "enchantments": "protection <level>, unbreaking III"
+                },
+                {
+                  "boots": "<material>_boots",
+                  "enchantments": "protection <level>, unbreaking III"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module": "consumables",
+      "packages": [
+        {}
+      ]
+    },
+    {
+      "module": "kits",
+      "packages": [
+        {}
+      ]
+    },
+    {
+      "module": "potions",
+      "packages": [
+        {}
+      ]
+    },
+    {
+      "module": "tools",
+      "packages": [
+        {}
+      ]
+    }
+  ]
+}
