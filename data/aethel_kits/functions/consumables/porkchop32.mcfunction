@@ -1,1 +1,0 @@
-give @s cooked_porkchop{Enchantments:[{id:"vanishing_curse",lvl:1}]} 32

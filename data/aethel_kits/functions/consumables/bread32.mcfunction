@@ -1,1 +1,0 @@
-give @s bread{Enchantments:[{id:"vanishing_curse",lvl:1}]} 32

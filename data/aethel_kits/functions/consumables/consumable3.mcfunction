@@ -1,3 +1,0 @@
-function aethel_kits:consumables/porkchop32
-function aethel_kits:consumables/epearl16
-function aethel_kits:consumables/gold_apple16

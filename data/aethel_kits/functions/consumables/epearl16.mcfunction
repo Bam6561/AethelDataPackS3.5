@@ -1,1 +1,0 @@
-give @s ender_pearl{Enchantments:[{id:"vanishing_curse",lvl:1}]} 16

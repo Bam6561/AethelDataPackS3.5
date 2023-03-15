@@ -1,1 +1,0 @@
-give @s golden_apple{Enchantments:[{id:"vanishing_curse",lvl:1}]} 16
