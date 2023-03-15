@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "name": "",
+      "description": "",
+      "loadout": [
+        {
+          "type": "",
+          "equipment": ""
+        }
+      ]
+    },
+    {
+      "name": "Creeper Ball",
+      "description": "Creeper Ball is an event where opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
+      "loadout": [
+        {
+          "type": "generic",
+          "equipment": [
+            {
+              "main_hand": "rabbit_foot",
+              "enchantments": "knockback I"
+            },
+            {
+              "chestplate": "leather_armor",
+              "colors": [
+                {
+                  "color": "blue"
+                },
+                {
+                  "color": "red"
+                }
+              ],
+              "unique": "unbreakable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

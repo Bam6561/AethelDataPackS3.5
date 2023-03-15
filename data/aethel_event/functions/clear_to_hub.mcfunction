@@ -1,2 +1,2 @@
-function aethel_general:full_clear
+clear @s
 function aethel_event:return_to_hub
