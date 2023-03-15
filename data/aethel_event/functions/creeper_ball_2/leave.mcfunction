@@ -1,0 +1,2 @@
+function aethel_general:full_clear
+function aethel_event:generic/return_to_hub
