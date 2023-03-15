@@ -1,83 +1,39 @@
 {
-  "modules": [
+  "events": [
     {
-      "module": "",
-      "packages": []
-    },
-    {
-      "module": "armor",
-      "packages": [
+      "event": "",
+      "loadouts": [
         {
-          "package": "<material>",
-          "types": [
-            {
-              "type": "base",
-              "equipment": [
-                {
-                  "helmet": "<material>_helmet",
-                  "enchantments": "unbreaking III"
-                },
-                {
-                  "chestplate": "<material>_chestplate",
-                  "enchantments": "unbreaking III"
-                },
-                {
-                  "leggings": "<material>_leggings",
-                  "enchantments": "unbreaking III"
-                },
-                {
-                  "boots": "<material>_boots",
-                  "enchantments": "unbreaking III"
-                }
-              ]
-            },
-            {
-              "type": "prot<level>",
-              "equipment": [
-                {
-                  "helmet": "<material>_helmet",
-                  "enchantments": "protection <level>, unbreaking III"
-                },
-                {
-                  "chestplate": "<material>_chestplate",
-                  "enchantments": "protection <level>, unbreaking III"
-                },
-                {
-                  "leggings": "<material>_leggings",
-                  "enchantments": "protection <level>, unbreaking III"
-                },
-                {
-                  "boots": "<material>_boots",
-                  "enchantments": "protection <level>, unbreaking III"
-                }
-              ]
-            }
-          ]
+          "loadout": "",
+          "items": []
         }
       ]
     },
     {
-      "module": "consumables",
-      "packages": [
-        {}
+      "event": "Creeper Ball II",
+      "loadouts": [
+        {
+          "loadout": "",
+          "items": []
+        }
       ]
     },
     {
-      "module": "kits",
-      "packages": [
-        {}
+      "event": "Capture the Queen",
+      "loadouts": [
+        {
+          "loadout": "",
+          "items": []
+        }
       ]
     },
     {
-      "module": "potions",
-      "packages": [
-        {}
-      ]
-    },
-    {
-      "module": "tools",
-      "packages": [
-        {}
+      "event": "Deathmatch",
+      "loadouts": [
+        {
+          "loadout": "",
+          "items": []
+        }
       ]
     }
   ]

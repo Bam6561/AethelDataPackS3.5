@@ -1,1 +1,0 @@
-give @s shield{Enchantments:[{id:"vanishing_curse",lvl:1}]} 1

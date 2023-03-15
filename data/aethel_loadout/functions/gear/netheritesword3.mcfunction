@@ -1,1 +1,0 @@
-give @s netherite_sword{Enchantments:[{id:"vanishing_curse",lvl:1},{id:"unbreaking",lvl:3},{id:"sharpness",lvl:4},{id:"fire_aspect",lvl:1},{id:"knockback",lvl:1}]} 1
