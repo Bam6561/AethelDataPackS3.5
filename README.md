@@ -10,7 +10,7 @@
 
 Minecraft data pack written for Aethel SMP.
 
-See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its commands.
+See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its functions and data packages.
 
 ## Setup
 
@@ -28,7 +28,9 @@ Multiplayer
 4. Follow singleplayer setup from step 4.
 
 ## Usage
-In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the command you wish to execute. 
+**Functions**
+
+In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the function you wish to execute.
 
 <img src="https://i.ibb.co/3pHzMyj/aethel-Data-Pack-Command.png" alt="aethel-Data-Pack-Command">
 
@@ -37,6 +39,8 @@ In the chat window, type "/functions" and provide one of `AethelDataPack`'s name
 <a href="https://discord.gg/FzeC4aC6Tg">
   <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
 </a>
+
+**Realm of Aethel**
 
 Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
 
