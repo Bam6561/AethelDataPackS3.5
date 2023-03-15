@@ -18,7 +18,7 @@ Singleplayer
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
 3. Choose the world you want to use the data pack on inside your `saves` folder. 
-4. Insert `aethelDataPack` into the world's `datapacks` folder.
+4. Insert `AethelDataPack` into the world's `datapacks` folder.
 5. Launch Minecraft and enter the world the data pack was added to.
 
 Multiplayer
@@ -28,7 +28,7 @@ Multiplayer
 4. Follow singleplayer setup from step 4.
 
 ## Usage
-In the chat window, type "/functions" and provide one of `aethelDataPack`'s namespaces, followed by ":", and the command you wish to execute. 
+In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the command you wish to execute. 
 
 <img src="https://i.ibb.co/3pHzMyj/aethel-Data-Pack-Command.png" alt="aethel-Data-Pack-Command">
 
