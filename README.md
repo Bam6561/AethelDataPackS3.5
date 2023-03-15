@@ -30,7 +30,7 @@ Multiplayer
 ## Usage
 **Functions**
 
-In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the filepath of the function you wish to execute.
+In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the file path of the function you wish to execute.
 
 <img src="https://i.ibb.co/3pHzMyj/aethel-Data-Pack-Command.png" alt="aethel-Data-Pack-Command">
 
