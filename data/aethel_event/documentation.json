@@ -12,7 +12,7 @@
     },
     {
       "name": "Creeper Ball",
-      "description": "Creeper Ball is an event where opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
+      "description": "Opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
       "loadout": [
         {
           "type": "generic",
@@ -36,6 +36,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Parkour",
+      "description": "Players jump between blocks to achieve the fastest times on the course."
     }
   ]
 }
