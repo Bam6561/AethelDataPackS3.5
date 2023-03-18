@@ -1,37 +1,82 @@
 {
   "events": [
     {
-      "name": "",
+      "event": "",
       "description": "",
-      "loadout": [
+      "loadouts": [
         {
-          "type": "",
-          "equipment": ""
+          "loadout": "",
+          "equipment": [
+            {}
+          ]
         }
       ]
     },
     {
-      "name": "Creeper Ball",
+      "event": "Creeperball",
       "description": "Opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
-      "loadout": [
+      "maps": [
         {
-          "type": "generic",
-          "equipment": [
+          "map": "Stadium",
+          "loadouts": [
             {
-              "main_hand": "rabbit_foot",
-              "enchantments": "knockback I"
-            },
-            {
-              "chestplate": "leather_armor",
-              "colors": [
+              "loadout": "generic",
+              "equipment": [
                 {
-                  "color": "blue"
+                  "main_hand": "rabbit_foot",
+                  "enchantments": "knockback I"
                 },
                 {
-                  "color": "red"
+                  "chestplate": "leather_armor",
+                  "colors": [
+                    {
+                      "color": "blue"
+                    },
+                    {
+                      "color": "red"
+                    }
+                  ],
+                  "unique": "unbreakable"
                 }
-              ],
-              "unique": "unbreakable"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "event": "Hide & Seek",
+      "description": "Hiders hide from Seekers for as long as possible.",
+      "maps": [
+        {
+          "map": "Townhouses",
+          "loadouts": [
+            {
+              "loadout": "Hider",
+              "equipment": [
+                {
+                  "inventory": "Potion of Invisibility",
+                  "duration": "8s"
+                },
+                {
+                  "inventory": "Splash Stun Potion (3s)",
+                  "effects": "Jump Boost 129, Slowness 255",
+                  "duration": "3s"
+                }
+              ]
+            },
+            {
+              "loadout": "Seeker",
+              "equipment": [
+                {
+                  "boots": "leather_boots",
+                  "attributes": [
+                    {
+                      "movement_speed": "+0.07"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -39,7 +84,12 @@
     },
     {
       "name": "Parkour",
-      "description": "Players jump between blocks to achieve the fastest times on the course."
+      "description": "Players jump between blocks to achieve the fastest times on the course.",
+      "maps": [
+        {
+          "map": "Elements"
+        }
+      ]
     }
   ]
 }
