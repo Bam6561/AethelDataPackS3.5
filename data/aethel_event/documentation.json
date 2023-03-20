@@ -3,11 +3,26 @@
     {
       "event": "",
       "description": "",
-      "loadouts": [
+      "maps": [
         {
-          "loadout": "",
-          "equipment": [
-            {}
+          "map": "",
+          "objectives": [
+            {
+              "objective": ""
+            }
+          ],
+          "teams": [
+            {
+              "team": ""
+            }
+          ],
+          "loadouts": [
+            {
+              "loadout": "",
+              "equipment": [
+                {}
+              ]
+            }
           ]
         }
       ]
@@ -18,6 +33,7 @@
       "maps": [
         {
           "map": "Stadium",
+          "objective": "CreeperballStadium",
           "loadouts": [
             {
               "loadout": "generic",
@@ -45,11 +61,21 @@
       ]
     },
     {
-      "event": "Hide & Seek",
+      "event": "Hide and Seek",
       "description": "Hiders hide from Seekers for as long as possible.",
       "maps": [
         {
-          "map": "Townhouses",
+          "map": "Headwater",
+          "teams": [
+            {
+              "team": "Hider",
+              "name_tag_visibility": "Hide for other teams"
+            },
+            {
+              "team": "Seeker",
+              "color": "Gold"
+            }
+          ],
           "loadouts": [
             {
               "loadout": "Hider",
