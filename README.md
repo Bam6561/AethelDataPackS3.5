@@ -30,13 +30,13 @@ Multiplayer
 ## Usage
 **Functions** `/function namespace:file_path/command`
 
-<img src="https://i.ibb.co/bR46nPQ/aethel-Data-Pack-Function-Example.png" alt="aethel-Data-Pack-Function-Example">
-
 **Predicates** `@<target_selector>[predicate=namespace:filepath/predicate]`
 
-<img src="https://i.ibb.co/9q6DkK9/aethel-data-pack-predicate-example.jpg" alt="aethel-data-pack-predicate-example">
-
 **Tags** `@<target_selector>[type=#namespace:entity_type]`
+
+<img src="https://i.ibb.co/bR46nPQ/aethel-Data-Pack-Function-Example.png" alt="aethel-Data-Pack-Function-Example">
+
+<img src="https://i.ibb.co/9q6DkK9/aethel-data-pack-predicate-example.jpg" alt="aethel-data-pack-predicate-example">
 
 <img src="https://i.ibb.co/3kxy4sy/aethel-data-pack-entity-type-example.jpg" alt="aethel-data-pack-entity-type-example">
 
