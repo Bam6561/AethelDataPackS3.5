@@ -1,6 +1,5 @@
 {
 	"values": [
-		"aethel_mob:load",
 		"aethel_event:load"
 	]
 }

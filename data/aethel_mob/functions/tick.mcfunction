@@ -1,0 +1,1 @@
+function aethel_mob:zombie/standard/buff
