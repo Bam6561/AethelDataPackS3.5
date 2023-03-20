@@ -113,7 +113,8 @@
       "description": "Players jump between blocks to achieve the fastest times on the course.",
       "maps": [
         {
-          "map": "Elements"
+          "map": "Elements",
+          "objective": "ParkourElements"
         }
       ]
     }

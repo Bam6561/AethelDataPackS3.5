@@ -1,777 +1,815 @@
 {
-  "entity": [
+  "entities": [
     {
-      "lineage": "",
-      "types": [
+      "entity": [
         {
-          "type": "",
-          "tier": "",
-          "demotion": "",
-          "promotion": "",
-          "unique": "",
-          "description": "",
-          "equipment": [
+          "lineage": "",
+          "types": [
             {
-              "main_hand": "",
-              "enchantments": ""
-            },
-            {
-              "off_hand": "",
-              "enchantments": ""
-            },
-            {
-              "helmet": "",
-              "enchantments": ""
-            },
-            {
-              "chestplate": "",
-              "enchantments": ""
-            },
-            {
-              "leggings": "",
-              "enchantments": ""
-            },
-            {
-              "boots": "",
-              "enchantments": ""
+              "type": "",
+              "tier": "",
+              "demotion": "",
+              "promotion": "",
+              "unique": "",
+              "description": "",
+              "equipment": [
+                {
+                  "main_hand": "",
+                  "enchantments": ""
+                },
+                {
+                  "off_hand": "",
+                  "enchantments": ""
+                },
+                {
+                  "helmet": "",
+                  "enchantments": ""
+                },
+                {
+                  "chestplate": "",
+                  "enchantments": ""
+                },
+                {
+                  "leggings": "",
+                  "enchantments": ""
+                },
+                {
+                  "boots": "",
+                  "enchantments": ""
+                }
+              ],
+              "levels": [
+                {
+                  "level": "",
+                  "max_health": "",
+                  "attack_damage": "",
+                  "attack_knockback": "",
+                  "armor": "",
+                  "armor_toughness": "",
+                  "knockback_resistance": "",
+                  "movement_speed": ""
+                }
+              ]
             }
-          ],
-          "levels": [
+          ]
+        }
+      ],
+      "skeleton": [
+        {
+          "lineage": "Bon",
+          "types": [
             {
-              "level": "",
-              "max_health": "",
-              "attack_damage": "",
-              "attack_knockback": "",
-              "armor": "",
-              "armor_toughness": "",
-              "knockback_resistance": "",
-              "movement_speed": ""
+              "type": "Bonhead",
+              "tier": "1",
+              "promotion": "Bondead",
+              "unique": "Attacks knockback targets",
+              "description": "Bonheads are empty headed creatures who only know how to smash bone. Its fused bones make it less flexible in exchange for more durability.",
+              "equipment": [
+                {
+                  "main_hand": "stick",
+                  "enchantments": "knockback II"
+                },
+                {
+                  "helmet": "bone_block"
+                },
+                {
+                  "chestplate": "leather_chestplate",
+                  "atributes": "white"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "10",
+                  "attack_damage": "3",
+                  "armor": "1",
+                  "movement_speed": "0.2"
+                },
+                {
+                  "level": "2",
+                  "max_health": "12",
+                  "attack_damage": "3.5",
+                  "armor": "1.5",
+                  "movement_speed": "0.2"
+                },
+                {
+                  "level": "3",
+                  "max_health": "14",
+                  "attack_damage": "4",
+                  "armor": "2",
+                  "movement_speed": "0.2"
+                }
+              ]
+            },
+            {
+              "type": "Bondead",
+              "tier": "2",
+              "demotion": "Bonhead",
+              "promotion": "Bonkers",
+              "unique": "Attacks knockback targets",
+              "description": "Accelerated bone growth further restricts this skeleton movement but also doubles as a protective shell.",
+              "equipment": [
+                {
+                  "main_hand": "stick",
+                  "enchantments": "knockback III"
+                },
+                {
+                  "helmet": "bone_block"
+                },
+                {
+                  "chestplate": "iron_chestplate"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "18",
+                  "attack_damage": "6",
+                  "armor": "3",
+                  "movement_speed": "0.175"
+                },
+                {
+                  "level": "2",
+                  "max_health": "22",
+                  "attack_damage": "7",
+                  "armor": "3.5",
+                  "movement_speed": "0.175"
+                },
+                {
+                  "level": "3",
+                  "max_health": "26",
+                  "attack_damage": "8",
+                  "armor": "4",
+                  "movement_speed": "0.175"
+                }
+              ]
+            },
+            {
+              "type": "Bonkers",
+              "tier": "3",
+              "demotion": "Bondead",
+              "promotion": "Bonguard",
+              "unique": "Attacks knockback targets",
+              "description": "In a crazed attempt to chase their victims, bonkers have shattered their fused joints.",
+              "equipment": [
+                {
+                  "main_hand": "bone",
+                  "enchantments": "knockback IV"
+                },
+                {
+                  "helmet": "bone_block"
+                },
+                {
+                  "chestplate": "iron_chestplate"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "30",
+                  "attack_damage": "10",
+                  "armor": "5",
+                  "movement_speed": "0.15"
+                },
+                {
+                  "level": "2",
+                  "max_health": "35",
+                  "attack_damage": "12",
+                  "armor": "5.5",
+                  "movement_speed": "0.15"
+                },
+                {
+                  "level": "3",
+                  "max_health": "40",
+                  "attack_damage": "14",
+                  "armor": "6",
+                  "movement_speed": "0.15"
+                }
+              ]
+            },
+            {
+              "type": "Bonguard",
+              "tier": "4",
+              "demotion": "Bonkers",
+              "promotion": "Bonking",
+              "unique": "Attacks knockback targets",
+              "description": "Previously shattered bones have grown back stronger, creating a mass of sporadic bone armor.",
+              "equipment": [
+                {
+                  "main_hand": "bone",
+                  "enchantments": "knockback V"
+                },
+                {
+                  "off_hand": "bone"
+                },
+                {
+                  "helmet": "bone_block"
+                },
+                {
+                  "chestplate": "iron_chestplate"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "50",
+                  "attack_damage": "17",
+                  "armor": "7",
+                  "movement_speed": "0.125",
+                  "knockback_resistance": "0.5"
+                },
+                {
+                  "level": "2",
+                  "max_health": "60",
+                  "attack_damage": "20",
+                  "armor": "7.5",
+                  "movement_speed": "0.125",
+                  "knockback_resistance": "0.5"
+                },
+                {
+                  "level": "3",
+                  "max_health": "65",
+                  "attack_damage": "24",
+                  "armor": "8",
+                  "movement_speed": "0.125",
+                  "knockback_resistance": "0.5"
+                }
+              ]
+            },
+            {
+              "type": "Bonking",
+              "tier": "5",
+              "demotion": "Bonguard",
+              "unique": "Attacks knockback targets",
+              "description": "The regrowth curse has completely taken over the skeleton, creating a mobile mountain of bone.",
+              "equipment": [
+                {
+                  "main_hand": "bone",
+                  "enchantments": "knockback VI"
+                },
+                {
+                  "off-hand": "bone_block"
+                },
+                {
+                  "helmet": "bone_block"
+                },
+                {
+                  "chestplate": "iron_chestplate"
+                },
+                {
+                  "leggings": "iron_leggings"
+                },
+                {
+                  "boots": "iron_boots"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "75",
+                  "attack_damage": "26",
+                  "armor": "3",
+                  "movement_speed": "0.1",
+                  "knockback_resistance": "1"
+                },
+                {
+                  "level": "2",
+                  "max_health": "80",
+                  "attack_damage": "28",
+                  "armor": "5",
+                  "movement_speed": "0.1",
+                  "knockback_resistance": "1"
+                },
+                {
+                  "level": "3",
+                  "max_health": "80",
+                  "attack_damage": "30",
+                  "armor": "7",
+                  "movement_speed": "0.1",
+                  "knockback_resistance": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lineage": "Rattle",
+          "types": [
+            {
+              "type": "Rattle Marksman",
+              "tier": "2",
+              "promotion": "Rattle Sharpshooter",
+              "unique": "Possesses a large follow range",
+              "description": "As a hunter in its past life, this poor soul has been corrupted in undeath to desire nothing but blood.",
+              "equipment": [
+                {
+                  "main_hand": "bow",
+                  "enchantments": "power II"
+                },
+                {
+                  "helmet": "bone"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "10",
+                  "movement_speed": "0.125",
+                  "mob_follow_range": "40"
+                },
+                {
+                  "level": "2",
+                  "max_health": "12",
+                  "movement_speed": "0.125",
+                  "mob_follow_range": "40"
+                },
+                {
+                  "level": "3",
+                  "max_health": "14",
+                  "movement_speed": "0.125",
+                  "mob_follow_range": "40"
+                }
+              ]
+            },
+            {
+              "type": "Rattle Sharpshooter",
+              "tier": "3",
+              "demotion": "Rattle Marksman",
+              "promotion": "Rattle Sniper",
+              "unique": "Possesses a large follow range",
+              "description": "Now a more experienced shooter, it starts to etch the number of lives its taken on the bones of its lifeless body.",
+              "equipment": [
+                {
+                  "main_hand": "bow",
+                  "enchantments": "power IV"
+                },
+                {
+                  "helmet": "bone"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "17",
+                  "movement_speed": "0.1875",
+                  "mob_follow_range": "48"
+                },
+                {
+                  "level": "2",
+                  "max_health": "20",
+                  "movement_speed": "0.1875",
+                  "mob_follow_range": "48"
+                },
+                {
+                  "level": "3",
+                  "max_health": "23",
+                  "movement_speed": "0.1875",
+                  "mob_follow_range": "48"
+                }
+              ]
+            },
+            {
+              "type": "Rattle Sniper",
+              "tier": "4",
+              "demotion": "Rattle Sharpshooter",
+              "promotion": "Rattle Deadshot",
+              "unique": "Possesses a large follow range",
+              "description": "Haunted by constant visions of those it has killed, this sniper continues killing to drown out the screams.",
+              "equipment": [
+                {
+                  "main_hand": "bow",
+                  "enchantments": "power VI"
+                },
+                {
+                  "helmet": "bone"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "26",
+                  "movement_speed": "0.25",
+                  "mob_follow_range": "56"
+                },
+                {
+                  "level": "2",
+                  "max_health": "30",
+                  "movement_speed": "0.25",
+                  "mob_follow_range": "56"
+                },
+                {
+                  "level": "3",
+                  "max_health": "34",
+                  "movement_speed": "0.25",
+                  "mob_follow_range": "56"
+                }
+              ]
+            },
+            {
+              "type": "Rattle Deadshot",
+              "tier": "5",
+              "demotion": "Rattle Sniper",
+              "unique": "Possesses a large follow range",
+              "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
+              "equipment": [
+                {
+                  "main_hand": "bow"
+                },
+                {
+                  "helmet": "bone"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "40",
+                  "movement_speed": "0.3125",
+                  "mob_follow_range": "64",
+                  "main_hand_enchantments": "power XI"
+                },
+                {
+                  "level": "2",
+                  "max_health": "45",
+                  "movement_speed": "0.3125",
+                  "mob_follow_range": "64",
+                  "main_hand_enchantments": "power XIII"
+                },
+                {
+                  "level": "3",
+                  "max_health": "50",
+                  "movement_speed": "0.3125",
+                  "mob_follow_range": "64",
+                  "main_hand_enchantments": "power XV"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "zombie": [
+        {
+          "lineage": "Standard",
+          "types": [
+            {
+              "type": "Standard Mule",
+              "tier": "1",
+              "promotion": "Standard Bearer",
+              "unique": "Buffs friendly units with resistance",
+              "description": "As pathetic as Mules are, having an abundance of them on hand is essential to the logistics of any properly organized incursion.",
+              "equipment": [
+                {
+                  "helmet": "black_banner"
+                },
+                {
+                  "main_hand": "chest",
+                  "enchantments": "knockback I"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "6",
+                  "attack_damage": "0.5",
+                  "knockback_resistance": "0.1",
+                  "movement_speed": "0.184"
+                },
+                {
+                  "level": "2",
+                  "max_health": "8",
+                  "attack_damage": "0.75",
+                  "knockback_resistance": "0.1",
+                  "movement_speed": "0.184"
+                },
+                {
+                  "level": "3",
+                  "max_health": "10",
+                  "attack_damage": "1",
+                  "knockback_resistance": "0.1",
+                  "movement_speed": "0.184"
+                }
+              ]
+            },
+            {
+              "type": "Standard Bearer",
+              "tier": "2",
+              "demotion:": "Standard Mule",
+              "promotion": "Standard Captain",
+              "unique": "Buffs friendly units with resistance",
+              "description": "Having grown acustomed to the weight of the luggage, Bearers begin to understand their vital role in the collective.",
+              "equipment": [
+                {
+                  "helmet": "black_banner"
+                },
+                {
+                  "main_hand": "chest",
+                  "enchantments": "knockback I"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "14",
+                  "attack_damage": "2",
+                  "knockback_resistance": "0.25",
+                  "movement_speed": "0.207"
+                },
+                {
+                  "level": "2",
+                  "max_health": "18",
+                  "attack_damage": "2.75",
+                  "knockback_resistance": "0.25",
+                  "movement_speed": "0.207"
+                },
+                {
+                  "level": "3",
+                  "max_health": "22",
+                  "attack_damage": "3.5",
+                  "knockback_resistance": "0.25",
+                  "movement_speed": "0.207"
+                }
+              ]
+            },
+            {
+              "type": "Standard Captain",
+              "tier": "3",
+              "demotion:": "Standard Bearer",
+              "promotion": "Standard Major",
+              "unique": "Buffs friendly units with resistance II",
+              "description": "Properly respected by its fellow zombies, the captain ties together otherwise roaming bands of senseless raiders into a band of brothers.",
+              "equipment": [
+                {
+                  "helmet": "black_banner"
+                },
+                {
+                  "main_hand": "chest",
+                  "enchantments": "knockback II"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "25",
+                  "attack_damage": "4.5",
+                  "knockback_resistance": "0.5"
+                },
+                {
+                  "level": "2",
+                  "max_health": "30",
+                  "attack_damage": "6",
+                  "knockback_resistance": "0.5"
+                },
+                {
+                  "level": "3",
+                  "max_health": "35",
+                  "attack_damage": "7.5",
+                  "knockback_resistance": "0.5"
+                }
+              ]
+            },
+            {
+              "type": "Standard Major",
+              "tier": "4",
+              "demotion:": "Standard Captain",
+              "unique": "Buffs friendly units with resistance II",
+              "description": "Majors take pride in their supervision over the green tide and charge into battle to inspire their fellow zombies.",
+              "equipment": [
+                {
+                  "helmet": "black_banner"
+                },
+                {
+                  "main_hand": "chest",
+                  "enchantments": "knockback II"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "42",
+                  "attack_damage": "9",
+                  "knockback_resistance": "0.85",
+                  "movement_speed": "0.253"
+                },
+                {
+                  "level": "2",
+                  "max_health": "49",
+                  "attack_damage": "10",
+                  "knockback_resistance": "0.85",
+                  "movement_speed": "0.253"
+                },
+                {
+                  "level": "3",
+                  "max_health": "56",
+                  "attack_damage": "11",
+                  "knockback_resistance": "0.85",
+                  "movement_speed": "0.253"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lineage": "Rot",
+          "types": [
+            {
+              "type": "Rotghoul",
+              "tier": "1",
+              "promotion": "Rotfiend",
+              "unique": "Can spawn in packs",
+              "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
+              "equipment": [
+                {
+                  "helmet": "feather"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "4",
+                  "attack_damage": "1",
+                  "movement_speed": "0.276"
+                },
+                {
+                  "level": "2",
+                  "max_health": "5",
+                  "attack_damage": "1.5",
+                  "movement_speed": "0.276"
+                },
+                {
+                  "level": "3",
+                  "max_health": "6",
+                  "attack_damage": "2",
+                  "movement_speed": "0.276"
+                }
+              ]
+            },
+            {
+              "type": "Rotfiend",
+              "tier": "2",
+              "demotion": "Rotghoul",
+              "promotion": "Rothaunt",
+              "unique": "Can spawn in packs",
+              "description": "After consuming enough mass, Rotghouls start to rebuild muscles necessary to hunt down near-death prey.",
+              "equipment": [
+                {
+                  "helmet": "feather"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "8",
+                  "attack_damage": "2.5",
+                  "movement_speed": "0.345"
+                },
+                {
+                  "level": "2",
+                  "max_health": "10",
+                  "attack_damage": "3",
+                  "movement_speed": "0.345"
+                },
+                {
+                  "level": "3",
+                  "max_health": "12",
+                  "attack_damage": "3.5",
+                  "movement_speed": "0.345"
+                }
+              ]
+            },
+            {
+              "type": "Rothaunt",
+              "tier": "3",
+              "demotion": "Rotfiend",
+              "promotion": "Rothound",
+              "unique": "Can spawn in packs",
+              "description": "Driven into a ravenous frenzy at the smell of flesh, Rothaunts are known to pounce upon nearby unwary travelers.",
+              "equipment": [
+                {
+                  "helmet": "feather"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "14",
+                  "attack_damage": "4.5",
+                  "movement_speed": "0.4025"
+                },
+                {
+                  "level": "2",
+                  "max_health": "17",
+                  "attack_damage": "5.5",
+                  "movement_speed": "0.4025"
+                },
+                {
+                  "level": "3",
+                  "max_health": "20",
+                  "attack_damage": "6.5",
+                  "movement_speed": "0.4025"
+                }
+              ]
+            },
+            {
+              "type": "Rothound",
+              "tier": "4",
+              "demotion": "Rothaunt",
+              "promotion": "Rotraven",
+              "unique": "Can spawn in packs",
+              "description": "Reverting back to its primal senses, the Rothound loses a sense of itself and becomes one with its pack.",
+              "equipment": [
+                {
+                  "helmet": "feather"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "24",
+                  "attack_damage": "8",
+                  "movement_speed": "0.46"
+                },
+                {
+                  "level": "2",
+                  "max_health": "28",
+                  "attack_damage": "9.5",
+                  "movement_speed": "0.46"
+                },
+                {
+                  "level": "3",
+                  "max_health": "32",
+                  "attack_damage": "11",
+                  "movement_speed": "0.46"
+                }
+              ]
+            },
+            {
+              "type": "Rotraven",
+              "tier": "5",
+              "demotion": "Rothound",
+              "unique": "Can spawn in packs",
+              "description": "Rotravens gather in flocks to deliver death en-masse.",
+              "equipment": [
+                {
+                  "helmet": "feather"
+                }
+              ],
+              "levels": [
+                {
+                  "level": "1",
+                  "max_health": "37",
+                  "attack_damage": "12",
+                  "movement_speed": "0.5175"
+                },
+                {
+                  "level": "2",
+                  "max_health": "42",
+                  "attack_damage": "13",
+                  "movement_speed": "0.5175"
+                },
+                {
+                  "level": "3",
+                  "max_health": "48",
+                  "attack_damage": "15",
+                  "movement_speed": "0.5175"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "skeleton": [
+  "entity types": [
     {
-      "lineage": "Bon",
-      "types": [
-        {
-          "type": "Bonhead",
-          "tier": "1",
-          "promotion": "Bondead",
-          "unique": "Attacks knockback targets",
-          "description": "Bonheads are empty headed creatures who only know how to smash bone. Its fused bones make it less flexible in exchange for more durability.",
-          "equipment": [
-            {
-              "main_hand": "stick",
-              "enchantments": "knockback II"
-            },
-            {
-              "helmet": "bone_block"
-            },
-            {
-              "chestplate": "leather_chestplate",
-              "atributes": "white"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "10",
-              "attack_damage": "3",
-              "armor": "1",
-              "movement_speed": "0.2"
-            },
-            {
-              "level": "2",
-              "max_health": "12",
-              "attack_damage": "3.5",
-              "armor": "1.5",
-              "movement_speed": "0.2"
-            },
-            {
-              "level": "3",
-              "max_health": "14",
-              "attack_damage": "4",
-              "armor": "2",
-              "movement_speed": "0.2"
-            }
-          ]
-        },
-        {
-          "type": "Bondead",
-          "tier": "2",
-          "demotion": "Bonhead",
-          "promotion": "Bonkers",
-          "unique": "Attacks knockback targets",
-          "description": "Accelerated bone growth further restricts this skeleton movement but also doubles as a protective shell.",
-          "equipment": [
-            {
-              "main_hand": "stick",
-              "enchantments": "knockback III"
-            },
-            {
-              "helmet": "bone_block"
-            },
-            {
-              "chestplate": "iron_chestplate"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "18",
-              "attack_damage": "6",
-              "armor": "3",
-              "movement_speed": "0.175"
-            },
-            {
-              "level": "2",
-              "max_health": "22",
-              "attack_damage": "7",
-              "armor": "3.5",
-              "movement_speed": "0.175"
-            },
-            {
-              "level": "3",
-              "max_health": "26",
-              "attack_damage": "8",
-              "armor": "4",
-              "movement_speed": "0.175"
-            }
-          ]
-        },
-        {
-          "type": "Bonkers",
-          "tier": "3",
-          "demotion": "Bondead",
-          "promotion": "Bonguard",
-          "unique": "Attacks knockback targets",
-          "description": "In a crazed attempt to chase their victims, bonkers have shattered their fused joints.",
-          "equipment": [
-            {
-              "main_hand": "bone",
-              "enchantments": "knockback IV"
-            },
-            {
-              "helmet": "bone_block"
-            },
-            {
-              "chestplate": "iron_chestplate"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "30",
-              "attack_damage": "10",
-              "armor": "5",
-              "movement_speed": "0.15"
-            },
-            {
-              "level": "2",
-              "max_health": "35",
-              "attack_damage": "12",
-              "armor": "5.5",
-              "movement_speed": "0.15"
-            },
-            {
-              "level": "3",
-              "max_health": "40",
-              "attack_damage": "14",
-              "armor": "6",
-              "movement_speed": "0.15"
-            }
-          ]
-        },
-        {
-          "type": "Bonguard",
-          "tier": "4",
-          "demotion": "Bonkers",
-          "promotion": "Bonking",
-          "unique": "Attacks knockback targets",
-          "description": "Previously shattered bones have grown back stronger, creating a mass of sporadic bone armor.",
-          "equipment": [
-            {
-              "main_hand": "bone",
-              "enchantments": "knockback V"
-            },
-            {
-              "off_hand": "bone"
-            },
-            {
-              "helmet": "bone_block"
-            },
-            {
-              "chestplate": "iron_chestplate"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "50",
-              "attack_damage": "17",
-              "armor": "7",
-              "movement_speed": "0.125",
-              "knockback_resistance": "0.5"
-            },
-            {
-              "level": "2",
-              "max_health": "60",
-              "attack_damage": "20",
-              "armor": "7.5",
-              "movement_speed": "0.125",
-              "knockback_resistance": "0.5"
-            },
-            {
-              "level": "3",
-              "max_health": "65",
-              "attack_damage": "24",
-              "armor": "8",
-              "movement_speed": "0.125",
-              "knockback_resistance": "0.5"
-            }
-          ]
-        },
-        {
-          "type": "Bonking",
-          "tier": "5",
-          "demotion": "Bonguard",
-          "unique": "Attacks knockback targets",
-          "description": "The regrowth curse has completely taken over the skeleton, creating a mobile mountain of bone.",
-          "equipment": [
-            {
-              "main_hand": "bone",
-              "enchantments": "knockback VI"
-            },
-            {
-              "off-hand": "bone_block"
-            },
-            {
-              "helmet": "bone_block"
-            },
-            {
-              "chestplate": "iron_chestplate"
-            },
-            {
-              "leggings": "iron_leggings"
-            },
-            {
-              "boots": "iron_boots"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "75",
-              "attack_damage": "26",
-              "armor": "3",
-              "movement_speed": "0.1",
-              "knockback_resistance": "1"
-            },
-            {
-              "level": "2",
-              "max_health": "80",
-              "attack_damage": "28",
-              "armor": "5",
-              "movement_speed": "0.1",
-              "knockback_resistance": "1"
-            },
-            {
-              "level": "3",
-              "max_health": "80",
-              "attack_damage": "30",
-              "armor": "7",
-              "movement_speed": "0.1",
-              "knockback_resistance": "1"
-            }
-          ]
-        }
-      ]
+      "entity type": "",
+      "description": ""
     },
     {
-      "lineage": "Rattle",
-      "types": [
-        {
-          "type": "Rattle Marksman",
-          "tier": "2",
-          "promotion": "Rattle Sharpshooter",
-          "unique": "Possesses a large follow range",
-          "description": "As a hunter in its past life, this poor soul has been corrupted in undeath to desire nothing but blood.",
-          "equipment": [
-            {
-              "main_hand": "bow",
-              "enchantments": "power II"
-            },
-            {
-              "helmet": "bone"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "10",
-              "movement_speed": "0.125",
-              "mob_follow_range": "40"
-            },
-            {
-              "level": "2",
-              "max_health": "12",
-              "movement_speed": "0.125",
-              "mob_follow_range": "40"
-            },
-            {
-              "level": "3",
-              "max_health": "14",
-              "movement_speed": "0.125",
-              "mob_follow_range": "40"
-            }
-          ]
-        },
-        {
-          "type": "Rattle Sharpshooter",
-          "tier": "3",
-          "demotion": "Rattle Marksman",
-          "promotion": "Rattle Sniper",
-          "unique": "Possesses a large follow range",
-          "description": "Now a more experienced shooter, it starts to etch the number of lives its taken on the bones of its lifeless body.",
-          "equipment": [
-            {
-              "main_hand": "bow",
-              "enchantments": "power IV"
-            },
-            {
-              "helmet": "bone"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "17",
-              "movement_speed": "0.1875",
-              "mob_follow_range": "48"
-            },
-            {
-              "level": "2",
-              "max_health": "20",
-              "movement_speed": "0.1875",
-              "mob_follow_range": "48"
-            },
-            {
-              "level": "3",
-              "max_health": "23",
-              "movement_speed": "0.1875",
-              "mob_follow_range": "48"
-            }
-          ]
-        },
-        {
-          "type": "Rattle Sniper",
-          "tier": "4",
-          "demotion": "Rattle Sharpshooter",
-          "promotion": "Rattle Deadshot",
-          "unique": "Possesses a large follow range",
-          "description": "Haunted by constant visions of those it has killed, this sniper continues killing to drown out the screams.",
-          "equipment": [
-            {
-              "main_hand": "bow",
-              "enchantments": "power VI"
-            },
-            {
-              "helmet": "bone"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "26",
-              "movement_speed": "0.25",
-              "mob_follow_range": "56"
-            },
-            {
-              "level": "2",
-              "max_health": "30",
-              "movement_speed": "0.25",
-              "mob_follow_range": "56"
-            },
-            {
-              "level": "3",
-              "max_health": "34",
-              "movement_speed": "0.25",
-              "mob_follow_range": "56"
-            }
-          ]
-        },
-        {
-          "type": "Rattle Deadshot",
-          "tier": "5",
-          "demotion": "Rattle Sniper",
-          "unique": "Possesses a large follow range",
-          "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
-          "equipment": [
-            {
-              "main_hand": "bow"
-            },
-            {
-              "helmet": "bone"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "40",
-              "movement_speed": "0.3125",
-              "mob_follow_range": "64",
-              "main_hand_enchantments": "power XI"
-            },
-            {
-              "level": "2",
-              "max_health": "45",
-              "movement_speed": "0.3125",
-              "mob_follow_range": "64",
-              "main_hand_enchantments": "power XIII"
-            },
-            {
-              "level": "3",
-              "max_health": "50",
-              "movement_speed": "0.3125",
-              "mob_follow_range": "64",
-              "main_hand_enchantments": "power XV"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "zombie": [
-    {
-      "lineage": "Standard",
-      "types": [
-        {
-          "type": "Standard Mule",
-          "tier": "1",
-          "promotion": "Standard Bearer",
-          "unique": "Buffs friendly units with resistance",
-          "description": "As pathetic as Mules are, having an abundance of them on hand is essential to the logistics of any properly organized incursion.",
-          "equipment": [
-            {
-              "helmet": "black_banner"
-            },
-            {
-              "main_hand": "chest",
-              "enchantments": "knockback I"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "6",
-              "attack_damage": "0.5",
-              "knockback_resistance": "0.1",
-              "movement_speed": "0.184"
-            },
-            {
-              "level": "2",
-              "max_health": "8",
-              "attack_damage": "0.75",
-              "knockback_resistance": "0.1",
-              "movement_speed": "0.184"
-            },
-            {
-              "level": "3",
-              "max_health": "10",
-              "attack_damage": "1",
-              "knockback_resistance": "0.1",
-              "movement_speed": "0.184"
-            }
-          ]
-        },
-        {
-          "type": "Standard Bearer",
-          "tier": "2",
-          "demotion:": "Standard Mule",
-          "promotion": "Standard Captain",
-          "unique": "Buffs friendly units with resistance",
-          "description": "Having grown acustomed to the weight of the luggage, Bearers begin to understand their vital role in the collective.",
-          "equipment": [
-            {
-              "helmet": "black_banner"
-            },
-            {
-              "main_hand": "chest",
-              "enchantments": "knockback I"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "14",
-              "attack_damage": "2",
-              "knockback_resistance": "0.25",
-              "movement_speed": "0.207"
-            },
-            {
-              "level": "2",
-              "max_health": "18",
-              "attack_damage": "2.75",
-              "knockback_resistance": "0.25",
-              "movement_speed": "0.207"
-            },
-            {
-              "level": "3",
-              "max_health": "22",
-              "attack_damage": "3.5",
-              "knockback_resistance": "0.25",
-              "movement_speed": "0.207"
-            }
-          ]
-        },
-        {
-          "type": "Standard Captain",
-          "tier": "3",
-          "demotion:": "Standard Bearer",
-          "promotion": "Standard Major",
-          "unique": "Buffs friendly units with resistance II",
-          "description": "Properly respected by its fellow zombies, the captain ties together otherwise roaming bands of senseless raiders into a band of brothers.",
-          "equipment": [
-            {
-              "helmet": "black_banner"
-            },
-            {
-              "main_hand": "chest",
-              "enchantments": "knockback II"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "25",
-              "attack_damage": "4.5",
-              "knockback_resistance": "0.5"
-            },
-            {
-              "level": "2",
-              "max_health": "30",
-              "attack_damage": "6",
-              "knockback_resistance": "0.5"
-            },
-            {
-              "level": "3",
-              "max_health": "35",
-              "attack_damage": "7.5",
-              "knockback_resistance": "0.5"
-            }
-          ]
-        },
-        {
-          "type": "Standard Major",
-          "tier": "4",
-          "demotion:": "Standard Captain",
-          "unique": "Buffs friendly units with resistance II",
-          "description": "Majors take pride in their supervision over the green tide and charge into battle to inspire their fellow zombies.",
-          "equipment": [
-            {
-              "helmet": "black_banner"
-            },
-            {
-              "main_hand": "chest",
-              "enchantments": "knockback II"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "42",
-              "attack_damage": "9",
-              "knockback_resistance": "0.85",
-              "movement_speed": "0.253"
-            },
-            {
-              "level": "2",
-              "max_health": "49",
-              "attack_damage": "10",
-              "knockback_resistance": "0.85",
-              "movement_speed": "0.253"
-            },
-            {
-              "level": "3",
-              "max_health": "56",
-              "attack_damage": "11",
-              "knockback_resistance": "0.85",
-              "movement_speed": "0.253"
-            }
-          ]
-        }
-      ]
+      "entity type": "Arthropods",
+      "description": "Minecraft-defined arthropod mobs."
     },
     {
-      "lineage": "Rot",
-      "types": [
-        {
-          "type": "Rotghoul",
-          "tier": "1",
-          "promotion": "Rotfiend",
-          "unique": "Can spawn in packs",
-          "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
-          "equipment": [
-            {
-              "helmet": "feather"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "4",
-              "attack_damage": "1",
-              "movement_speed": "0.276"
-            },
-            {
-              "level": "2",
-              "max_health": "5",
-              "attack_damage": "1.5",
-              "movement_speed": "0.276"
-            },
-            {
-              "level": "3",
-              "max_health": "6",
-              "attack_damage": "2",
-              "movement_speed": "0.276"
-            }
-          ]
-        },
-        {
-          "type": "Rotfiend",
-          "tier": "2",
-          "demotion": "Rotghoul",
-          "promotion": "Rothaunt",
-          "unique": "Can spawn in packs",
-          "description": "After consuming enough mass, Rotghouls start to rebuild muscles necessary to hunt down near-death prey.",
-          "equipment": [
-            {
-              "helmet": "feather"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "8",
-              "attack_damage": "2.5",
-              "movement_speed": "0.345"
-            },
-            {
-              "level": "2",
-              "max_health": "10",
-              "attack_damage": "3",
-              "movement_speed": "0.345"
-            },
-            {
-              "level": "3",
-              "max_health": "12",
-              "attack_damage": "3.5",
-              "movement_speed": "0.345"
-            }
-          ]
-        },
-        {
-          "type": "Rothaunt",
-          "tier": "3",
-          "demotion": "Rotfiend",
-          "promotion": "Rothound",
-          "unique": "Can spawn in packs",
-          "description": "Driven into a ravenous frenzy at the smell of flesh, Rothaunts are known to pounce upon nearby unwary travelers.",
-          "equipment": [
-            {
-              "helmet": "feather"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "14",
-              "attack_damage": "4.5",
-              "movement_speed": "0.4025"
-            },
-            {
-              "level": "2",
-              "max_health": "17",
-              "attack_damage": "5.5",
-              "movement_speed": "0.4025"
-            },
-            {
-              "level": "3",
-              "max_health": "20",
-              "attack_damage": "6.5",
-              "movement_speed": "0.4025"
-            }
-          ]
-        },
-        {
-          "type": "Rothound",
-          "tier": "4",
-          "demotion": "Rothaunt",
-          "promotion": "Rotraven",
-          "unique": "Can spawn in packs",
-          "description": "Reverting back to its primal senses, the Rothound loses a sense of itself and becomes one with its pack.",
-          "equipment": [
-            {
-              "helmet": "feather"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "24",
-              "attack_damage": "8",
-              "movement_speed": "0.46"
-            },
-            {
-              "level": "2",
-              "max_health": "28",
-              "attack_damage": "9.5",
-              "movement_speed": "0.46"
-            },
-            {
-              "level": "3",
-              "max_health": "32",
-              "attack_damage": "11",
-              "movement_speed": "0.46"
-            }
-          ]
-        },
-        {
-          "type": "Rotraven",
-          "tier": "5",
-          "demotion": "Rothound",
-          "unique": "Can spawn in packs",
-          "description": "Rotravens gather in flocks to deliver death en-masse.",
-          "equipment": [
-            {
-              "helmet": "feather"
-            }
-          ],
-          "levels": [
-            {
-              "level": "1",
-              "max_health": "37",
-              "attack_damage": "12",
-              "movement_speed": "0.5175"
-            },
-            {
-              "level": "2",
-              "max_health": "42",
-              "attack_damage": "13",
-              "movement_speed": "0.5175"
-            },
-            {
-              "level": "3",
-              "max_health": "48",
-              "attack_damage": "15",
-              "movement_speed": "0.5175"
-            }
-          ]
-        }
-      ]
+      "entity type": "End Hostiles",
+      "description": "Hostile End mobs excluding ender dragons."
+    },
+    {
+      "entity type": "Hostiles",
+      "description": "All hostile Overworld, Nether, and End mobs, excluding bosses."
+    },
+    {
+      "entity type": "Nether Hostiles",
+      "description": "Hostile Nether mobs, excluding withers."
+    },
+    {
+      "entity type": "Overworld Hostiles",
+      "description": "Hostile Overworld mobs, excluding elder guardians."
+    },
+    {
+      "entity type": "Piglins",
+      "description": "Piglin mob variants."
+    },
+    {
+      "entity type": "Undead",
+      "description": "Minecraft-defined undead mobs."
     }
   ]
 }
