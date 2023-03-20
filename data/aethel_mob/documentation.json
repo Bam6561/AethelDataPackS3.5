@@ -778,37 +778,37 @@
       ]
     }
   ],
-  "entity types": [
+  "entity_types": [
     {
-      "entity type": "",
+      "entity_type": "",
       "description": ""
     },
     {
-      "entity type": "Arthropods",
+      "entity_type": "Arthropods",
       "description": "Minecraft-defined arthropod mobs."
     },
     {
-      "entity type": "End Hostiles",
+      "entity_type": "End Hostiles",
       "description": "Hostile End mobs excluding ender dragons."
     },
     {
-      "entity type": "Hostiles",
+      "entity_type": "Hostiles",
       "description": "All hostile Overworld, Nether, and End mobs, excluding bosses."
     },
     {
-      "entity type": "Nether Hostiles",
+      "entity_type": "Nether Hostiles",
       "description": "Hostile Nether mobs, excluding withers."
     },
     {
-      "entity type": "Overworld Hostiles",
+      "entity_type": "Overworld Hostiles",
       "description": "Hostile Overworld mobs, excluding elder guardians."
     },
     {
-      "entity type": "Piglins",
+      "entity_type": "Piglins",
       "description": "Piglin mob variants."
     },
     {
-      "entity type": "Undead",
+      "entity_type": "Undead",
       "description": "Minecraft-defined undead mobs."
     }
   ]
