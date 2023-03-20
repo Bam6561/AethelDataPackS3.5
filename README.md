@@ -10,7 +10,7 @@
 
 Minecraft data pack written for Aethel SMP.
 
-See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its functions and data packages.
+See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 ## Setup
 
@@ -28,11 +28,17 @@ Multiplayer
 4. Follow singleplayer setup from step 4.
 
 ## Usage
-**Functions**
-
-In the chat window, type "/functions" and provide one of `AethelDataPack`'s namespaces, followed by ":", and the file path of the function you wish to execute.
+**Functions** `/function namespace:file_path/command`
 
 <img src="https://i.ibb.co/bR46nPQ/aethel-Data-Pack-Function-Example.png" alt="aethel-Data-Pack-Function-Example">
+
+**Predicates** `@<target_selector>[predicate=namespace:filepath/predicate]`
+
+<img src="https://i.ibb.co/9q6DkK9/aethel-data-pack-predicate-example.jpg" alt="aethel-data-pack-predicate-example">
+
+**Tags** `@<target_selector>[type=#namespace:entity_type]`
+
+<img src="https://i.ibb.co/3kxy4sy/aethel-data-pack-entity-type-example.jpg" alt="aethel-data-pack-entity-type-example">
 
 ## About Us
 
