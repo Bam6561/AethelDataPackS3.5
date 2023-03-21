@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <h3>Aethel Data Pack</h3>
   <img src="https://i.ibb.co/TWLK0tT/aethel-Data-Pack128x128.png" alt="aethel-Data-Pack128x128">
@@ -28,6 +30,8 @@ Minecraft data pack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
+<p align="right"><a href="#top">Top of Page</a></p>
+
 ## Setup
 
 ### Singleplayer
@@ -43,12 +47,16 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 3. Go to the primary world folder. This folder is named `world` and contains the server's overworld data by default.
 4. Follow singleplayer setup from step 4.
 
+<p align="right"><a href="#top">Top of Page</a></p>
+
 ## Usage
 **Functions** `/function namespace:file_path/command`
 
 **Predicates** `@<target_selector>[predicate=namespace:filepath/predicate]`
 
 **Tags** `@<target_selector>[type=#namespace:entity_type]`
+
+<p align="right"><a href="#top">Top of Page</a></p>
 
 ## About Us
 
@@ -69,9 +77,13 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 **Related Repositories** 
 - [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
+<p align="right"><a href="#top">Top of Page</a></p>
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right"><a href="#top">Top of Page</a></p>
 
 ## Contact
 
@@ -79,10 +91,14 @@ Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmai
 
 Project Link: https://github.com/Bam6561/AethelDataPack
 
+<p align="right"><a href="#top">Top of Page</a></p>
+
 ## Acknowledgements
 
 - [Legitimoose](https://www.youtube.com/@Legitimoose)
 - [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
+
+<p align="right"><a href="#top">Top of Page</a></p>
 
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDatapack
 
