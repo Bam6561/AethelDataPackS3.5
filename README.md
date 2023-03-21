@@ -6,6 +6,22 @@
 
 </div>
 
+<details> 
+  <summary><b> Table of Contents </b></summary>
+  <ol>
+    <li><a href="#about-the-project"> About The Project </a></li>
+    <li><a href="#setup"> Setup </a></li>
+      <ul>
+        <li><a href="#singleplayer"> Singleplayer </a></li>
+        <li><a href="#multiplayer"> Multiplayer </a></li>
+      </ul>
+    <li><a href="#usage"> Usage </a></li>
+    <li><a href="#about-us"> About Us </a></li>
+    <li><a href="#license"> License </a></li>
+    <li><a href="#contact"> Contact <a/></li>
+    <li><a href="#acknowledgements"> Acknowledgements </li>
+</details>
+
 ## About The Project
 
 Minecraft data pack written for Aethel SMP.
@@ -14,14 +30,14 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 ## Setup
 
-Singleplayer
+### Singleplayer
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
 3. Choose the world you want to use the data pack on inside your `saves` folder. 
 4. Insert `AethelDataPack` into the world's `datapacks` folder.
 5. Launch Minecraft and enter the world the data pack was added to.
 
-Multiplayer
+### Multiplayer
 1. Clone the repo.
 2. Navigate to the server's folder.
 3. Go to the primary world folder. This folder is named `world` and contains the server's overworld data by default.
