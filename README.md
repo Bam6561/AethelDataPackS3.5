@@ -32,7 +32,7 @@ Minecraft data pack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SETUP -->
 ## Setup
@@ -50,7 +50,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 3. Go to the primary world folder. This folder is named `world` and contains the server's overworld data by default.
 4. Follow singleplayer setup from step 4.
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- USAGE -->
 ## Usage
@@ -60,7 +60,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 **Tags** `@<target_selector>[type=#namespace:entity_type]`
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- ABOUT US -->
 ## About Us
@@ -81,13 +81,13 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 **Related Repositories** 
 - [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- CONTACT -->
 ## Contact
@@ -95,14 +95,14 @@ Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmai
 
 Project Link: https://github.com/Bam6561/AethelDataPack
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 - [Legitimoose](https://www.youtube.com/@Legitimoose)
 - [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDatapack
