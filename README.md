@@ -1,5 +1,6 @@
 <a name="top"></a>
 
+<!-- LOGO -->
 <div align="center">
   <h3>Aethel Data Pack</h3>
   <img src="https://i.ibb.co/TWLK0tT/aethel-Data-Pack128x128.png" alt="aethel-Data-Pack128x128">
@@ -8,6 +9,7 @@
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
 <details> 
   <summary><b> Table of Contents </b></summary>
   <ol>
@@ -24,14 +26,15 @@
     <li><a href="#acknowledgements"> Acknowledgements </li>
 </details>
 
+<!-- ABOUT THE PROJECT -->
 ## About The Project
-
 Minecraft data pack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- SETUP -->
 ## Setup
 
 ### Singleplayer
@@ -49,6 +52,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- USAGE -->
 ## Usage
 **Functions** `/function namespace:file_path/command`
 
@@ -58,8 +62,8 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- ABOUT US -->
 ## About Us
-
 <a href="https://discord.gg/FzeC4aC6Tg">
   <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
 </a>
@@ -79,31 +83,29 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- CONTACT -->
 ## Contact
-
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
 Project Link: https://github.com/Bam6561/AethelDataPack
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
 - [Legitimoose](https://www.youtube.com/@Legitimoose)
 - [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
 
 <p align="right"><a href="#top">Go to Top</a></p>
 
+<!-- SHIELDS -->
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDatapack
-
 [stars-url]: https://github.com/Bam6561/AethelDatapack/stargazers
-
 [license-shield]: https://img.shields.io/github/license/Bam6561/AethelDatapack
-
 [license-url]: https://github.com/Bam6561/AethelDatapack/blob/main/LICENSE
