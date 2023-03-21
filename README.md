@@ -108,7 +108,7 @@ Project Link: https://github.com/Bam6561/AethelDataPack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDatapack
-[stars-url]: https://github.com/Bam6561/AethelDatapack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/AethelDatapack
-[license-url]: https://github.com/Bam6561/AethelDatapack/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDataPack
+[stars-url]: https://github.com/Bam6561/AethelDataPack/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/AethelDataPack
+[license-url]: https://github.com/Bam6561/AethelDataPack/blob/main/LICENSE
