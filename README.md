@@ -7,7 +7,7 @@
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
-  <a href="https://github.com/Bam6561/LucyferBot/wiki">Wiki</a>
+  <a href="https://github.com/Bam6561/AethelDataPack/wiki">Wiki</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
