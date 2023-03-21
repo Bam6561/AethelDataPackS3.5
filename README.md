@@ -34,12 +34,6 @@ Multiplayer
 
 **Tags** `@<target_selector>[type=#namespace:entity_type]`
 
-<img src="https://i.ibb.co/bR46nPQ/aethel-Data-Pack-Function-Example.png" alt="aethel-Data-Pack-Function-Example">
-
-<img src="https://i.ibb.co/9q6DkK9/aethel-data-pack-predicate-example.jpg" alt="aethel-data-pack-predicate-example">
-
-<img src="https://i.ibb.co/3kxy4sy/aethel-data-pack-entity-type-example.jpg" alt="aethel-data-pack-entity-type-example">
-
 ## About Us
 
 <a href="https://discord.gg/FzeC4aC6Tg">
@@ -48,7 +42,7 @@ Multiplayer
 
 **Realm of Aethel**
 
-Realm of Aethel is a Discord community primarily revolving around playing Minecraft together, but we also play other games and host frequent server events.
+Realm of Aethel is a Discord community that mainly focuses on playing Minecraft together, but we also play other games and frequently host server events.
 
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 
@@ -56,7 +50,7 @@ Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 - [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 - [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
-**Related Resources** 
+**Related Repositories** 
 - [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
 ## License
