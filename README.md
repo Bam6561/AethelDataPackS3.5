@@ -10,7 +10,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details> 
+<details open> 
   <summary><b> Table of Contents </b></summary>
   <ol>
     <li><a href="#about-the-project"> About The Project </a></li>
