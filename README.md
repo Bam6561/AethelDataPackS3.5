@@ -6,7 +6,8 @@
   <img src="https://i.ibb.co/TWLK0tT/aethel-Data-Pack128x128.png" alt="aethel-Data-Pack128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
-
+  
+  <a href="https://github.com/Bam6561/LucyferBot/wiki">Wiki</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
