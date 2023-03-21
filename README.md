@@ -44,6 +44,8 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 4. Insert `AethelDataPack` into the world's `datapacks` folder.
 5. Launch Minecraft and enter the world the data pack was added to.
 
+<p align="right"><a href="#top">Back to Top</a></p>
+
 ### Multiplayer
 1. Clone the repo.
 2. Navigate to the server's folder.
