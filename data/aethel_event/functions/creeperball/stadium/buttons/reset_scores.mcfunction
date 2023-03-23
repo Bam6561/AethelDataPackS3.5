@@ -1,2 +1,2 @@
-scoreboard players set Blue CreeperBallStadium 0
-scoreboard players set Red CreeperBallStadium 0
+scoreboard players set Blue CreeperballStadium 0
+scoreboard players set Red CreeperballStadium 0

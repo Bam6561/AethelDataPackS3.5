@@ -3,6 +3,7 @@ scoreboard objectives add CreeperballStadium dummy
 
 # Hide and Seek
 team add Hider
+team modify Hider color gray
 team modify Hider nametagVisibility hideForOtherTeams
 team add Seeker
 team modify Seeker color gold
