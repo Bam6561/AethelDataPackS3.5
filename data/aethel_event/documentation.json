@@ -98,7 +98,49 @@
                   "boots": "leather_boots",
                   "attributes": [
                     {
-                      "movement_speed": "+0.07"
+                      "movement_speed": "+0.075"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "map": "Headwater",
+          "teams": [
+            {
+              "team": "Hider",
+              "name_tag_visibility": "Hide for other teams"
+            },
+            {
+              "team": "Seeker",
+              "color": "Gold"
+            }
+          ],
+          "loadouts": [
+            {
+              "loadout": "Hider",
+              "equipment": [
+                {
+                  "inventory": "Potion of Invisibility",
+                  "duration": "10s"
+                },
+                {
+                  "inventory": "Splash Stun Potion (3s)",
+                  "effects": "Jump Boost 129, Slowness 255",
+                  "duration": "4s"
+                }
+              ]
+            },
+            {
+              "loadout": "Seeker",
+              "equipment": [
+                {
+                  "boots": "leather_boots",
+                  "attributes": [
+                    {
+                      "movement_speed": "+0.09"
                     }
                   ]
                 }
