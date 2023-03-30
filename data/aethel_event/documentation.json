@@ -34,27 +34,79 @@
         {
           "map": "Stadium",
           "objective": "CreeperballStadium",
-          "loadouts": [
+          "loadout": [
             {
-              "loadout": "generic",
-              "equipment": [
+              "main_hand": "Rabbit Foot",
+              "enchantments": "Knockback I"
+            },
+            {
+              "chestplate": "Leather Armor",
+              "colors": [
                 {
-                  "main_hand": "rabbit_foot",
-                  "enchantments": "knockback I"
+                  "color": "Blue"
                 },
                 {
-                  "chestplate": "leather_armor",
-                  "colors": [
-                    {
-                      "color": "blue"
-                    },
-                    {
-                      "color": "red"
-                    }
-                  ],
-                  "unique": "unbreakable"
+                  "color": "Red"
                 }
-              ]
+              ],
+              "unique": "Unbreakable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "event": "Deathmatch",
+      "description": "Players are given kits to kill each other. Last one standing wins.",
+      "maps": [
+        {
+          "map": "Nylium Hills",
+          "objective": "DeathmatchNyliumHills",
+          "loadout": [
+            {
+              "main_hand": "Diamond Sword",
+              "enchantments": "Sharpness II, Knockback I"
+            },
+            {
+              "main_hand": "Bow",
+              "enchantments": "Power I, Punch I"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Speed II (0:20)",
+              "quantity:": "2"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Strength II (0:10)",
+              "quantity:": "2"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Levitation III (0:05)",
+              "quantity:": "2"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Instant Health III",
+              "quantity:": "3"
+            },
+            {
+              "inventory": "Splash Potion",
+              "name": "Chug Jug",
+              "effects:": "Absorption II (1:30), Regeneration IV (0:08)"
+            },
+            {
+              "inventory": "Golden Apple",
+              "quantity:": "3"
+            },
+            {
+              "inventory": "Ender Pearl",
+              "quantity:": "3"
+            },
+            {
+              "inventory": "Bread",
+              "quantity:": "32"
             }
           ]
         }
@@ -62,7 +114,7 @@
     },
     {
       "event": "Hide and Seek",
-      "description": "Hiders hide from Seekers for as long as possible.",
+      "description": "Hiders evade Seekers for as long as possible.",
       "maps": [
         {
           "map": "Headwater",
@@ -81,13 +133,14 @@
               "loadout": "Hider",
               "equipment": [
                 {
-                  "inventory": "Potion of Invisibility",
-                  "duration": "8s"
+                  "inventory": "Potion",
+                  "name": "Hide",
+                  "effects:": "Invisibility (0:08)"
                 },
                 {
-                  "inventory": "Splash Stun Potion (3s)",
-                  "effects": "Jump Boost 129, Slowness 255",
-                  "duration": "3s"
+                  "inventory": "Splash Potion",
+                  "name": "Stun",
+                  "effects:": "Jump Boost 129 (0:03), Slowness 255 (0:03)"
                 }
               ]
             },
@@ -95,10 +148,53 @@
               "loadout": "Seeker",
               "equipment": [
                 {
-                  "boots": "leather_boots",
+                  "boots": "Leather Boots",
                   "attributes": [
                     {
                       "movement_speed": "+0.075"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "map": "Wyrmtooth",
+              "teams": [
+                {
+                  "team": "Hider",
+                  "name_tag_visibility": "Hide for other teams"
+                },
+                {
+                  "team": "Seeker",
+                  "color": "Gold"
+                }
+              ],
+              "loadouts": [
+                {
+                  "loadout": "Hider",
+                  "equipment": [
+                    {
+                      "inventory": "Potion of Invisibility",
+                      "name": "Hide",
+                      "effects": "Invisibility (0:10)"
+                    },
+                    {
+                      "inventory": "Splash Potion",
+                      "name": "Stun",
+                      "effects:": "Jump Boost 129 (0:04), Slowness 255 (0:04)"
+                    }
+                  ]
+                },
+                {
+                  "loadout": "Seeker",
+                  "equipment": [
+                    {
+                      "boots": "Leather Boots",
+                      "attributes": [
+                        {
+                          "movement_speed": "+0.09"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -107,56 +203,14 @@
           ]
         },
         {
-          "map": "Headwater",
-          "teams": [
+          "name": "Parkour",
+          "description": "Players jump block to block to achieve the fastest times on the course.",
+          "maps": [
             {
-              "team": "Hider",
-              "name_tag_visibility": "Hide for other teams"
-            },
-            {
-              "team": "Seeker",
-              "color": "Gold"
-            }
-          ],
-          "loadouts": [
-            {
-              "loadout": "Hider",
-              "equipment": [
-                {
-                  "inventory": "Potion of Invisibility",
-                  "duration": "10s"
-                },
-                {
-                  "inventory": "Splash Stun Potion (3s)",
-                  "effects": "Jump Boost 129, Slowness 255",
-                  "duration": "4s"
-                }
-              ]
-            },
-            {
-              "loadout": "Seeker",
-              "equipment": [
-                {
-                  "boots": "leather_boots",
-                  "attributes": [
-                    {
-                      "movement_speed": "+0.09"
-                    }
-                  ]
-                }
-              ]
+              "map": "Elements",
+              "objective": "ParkourElements"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Parkour",
-      "description": "Players jump between blocks to achieve the fastest times on the course.",
-      "maps": [
-        {
-          "map": "Elements",
-          "objective": "ParkourElements"
         }
       ]
     }
