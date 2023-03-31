@@ -1,4 +1,4 @@
-execute as @a[predicate=aethel_event:hide_and_seek/headwater/zones/event] run team leave @s
-execute as @a[predicate=aethel_event:hide_and_seek/headwater/zones/event] run clear @s
+execute as @a[predicate=aethel_event:hide_and_seek/headwater/zones/play] run team leave @s
+execute as @a[predicate=aethel_event:hide_and_seek/headwater/zones/play] run clear @s
 
-tp @a[predicate=aethel_event:hide_and_seek/headwater/zones/event] 526 83 803 270 0
+tp @a[predicate=aethel_event:hide_and_seek/headwater/zones/play] 526 83 803 270 0

@@ -62,19 +62,19 @@
               "type": "Bonhead",
               "tier": "1",
               "promotion": "Bondead",
-              "unique": "Attacks knockback targets",
+              "unique": "Attacks knockback targets.",
               "description": "Bonheads are empty headed creatures who only know how to smash bone. Its fused bones make it less flexible in exchange for more durability.",
               "equipment": [
                 {
-                  "main_hand": "stick",
-                  "enchantments": "knockback II"
+                  "main_hand": "Stick",
+                  "enchantments": "Knockback II"
                 },
                 {
-                  "helmet": "bone_block"
+                  "helmet": "Bone Block"
                 },
                 {
-                  "chestplate": "leather_chestplate",
-                  "atributes": "white"
+                  "chestplate": "Leather Chestplate",
+                  "atributes": "White"
                 }
               ],
               "levels": [
@@ -106,18 +106,18 @@
               "tier": "2",
               "demotion": "Bonhead",
               "promotion": "Bonkers",
-              "unique": "Attacks knockback targets",
+              "unique": "Attacks knockback targets.",
               "description": "Accelerated bone growth further restricts this skeleton movement but also doubles as a protective shell.",
               "equipment": [
                 {
-                  "main_hand": "stick",
-                  "enchantments": "knockback III"
+                  "main_hand": "Stick",
+                  "enchantments": "Knockback III"
                 },
                 {
-                  "helmet": "bone_block"
+                  "helmet": "Bone Block"
                 },
                 {
-                  "chestplate": "iron_chestplate"
+                  "chestplate": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -149,18 +149,18 @@
               "tier": "3",
               "demotion": "Bondead",
               "promotion": "Bonguard",
-              "unique": "Attacks knockback targets",
+              "unique": "Attacks knockback targets.",
               "description": "In a crazed attempt to chase their victims, bonkers have shattered their fused joints.",
               "equipment": [
                 {
-                  "main_hand": "bone",
-                  "enchantments": "knockback IV"
+                  "main_hand": "Bone",
+                  "enchantments": "Knockback IV"
                 },
                 {
-                  "helmet": "bone_block"
+                  "helmet": "Bone Block"
                 },
                 {
-                  "chestplate": "iron_chestplate"
+                  "chestplate": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -192,21 +192,21 @@
               "tier": "4",
               "demotion": "Bonkers",
               "promotion": "Bonking",
-              "unique": "Attacks knockback targets",
+              "unique": "Attacks knockback targets.",
               "description": "Previously shattered bones have grown back stronger, creating a mass of sporadic bone armor.",
               "equipment": [
                 {
-                  "main_hand": "bone",
-                  "enchantments": "knockback V"
+                  "main_hand": "Bone",
+                  "enchantments": "Knockback V"
                 },
                 {
-                  "off_hand": "bone"
+                  "off_hand": "Bone"
                 },
                 {
-                  "helmet": "bone_block"
+                  "helmet": "Bone Block"
                 },
                 {
-                  "chestplate": "iron_chestplate"
+                  "chestplate": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -240,27 +240,27 @@
               "type": "Bonking",
               "tier": "5",
               "demotion": "Bonguard",
-              "unique": "Attacks knockback targets",
+              "unique": "Attacks knockback targets.",
               "description": "The regrowth curse has completely taken over the skeleton, creating a mobile mountain of bone.",
               "equipment": [
                 {
-                  "main_hand": "bone",
-                  "enchantments": "knockback VI"
+                  "main_hand": "Bone",
+                  "enchantments": "Knockback VI"
                 },
                 {
-                  "off-hand": "bone_block"
+                  "off-hand": "Bone Block"
                 },
                 {
-                  "helmet": "bone_block"
+                  "helmet": "Bone Block"
                 },
                 {
-                  "chestplate": "iron_chestplate"
+                  "chestplate": "Iron Chestplate"
                 },
                 {
-                  "leggings": "iron_leggings"
+                  "leggings": "Iron Leggings"
                 },
                 {
-                  "boots": "iron_boots"
+                  "boots": "Iron Boots"
                 }
               ],
               "levels": [
@@ -299,15 +299,15 @@
               "type": "Rattle Marksman",
               "tier": "2",
               "promotion": "Rattle Sharpshooter",
-              "unique": "Possesses a large follow range",
+              "unique": "Possesses a large follow range.",
               "description": "As a hunter in its past life, this poor soul has been corrupted in undeath to desire nothing but blood.",
               "equipment": [
                 {
-                  "main_hand": "bow",
-                  "enchantments": "power II"
+                  "main_hand": "Bow",
+                  "enchantments": "Power II"
                 },
                 {
-                  "helmet": "bone"
+                  "helmet": "Arrow"
                 }
               ],
               "levels": [
@@ -336,15 +336,15 @@
               "tier": "3",
               "demotion": "Rattle Marksman",
               "promotion": "Rattle Sniper",
-              "unique": "Possesses a large follow range",
+              "unique": "Possesses a large follow range.",
               "description": "Now a more experienced shooter, it starts to etch the number of lives its taken on the bones of its lifeless body.",
               "equipment": [
                 {
-                  "main_hand": "bow",
-                  "enchantments": "power IV"
+                  "main_hand": "Bow",
+                  "enchantments": "Power IV"
                 },
                 {
-                  "helmet": "bone"
+                  "helmet": "Arrow"
                 }
               ],
               "levels": [
@@ -373,15 +373,15 @@
               "tier": "4",
               "demotion": "Rattle Sharpshooter",
               "promotion": "Rattle Deadshot",
-              "unique": "Possesses a large follow range",
+              "unique": "Possesses a large follow range.",
               "description": "Haunted by constant visions of those it has killed, this sniper continues killing to drown out the screams.",
               "equipment": [
                 {
-                  "main_hand": "bow",
-                  "enchantments": "power VI"
+                  "main_hand": "Bow",
+                  "enchantments": "Power VI"
                 },
                 {
-                  "helmet": "bone"
+                  "helmet": "Arrow"
                 }
               ],
               "levels": [
@@ -409,14 +409,14 @@
               "type": "Rattle Deadshot",
               "tier": "5",
               "demotion": "Rattle Sniper",
-              "unique": "Possesses a large follow range",
+              "unique": "Possesses a large follow range.",
               "description": "An empty shell is all that remains of this once valiant soldier. Killing is all it knows, so kill it must.",
               "equipment": [
                 {
-                  "main_hand": "bow"
+                  "main_hand": "Bow"
                 },
                 {
-                  "helmet": "bone"
+                  "helmet": "Arrow"
                 }
               ],
               "levels": [
@@ -425,21 +425,21 @@
                   "max_health": "40",
                   "movement_speed": "0.3125",
                   "mob_follow_range": "64",
-                  "main_hand_enchantments": "power XI"
+                  "main_hand_enchantments": "Power XI"
                 },
                 {
                   "level": "2",
                   "max_health": "45",
                   "movement_speed": "0.3125",
                   "mob_follow_range": "64",
-                  "main_hand_enchantments": "power XIII"
+                  "main_hand_enchantments": "Power XIII"
                 },
                 {
                   "level": "3",
                   "max_health": "50",
                   "movement_speed": "0.3125",
                   "mob_follow_range": "64",
-                  "main_hand_enchantments": "power XV"
+                  "main_hand_enchantments": "Power XV"
                 }
               ]
             }
@@ -454,15 +454,15 @@
               "type": "Standard Mule",
               "tier": "1",
               "promotion": "Standard Bearer",
-              "unique": "Buffs friendly units with resistance",
+              "unique": "Buffs friendly units with resistance.",
               "description": "As pathetic as Mules are, having an abundance of them on hand is essential to the logistics of any properly organized incursion.",
               "equipment": [
                 {
-                  "helmet": "black_banner"
+                  "helmet": "Black Banner"
                 },
                 {
-                  "main_hand": "chest",
-                  "enchantments": "knockback I"
+                  "main_hand": "Chest",
+                  "enchantments": "Knockback I"
                 }
               ],
               "levels": [
@@ -494,15 +494,15 @@
               "tier": "2",
               "demotion:": "Standard Mule",
               "promotion": "Standard Captain",
-              "unique": "Buffs friendly units with resistance",
+              "unique": "Buffs friendly units with resistance.",
               "description": "Having grown acustomed to the weight of the luggage, Bearers begin to understand their vital role in the collective.",
               "equipment": [
                 {
-                  "helmet": "black_banner"
+                  "helmet": "Black Banner"
                 },
                 {
-                  "main_hand": "chest",
-                  "enchantments": "knockback I"
+                  "main_hand": "Chest",
+                  "enchantments": "Knockback I"
                 }
               ],
               "levels": [
@@ -534,15 +534,15 @@
               "tier": "3",
               "demotion:": "Standard Bearer",
               "promotion": "Standard Major",
-              "unique": "Buffs friendly units with resistance II",
+              "unique": "Buffs friendly units with resistance. II",
               "description": "Properly respected by its fellow zombies, the captain ties together otherwise roaming bands of senseless raiders into a band of brothers.",
               "equipment": [
                 {
-                  "helmet": "black_banner"
+                  "helmet": "Black Banner"
                 },
                 {
-                  "main_hand": "chest",
-                  "enchantments": "knockback II"
+                  "main_hand": "Chest",
+                  "enchantments": "Knockback II"
                 }
               ],
               "levels": [
@@ -570,15 +570,15 @@
               "type": "Standard Major",
               "tier": "4",
               "demotion:": "Standard Captain",
-              "unique": "Buffs friendly units with resistance II",
+              "unique": "Buffs friendly units with resistance. II",
               "description": "Majors take pride in their supervision over the green tide and charge into battle to inspire their fellow zombies.",
               "equipment": [
                 {
-                  "helmet": "black_banner"
+                  "helmet": "Black Banner"
                 },
                 {
-                  "main_hand": "chest",
-                  "enchantments": "knockback II"
+                  "main_hand": "Chest",
+                  "enchantments": "Knockback II"
                 }
               ],
               "levels": [
@@ -614,11 +614,11 @@
               "type": "Rotghoul",
               "tier": "1",
               "promotion": "Rotfiend",
-              "unique": "Can spawn in packs",
+              "unique": "Can spawn in packs.",
               "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
               "equipment": [
                 {
-                  "helmet": "feather"
+                  "helmet": "Feather"
                 }
               ],
               "levels": [
@@ -647,11 +647,11 @@
               "tier": "2",
               "demotion": "Rotghoul",
               "promotion": "Rothaunt",
-              "unique": "Can spawn in packs",
+              "unique": "Can spawn in packs.",
               "description": "After consuming enough mass, Rotghouls start to rebuild muscles necessary to hunt down near-death prey.",
               "equipment": [
                 {
-                  "helmet": "feather"
+                  "helmet": "Feather"
                 }
               ],
               "levels": [
@@ -680,11 +680,11 @@
               "tier": "3",
               "demotion": "Rotfiend",
               "promotion": "Rothound",
-              "unique": "Can spawn in packs",
+              "unique": "Can spawn in packs.",
               "description": "Driven into a ravenous frenzy at the smell of flesh, Rothaunts are known to pounce upon nearby unwary travelers.",
               "equipment": [
                 {
-                  "helmet": "feather"
+                  "helmet": "Feather"
                 }
               ],
               "levels": [
@@ -713,11 +713,11 @@
               "tier": "4",
               "demotion": "Rothaunt",
               "promotion": "Rotraven",
-              "unique": "Can spawn in packs",
+              "unique": "Can spawn in packs.",
               "description": "Reverting back to its primal senses, the Rothound loses a sense of itself and becomes one with its pack.",
               "equipment": [
                 {
-                  "helmet": "feather"
+                  "helmet": "Feather"
                 }
               ],
               "levels": [
@@ -745,11 +745,11 @@
               "type": "Rotraven",
               "tier": "5",
               "demotion": "Rothound",
-              "unique": "Can spawn in packs",
+              "unique": "Can spawn in packs.",
               "description": "Rotravens gather in flocks to deliver death en-masse.",
               "equipment": [
                 {
-                  "helmet": "feather"
+                  "helmet": "Feather"
                 }
               ],
               "levels": [

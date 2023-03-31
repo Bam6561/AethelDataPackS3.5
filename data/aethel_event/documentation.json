@@ -18,10 +18,7 @@
           ],
           "loadouts": [
             {
-              "loadout": "",
-              "equipment": [
-                {}
-              ]
+              "loadout": ""
             }
           ]
         }
@@ -36,19 +33,17 @@
           "objective": "CreeperballStadium",
           "loadout": [
             {
-              "main_hand": "Rabbit Foot",
+              "inventory": "Rabbit Foot",
               "enchantments": "Knockback I"
             },
             {
-              "chestplate": "Leather Armor",
-              "colors": [
-                {
-                  "color": "Blue"
-                },
-                {
-                  "color": "Red"
-                }
-              ],
+              "inventory": "Leather Armor",
+              "color": "Blue",
+              "unique": "Unbreakable"
+            },
+            {
+              "inventory": "Leather Armor",
+              "color": "Red",
               "unique": "Unbreakable"
             }
           ]
@@ -57,18 +52,18 @@
     },
     {
       "event": "Deathmatch",
-      "description": "Players are given kits to kill each other. Last one standing wins.",
+      "description": "Players are given kits to fight each other. Last one standing wins.",
       "maps": [
         {
           "map": "Nylium Hills",
           "objective": "DeathmatchNyliumHills",
           "loadout": [
             {
-              "main_hand": "Diamond Sword",
+              "inventory": "Diamond Sword",
               "enchantments": "Sharpness II, Knockback I"
             },
             {
-              "main_hand": "Bow",
+              "inventory": "Bow",
               "enchantments": "Power I, Punch I"
             },
             {
@@ -130,8 +125,8 @@
           ],
           "loadouts": [
             {
-              "loadout": "Hider",
-              "equipment": [
+              "type": "Hider",
+              "loadout": [
                 {
                   "inventory": "Potion",
                   "name": "Hide",
@@ -145,8 +140,8 @@
               ]
             },
             {
-              "loadout": "Seeker",
-              "equipment": [
+              "type": "Seeker",
+              "loadout": [
                 {
                   "boots": "Leather Boots",
                   "attributes": [
@@ -171,10 +166,10 @@
               ],
               "loadouts": [
                 {
-                  "loadout": "Hider",
-                  "equipment": [
+                  "type": "Hider",
+                  "loadout": [
                     {
-                      "inventory": "Potion of Invisibility",
+                      "inventory": "Potion",
                       "name": "Hide",
                       "effects": "Invisibility (0:10)"
                     },
@@ -186,8 +181,8 @@
                   ]
                 },
                 {
-                  "loadout": "Seeker",
-                  "equipment": [
+                  "type": "Seeker",
+                  "loadout": [
                     {
                       "boots": "Leather Boots",
                       "attributes": [
