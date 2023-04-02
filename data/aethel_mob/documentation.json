@@ -22,19 +22,19 @@
                   "enchantments": ""
                 },
                 {
-                  "helmet": "",
+                  "head": "",
                   "enchantments": ""
                 },
                 {
-                  "chestplate": "",
+                  "chest": "",
                   "enchantments": ""
                 },
                 {
-                  "leggings": "",
+                  "legs": "",
                   "enchantments": ""
                 },
                 {
-                  "boots": "",
+                  "feet": "",
                   "enchantments": ""
                 }
               ],
@@ -70,10 +70,10 @@
                   "enchantments": "Knockback II"
                 },
                 {
-                  "helmet": "Bone Block"
+                  "head": "Bone Block"
                 },
                 {
-                  "chestplate": "Leather Chestplate",
+                  "chest": "Leather Chestplate",
                   "atributes": "White"
                 }
               ],
@@ -114,10 +114,10 @@
                   "enchantments": "Knockback III"
                 },
                 {
-                  "helmet": "Bone Block"
+                  "head": "Bone Block"
                 },
                 {
-                  "chestplate": "Iron Chestplate"
+                  "chest": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -157,10 +157,10 @@
                   "enchantments": "Knockback IV"
                 },
                 {
-                  "helmet": "Bone Block"
+                  "head": "Bone Block"
                 },
                 {
-                  "chestplate": "Iron Chestplate"
+                  "chest": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -203,10 +203,10 @@
                   "off_hand": "Bone"
                 },
                 {
-                  "helmet": "Bone Block"
+                  "head": "Bone Block"
                 },
                 {
-                  "chestplate": "Iron Chestplate"
+                  "chest": "Iron Chestplate"
                 }
               ],
               "levels": [
@@ -251,16 +251,16 @@
                   "off-hand": "Bone Block"
                 },
                 {
-                  "helmet": "Bone Block"
+                  "head": "Bone Block"
                 },
                 {
-                  "chestplate": "Iron Chestplate"
+                  "chest": "Iron Chestplate"
                 },
                 {
-                  "leggings": "Iron Leggings"
+                  "legs": "Iron Leggings"
                 },
                 {
-                  "boots": "Iron Boots"
+                  "feet": "Iron Boots"
                 }
               ],
               "levels": [
@@ -307,7 +307,7 @@
                   "enchantments": "Power II"
                 },
                 {
-                  "helmet": "Arrow"
+                  "head": "Arrow"
                 }
               ],
               "levels": [
@@ -344,7 +344,7 @@
                   "enchantments": "Power IV"
                 },
                 {
-                  "helmet": "Arrow"
+                  "head": "Arrow"
                 }
               ],
               "levels": [
@@ -381,7 +381,7 @@
                   "enchantments": "Power VI"
                 },
                 {
-                  "helmet": "Arrow"
+                  "head": "Arrow"
                 }
               ],
               "levels": [
@@ -416,7 +416,7 @@
                   "main_hand": "Bow"
                 },
                 {
-                  "helmet": "Arrow"
+                  "head": "Arrow"
                 }
               ],
               "levels": [
@@ -458,7 +458,7 @@
               "description": "As pathetic as Mules are, having an abundance of them on hand is essential to the logistics of any properly organized incursion.",
               "equipment": [
                 {
-                  "helmet": "Black Banner"
+                  "head": "Black Banner"
                 },
                 {
                   "main_hand": "Chest",
@@ -498,7 +498,7 @@
               "description": "Having grown acustomed to the weight of the luggage, Bearers begin to understand their vital role in the collective.",
               "equipment": [
                 {
-                  "helmet": "Black Banner"
+                  "head": "Black Banner"
                 },
                 {
                   "main_hand": "Chest",
@@ -538,7 +538,7 @@
               "description": "Properly respected by its fellow zombies, the captain ties together otherwise roaming bands of senseless raiders into a band of brothers.",
               "equipment": [
                 {
-                  "helmet": "Black Banner"
+                  "head": "Black Banner"
                 },
                 {
                   "main_hand": "Chest",
@@ -574,7 +574,7 @@
               "description": "Majors take pride in their supervision over the green tide and charge into battle to inspire their fellow zombies.",
               "equipment": [
                 {
-                  "helmet": "Black Banner"
+                  "head": "Black Banner"
                 },
                 {
                   "main_hand": "Chest",
@@ -618,7 +618,7 @@
               "description": "Rotghouls are sickly in appearance with little skin remaining on their bones. Due to their frail nature, they tend to hunt as scavengers in packs.",
               "equipment": [
                 {
-                  "helmet": "Feather"
+                  "head": "Feather"
                 }
               ],
               "levels": [
@@ -651,7 +651,7 @@
               "description": "After consuming enough mass, Rotghouls start to rebuild muscles necessary to hunt down near-death prey.",
               "equipment": [
                 {
-                  "helmet": "Feather"
+                  "head": "Feather"
                 }
               ],
               "levels": [
@@ -684,7 +684,7 @@
               "description": "Driven into a ravenous frenzy at the smell of flesh, Rothaunts are known to pounce upon nearby unwary travelers.",
               "equipment": [
                 {
-                  "helmet": "Feather"
+                  "head": "Feather"
                 }
               ],
               "levels": [
@@ -717,7 +717,7 @@
               "description": "Reverting back to its primal senses, the Rothound loses a sense of itself and becomes one with its pack.",
               "equipment": [
                 {
-                  "helmet": "Feather"
+                  "head": "Feather"
                 }
               ],
               "levels": [
@@ -749,7 +749,7 @@
               "description": "Rotravens gather in flocks to deliver death en-masse.",
               "equipment": [
                 {
-                  "helmet": "Feather"
+                  "head": "Feather"
                 }
               ],
               "levels": [

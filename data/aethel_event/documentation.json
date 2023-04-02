@@ -25,6 +25,61 @@
       ]
     },
     {
+      "event": "Capture The Queen",
+      "description": "Players must deliver their opponent's banner to their team's spawn to score a point.",
+      "maps": [
+        {
+          "map": "Vulture Valley",
+          "objective": "CaptureTheQueenVultureValley",
+          "teams": [
+            {
+              "team": "Blue"
+            },
+            {
+              "team": "Red"
+            }
+          ],
+          "loadout": [
+            {
+              "chest": "Iron Chestplate",
+              "enchantments": "Protection II, Unbreaking III"
+            },
+            {
+              "legs": "Iron Leggings",
+              "enchantments": "Protection II, Unbreaking III"
+            },
+            {
+              "feet": "Iron Boots",
+              "enchantments": "Protection II, Unbreaking III"
+            },
+            {
+              "inventory": "Stone Sword",
+              "enchantments": "Sharpness I, Unbreaking III"
+            },
+            {
+              "inventory": "Bow"
+            },
+            {
+              "inventory": "Stone Axe",
+              "enchantments": "Sharpness I, Unbreaking III"
+            },
+            {
+              "inventory": "Arrow",
+              "quantity": 16
+            },
+            {
+              "inventory": "Golden Apple",
+              "quantity": 3
+            },
+            {
+              "inventory": "Cooked Beef",
+              "quantity": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
       "event": "Creeperball",
       "description": "Opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
       "maps": [
@@ -52,12 +107,28 @@
     },
     {
       "event": "Deathmatch",
-      "description": "Players are given kits to fight each other. Last one standing wins.",
+      "description": "Players use kits to fight each other. Last one standing wins.",
       "maps": [
         {
           "map": "Nylium Hills",
           "objective": "DeathmatchNyliumHills",
           "loadout": [
+            {
+              "head": "Diamond Helmet",
+              "enchantments": "Protection III"
+            },
+            {
+              "chest": "Diamond Chestplate",
+              "enchantments": "Protection III"
+            },
+            {
+              "legs": "Diamond Leggings",
+              "enchantments": "Protection III"
+            },
+            {
+              "feet": "Diamond Boots",
+              "enchantments": "Protection III, Feather Falling II"
+            },
             {
               "inventory": "Diamond Sword",
               "enchantments": "Sharpness II, Knockback I"
@@ -65,6 +136,10 @@
             {
               "inventory": "Bow",
               "enchantments": "Power I, Punch I"
+            },
+            {
+              "inventory": "Arrow",
+              "quantity": "16"
             },
             {
               "inventory": "Splash Potion",
@@ -143,7 +218,7 @@
               "type": "Seeker",
               "loadout": [
                 {
-                  "boots": "Leather Boots",
+                  "feet": "Leather Boots",
                   "attributes": [
                     {
                       "movement_speed": "+0.075"
