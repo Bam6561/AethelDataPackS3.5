@@ -1,5 +1,5 @@
 clear @s
-tp @s 510 63 539 270 0
+tp @s 512 63 539 270 0
 
 # Join game with generic loadout
 give @s rabbit_foot{display: {Name: '[{"text":"Kick","italic":false}]'}, Enchantments: [{id: "knockback", lvl: 1}, {id: "vanishing_curse", lvl: 1}]}
