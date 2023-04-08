@@ -226,45 +226,45 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "map": "Wyrmtooth",
+          "teams": [
+            {
+              "team": "Hider",
+              "name_tag_visibility": "Hide for other teams"
             },
             {
-              "map": "Wyrmtooth",
-              "teams": [
+              "team": "Seeker",
+              "color": "Gold"
+            }
+          ],
+          "loadouts": [
+            {
+              "type": "Hider",
+              "loadout": [
                 {
-                  "team": "Hider",
-                  "name_tag_visibility": "Hide for other teams"
+                  "inventory": "Potion",
+                  "name": "Hide",
+                  "effects": "Invisibility (0:10)"
                 },
                 {
-                  "team": "Seeker",
-                  "color": "Gold"
+                  "inventory": "Splash Potion",
+                  "name": "Stun",
+                  "effects:": "Jump Boost 129 (0:04), Slowness 255 (0:04)"
                 }
-              ],
-              "loadouts": [
+              ]
+            },
+            {
+              "type": "Seeker",
+              "loadout": [
                 {
-                  "type": "Hider",
-                  "loadout": [
+                  "boots": "Leather Boots",
+                  "attributes": [
                     {
-                      "inventory": "Potion",
-                      "name": "Hide",
-                      "effects": "Invisibility (0:10)"
-                    },
-                    {
-                      "inventory": "Splash Potion",
-                      "name": "Stun",
-                      "effects:": "Jump Boost 129 (0:04), Slowness 255 (0:04)"
-                    }
-                  ]
-                },
-                {
-                  "type": "Seeker",
-                  "loadout": [
-                    {
-                      "boots": "Leather Boots",
-                      "attributes": [
-                        {
-                          "movement_speed": "+0.09"
-                        }
-                      ]
+                      "movement_speed": "+0.09"
                     }
                   ]
                 }
@@ -273,14 +273,65 @@
           ]
         },
         {
-          "name": "Parkour",
-          "description": "Players jump block to block to achieve the fastest times on the course.",
-          "maps": [
+          "map": "PekoVille",
+          "teams": [
             {
-              "map": "Elements",
-              "objective": "ParkourElements"
+              "team": "Hider",
+              "name_tag_visibility": "Hide for other teams"
+            },
+            {
+              "team": "Seeker",
+              "color": "Gold"
+            }
+          ],
+          "loadouts": [
+            {
+              "type": "Hider",
+              "loadout": [
+                {
+                  "inventory": "Potion",
+                  "name": "Hide",
+                  "effects:": "Invisibility (0:08)"
+                },
+                {
+                  "inventory": "Splash Potion",
+                  "name": "Stun",
+                  "effects:": "Jump Boost 129 (0:03), Slowness 255 (0:03)"
+                }
+              ]
+            },
+            {
+              "type": "Seeker",
+              "loadout": [
+                {
+                  "chest": "Elytra",
+                  "durability": 51
+                },
+                {
+                  "feet": "Leather Boots",
+                  "attributes": [
+                    {
+                      "movement_speed": "+0.075"
+                    }
+                  ]
+                },
+                {
+                  "inventory": "Firework Rocket",
+                  "quantity": 8
+                }
+              ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Parkour",
+      "description": "Players jump block to block to achieve the fastest times on the course.",
+      "maps": [
+        {
+          "map": "Elements",
+          "objective": "ParkourElements"
         }
       ]
     }
