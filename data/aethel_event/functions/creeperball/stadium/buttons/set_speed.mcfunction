@@ -1,2 +1,2 @@
-fill 507 66 533 507 66 528 air
+fill 507 79 531 507 79 526 air
 setblock ~ ~2 ~ redstone_block

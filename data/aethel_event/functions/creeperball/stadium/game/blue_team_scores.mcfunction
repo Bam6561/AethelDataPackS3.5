@@ -9,3 +9,7 @@ summon minecraft:firework_rocket 580 63 542 {LifeTime: 10, Motion: [0.0d, 1.0d, 
 
 # Update everyone of both teams' score
 execute as @a[predicate=aethel_event:creeperball/stadium/zones/event] run tellraw @s [{"text":"Blue: ","color":"dark_blue"},{"score":{"name":"Blue","objective":"CreeperballStadium"},"color":"white"},{"text":" | ","color":"gray"},{"text":"Red: ","color":"red"},{"score":{"name":"Red","objective":"CreeperballStadium"},"color":"white"}]
+
+# TP players to their side of the field
+tp @a[team=CreeperballBlue] 539 63 539 270 0
+tp @a[team=CaptureTheQueenRed] 555 63 539 90 0

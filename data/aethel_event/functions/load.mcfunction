@@ -13,6 +13,12 @@ team modify CaptureTheQueenRed friendlyFire false
 scoreboard objectives add CaptureTheQueenVultureValley dummy
 
 # Creeperball
+team add CreeperballBlue
+team modify CreeperballBlue friendlyFire false
+
+team add CreeperballRed
+team modify CreeperballRed friendlyFire false
+
 scoreboard objectives add CreeperballStadium dummy
 
 # Deathmatch
