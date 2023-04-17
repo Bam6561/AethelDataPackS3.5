@@ -1,4 +1,5 @@
 clear @s
+spawnpoint @s 512 63 539 270
 tp @s 512 63 539 270 0
 
 # Join game with generic loadout

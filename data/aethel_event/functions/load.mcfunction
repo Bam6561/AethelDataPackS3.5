@@ -1,3 +1,6 @@
+# General
+scoreboard objectives add TimeSinceDeath minecraft.custom:minecraft.time_since_death
+
 # Capture the Queen
 team add CaptureTheQueenBlue
 team modify CaptureTheQueenBlue color blue
@@ -25,6 +28,22 @@ team modify Hider friendlyFire false
 team add Seeker
 team modify Seeker color gold
 team modify Seeker friendlyFire false
+
+# King of the Hill
+team add KingOfTheHillBlue
+team modify KingOfTheHillBlue color blue
+team modify KingOfTheHillBlue friendlyFire false
+
+team add KingOfTheHillRed
+team modify KingOfTheHillRed color red
+team modify KingOfTheHillRed friendlyFire false
+
+scoreboard objectives add KingOfTheHillFrostbite dummy
+scoreboard players add Refinery KingOfTheHillFrostbite 0
+scoreboard players add ThroneRoom KingOfTheHillFrostbite 0
+scoreboard players add StoragePit KingOfTheHillFrostbite 0
+scoreboard players add DragonSkull KingOfTheHillFrostbite 0
+scoreboard players add IceBridges KingOfTheHillFrostbite 0
 
 # Parkour
 scoreboard objectives add ParkourElements dummy

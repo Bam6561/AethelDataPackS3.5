@@ -1,0 +1,2 @@
+clear @s
+function aethel_event:king_of_the_hill/return_to_hub

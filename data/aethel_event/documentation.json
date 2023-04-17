@@ -326,6 +326,75 @@
       ]
     },
     {
+      "event": "King of The Hill",
+      "description": "Opposing teams must capture points on the map.",
+      "maps": [
+        {
+          "map": "Frostbite",
+          "objective": "KingOfTheHillFrostbite",
+          "teams": [
+            {
+              "team": "Blue"
+            },
+            {
+              "team": "Red"
+            }
+          ],
+          "loadout": [
+            {
+              "head": "Chainmail Helmet",
+              "enchantments": "Protection I"
+            },
+            {
+              "chest": "Chainmail Chestplate",
+              "enchantments": "Protection I"
+            },
+            {
+              "leggings": "Chainmail Leggings",
+              "enchantments": "Protection I"
+            },
+            {
+              "boots": "Chainmail Boots",
+              "enchantments": "Protection I"
+            },
+            {
+              "inventory": "Stone Sword",
+              "enchantments": "Unbreaking V"
+            },
+            {
+              "inventory": "Bow"
+            },
+            {
+              "inventory": "Arrow",
+              "quantity": "16"
+            },
+            {
+              "inventory": "Cooked Beef",
+              "quantity": "16"
+            },
+            {
+              "inventory": "Golden Apple",
+              "quantity": "2"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Instant Health III",
+              "quantity": "2"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Levitation III (0:03)"
+            },
+            {
+              "inventory": "Splash Potion",
+              "effects": "Harming I",
+              "quantity": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Parkour",
       "description": "Players jump block to block to achieve the fastest times on the course.",
       "maps": [
