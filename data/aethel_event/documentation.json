@@ -26,7 +26,7 @@
     },
     {
       "event": "Capture The Queen",
-      "description": "Players must deliver their opponent's banner to their team's spawn to score a point.",
+      "description": "Deliver the opposing team's banner to your team's banner spawn to score points.",
       "maps": [
         {
           "map": "Vulture Valley",
@@ -81,7 +81,7 @@
     },
     {
       "event": "Creeperball",
-      "description": "Opposing teams must send a no-gravity creeper into their opponent's net to score a point.",
+      "description": "Kick a creeper into the opposing team's net to score points.",
       "maps": [
         {
           "map": "Stadium",
@@ -107,7 +107,7 @@
     },
     {
       "event": "Deathmatch",
-      "description": "Players use kits to fight each other. Last one standing wins.",
+      "description": "Last one standing wins in the free-for-all.",
       "maps": [
         {
           "map": "Nylium Hills",
@@ -184,7 +184,7 @@
     },
     {
       "event": "Hide and Seek",
-      "description": "Hiders evade Seekers for as long as possible.",
+      "description": "Evade the Seekers and find the Hiders.",
       "maps": [
         {
           "map": "Headwater",
@@ -327,7 +327,7 @@
     },
     {
       "event": "King of The Hill",
-      "description": "Opposing teams must capture points on the map.",
+      "description": "Capture points for your team by standing on the beacons.",
       "maps": [
         {
           "map": "Frostbite",
@@ -396,7 +396,7 @@
     },
     {
       "name": "Parkour",
-      "description": "Players jump block to block to achieve the fastest times on the course.",
+      "description": "Achieve the fastest time possible on the course.",
       "maps": [
         {
           "map": "Elements",
