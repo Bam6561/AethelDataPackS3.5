@@ -33,10 +33,14 @@
           "objective": "CaptureTheQueenVultureValley",
           "teams": [
             {
-              "team": "Blue"
+              "team": "Blue",
+              "color": "Blue",
+              "friendlyFire": "false"
             },
             {
-              "team": "Red"
+              "team": "Red",
+              "color": "Red",
+              "friendlyFire": "false"
             }
           ],
           "loadout": [
@@ -86,20 +90,46 @@
         {
           "map": "Stadium",
           "objective": "CreeperballStadium",
-          "loadout": [
+          "teams": [
             {
-              "inventory": "Rabbit Foot",
-              "enchantments": "Knockback I"
-            },
-            {
-              "inventory": "Leather Armor",
+              "team": "Blue",
               "color": "Blue",
-              "unique": "Unbreakable"
+              "friendlyFire": "false"
             },
             {
-              "inventory": "Leather Armor",
+              "team": "Red",
               "color": "Red",
-              "unique": "Unbreakable"
+              "friendlyFire": "false"
+            }
+          ],
+          "loadouts": [
+            {
+              "type": "Blue",
+              "loadout": [
+                {
+                  "inventory": "Rabbit Foot",
+                  "enchantments": "Knockback I"
+                },
+                {
+                  "inventory": "Leather Armor",
+                  "color": "Blue",
+                  "unique": "Unbreakable"
+                }
+              ]
+            },
+            {
+              "type": "Red",
+              "loadout": [
+                {
+                  "inventory": "Rabbit Foot",
+                  "enchantments": "Knockback I"
+                },
+                {
+                  "inventory": "Leather Armor",
+                  "color": "Red",
+                  "unique": "Unbreakable"
+                }
+              ]
             }
           ]
         }
@@ -191,11 +221,14 @@
           "teams": [
             {
               "team": "Hider",
+              "color": "Gray",
+              "friendlyFire": "false",
               "name_tag_visibility": "Hide for other teams"
             },
             {
               "team": "Seeker",
-              "color": "Gold"
+              "color": "Gold",
+              "friendlyFire": "false"
             }
           ],
           "loadouts": [
@@ -234,11 +267,14 @@
           "teams": [
             {
               "team": "Hider",
+              "color": "Gray",
+              "friendlyFire": "false",
               "name_tag_visibility": "Hide for other teams"
             },
             {
               "team": "Seeker",
-              "color": "Gold"
+              "color": "Gold",
+              "friendlyFire": "false"
             }
           ],
           "loadouts": [
@@ -277,11 +313,14 @@
           "teams": [
             {
               "team": "Hider",
+              "color": "Gray",
+              "friendlyFire": "false",
               "name_tag_visibility": "Hide for other teams"
             },
             {
               "team": "Seeker",
-              "color": "Gold"
+              "color": "Gold",
+              "friendlyFire": "false"
             }
           ],
           "loadouts": [
@@ -334,10 +373,14 @@
           "objective": "KingOfTheHillFrostbite",
           "teams": [
             {
-              "team": "Blue"
+              "team": "Blue",
+              "color": "Blue",
+              "friendlyFire": "false"
             },
             {
-              "team": "Red"
+              "team": "Red",
+              "color": "Red",
+              "friendlyFire": "false"
             }
           ],
           "loadout": [
