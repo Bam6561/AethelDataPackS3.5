@@ -1,5 +1,6 @@
 {
 	"values": [
-		"aethel_event:load"
+		"aethel_event:load",
+		"aethel_general:load"
 	]
 }

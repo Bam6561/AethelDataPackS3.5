@@ -137,7 +137,7 @@
     },
     {
       "event": "Deathmatch",
-      "description": "Last one standing wins in the free-for-all.",
+      "description": "Last one standing in the arena wins.",
       "maps": [
         {
           "map": "Nylium Hills",
@@ -214,7 +214,7 @@
     },
     {
       "event": "Hide and Seek",
-      "description": "Evade the Seekers and find the Hiders.",
+      "description": "Evade the Seekers. Find the Hiders.",
       "maps": [
         {
           "map": "Headwater",
@@ -366,7 +366,7 @@
     },
     {
       "event": "King of the Hill",
-      "description": "Capture points for your team by standing on the beacons.",
+      "description": "Control beacons as a team to score points.",
       "maps": [
         {
           "map": "Frostbite",

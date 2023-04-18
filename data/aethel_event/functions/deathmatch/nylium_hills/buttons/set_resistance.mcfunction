@@ -1,2 +1,2 @@
-fill 613 90 1835 613 90 1837 air
+fill 613 90 1833 613 90 1835 air
 setblock ~ ~2 ~ redstone_block
