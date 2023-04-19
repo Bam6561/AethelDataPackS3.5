@@ -1,0 +1,29 @@
+seasons:
+- season:
+  builds:
+  - build:
+    owner:
+- season: 1
+  builds:
+  - build: Augurey's Island
+    owner: Augurey
+  - build: Skull Mountain
+    owner: Spartan
+  - build: Spartan's Pantheon
+    owner: Spartan
+  - build: The Titan's Order
+    owner: Titan & Owl
+- season: 2
+  builds:
+  - build: Catboy Island
+    owner: Aki
+  - build: Super's Island
+    owner: Super
+- season: 3
+  builds:
+  - build: Augurey's Island 2
+    owner: Augurey
+  - build: Necron & Sadan
+    owner: Dave
+  - build: Queen's Mushroom Island
+    owner: Queen
