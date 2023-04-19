@@ -257,6 +257,9 @@
                       "movement_speed": "+0.075"
                     }
                   ]
+                },
+                {
+                  "inventory": "Spyglass"
                 }
               ]
             }
@@ -303,6 +306,9 @@
                       "movement_speed": "+0.09"
                     }
                   ]
+                },
+                {
+                  "inventory": "Spyglass"
                 }
               ]
             }
@@ -353,6 +359,9 @@
                       "movement_speed": "+0.075"
                     }
                   ]
+                },
+                {
+                  "inventory": "Spyglass"
                 },
                 {
                   "inventory": "Firework Rocket",

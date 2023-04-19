@@ -4,7 +4,8 @@
       "season": "",
       "builds": [
         {
-          "build": ""
+          "build": "",
+          "owner": ""
         }
       ]
     },
@@ -12,13 +13,20 @@
       "season": "1",
       "builds": [
         {
-          "build": "Augurey's Island"
+          "build": "Augurey's Island",
+          "owner": "Augurey"
         },
         {
-          "build": "Skull Mountain"
+          "build": "Skull Mountain",
+          "owner": "Spartan"
         },
         {
-          "build": "Spartan's Pantheon"
+          "build": "Spartan's Pantheon",
+          "owner": "Spartan"
+        },
+        {
+          "build": "The Titan's Order",
+          "owner": "Titan & Owl"
         }
       ]
     },
@@ -26,10 +34,12 @@
       "season": "2",
       "builds": [
         {
-          "build": "Catboy Island"
+          "build": "Catboy Island",
+          "owner": "Aki"
         },
         {
-          "build": "Super's Island"
+          "build": "Super's Island",
+          "owner": "Super"
         }
       ]
     },
@@ -37,13 +47,16 @@
       "season": "3",
       "builds": [
         {
-          "build": "Augurey's Island 2"
+          "build": "Augurey's Island 2",
+          "owner": "Augurey"
         },
         {
-          "build": "Necron & Sadan"
+          "build": "Necron & Sadan",
+          "owner": "Dave"
         },
         {
-          "build": "Queen's Mushroom Island"
+          "build": "Queen's Mushroom Island",
+          "owner": "Queen"
         }
       ]
     }
