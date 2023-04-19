@@ -1,0 +1,51 @@
+{
+  "seasons": [
+    {
+      "season": "",
+      "builds": [
+        {
+          "build": ""
+        }
+      ]
+    },
+    {
+      "season": "1",
+      "builds": [
+        {
+          "build": "Augurey's Island"
+        },
+        {
+          "build": "Skull Mountain"
+        },
+        {
+          "build": "Spartan's Pantheon"
+        }
+      ]
+    },
+    {
+      "season": "2",
+      "builds": [
+        {
+          "build": "Catboy Island"
+        },
+        {
+          "build": "Super's Island"
+        }
+      ]
+    },
+    {
+      "season": "3",
+      "builds": [
+        {
+          "build": "Augurey's Island 2"
+        },
+        {
+          "build": "Necron & Sadan"
+        },
+        {
+          "build": "Queen's Mushroom Island"
+        }
+      ]
+    }
+  ]
+}
