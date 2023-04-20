@@ -1,0 +1,5 @@
+execute positioned 674 70 517 if entity @a[distance=..1.5,team=KingOfTheHillBlue] if score FBRefinery KingOfTheHill matches ..149 run scoreboard players add FBRefinery KingOfTheHill 1
+execute positioned 679 66 541 if entity @a[distance=..1.5,team=KingOfTheHillBlue] if score FBThroneRoom KingOfTheHill matches ..149 run scoreboard players add FBThroneRoom KingOfTheHill 1
+execute positioned 674 69 565 if entity @a[distance=..1.5,team=KingOfTheHillBlue] if score FBStoragePit KingOfTheHill matches ..149 run scoreboard players add FBStoragePit KingOfTheHill 1
+execute positioned 656 81 541 if entity @a[distance=..1.5,team=KingOfTheHillBlue] if score FBDragonSkull KingOfTheHill matches ..149 run scoreboard players add FBDragonSkull KingOfTheHill 1
+execute positioned 623 63 541 if entity @a[distance=..1.5,team=KingOfTheHillBlue] if score FBIceBridges KingOfTheHill matches ..149 run scoreboard players add FBIceBridges KingOfTheHill 1

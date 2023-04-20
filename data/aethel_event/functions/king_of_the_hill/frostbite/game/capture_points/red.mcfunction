@@ -1,5 +1,0 @@
-execute positioned 674 70 517 if entity @a[distance=..1.5,team=KingOfTheHillRed] if score Refinery KingOfTheHillFrostbite matches -149.. run scoreboard players remove Refinery KingOfTheHillFrostbite 1
-execute positioned 679 66 541 if entity @a[distance=..1.5,team=KingOfTheHillRed] if score ThroneRoom KingOfTheHillFrostbite matches -149.. run scoreboard players remove ThroneRoom KingOfTheHillFrostbite 1
-execute positioned 674 69 565 if entity @a[distance=..1.5,team=KingOfTheHillRed] if score StoragePit KingOfTheHillFrostbite matches -149.. run scoreboard players remove StoragePit KingOfTheHillFrostbite 1
-execute positioned 656 81 541 if entity @a[distance=..1.5,team=KingOfTheHillRed] if score DragonSkull KingOfTheHillFrostbite matches -149.. run scoreboard players remove DragonSkull KingOfTheHillFrostbite 1
-execute positioned 623 63 541 if entity @a[distance=..1.5,team=KingOfTheHillRed] if score IceBridges KingOfTheHillFrostbite matches -149.. run scoreboard players remove IceBridges KingOfTheHillFrostbite 1

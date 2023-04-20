@@ -1,2 +1,0 @@
-execute as @a[predicate=aethel_event:hide_and_seek/pekoville/zones/event] run effect give @s resistance 2 4 true
-execute as @a[predicate=aethel_event:hide_and_seek/pekoville/zones/event] run effect give @s saturation 2 1 true

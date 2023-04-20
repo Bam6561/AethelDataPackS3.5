@@ -1,0 +1,2 @@
+execute as @a[predicate=aethel_event:minigame/creeperball/stadium/zones/event] run effect give @s resistance 2 4 true
+execute as @a[predicate=aethel_event:minigame/creeperball/stadium/zones/event] run effect give @s saturation 2 1 true

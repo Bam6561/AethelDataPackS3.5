@@ -1,2 +1,0 @@
-execute as @a[predicate=aethel_event:capture_the_queen/vulture_valley/banner_carry/blue] run effect give @s slowness 2 0 true
-execute as @a[predicate=aethel_event:capture_the_queen/vulture_valley/banner_carry/red] run effect give @s slowness 2 0 true

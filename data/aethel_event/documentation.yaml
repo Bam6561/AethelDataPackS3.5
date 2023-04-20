@@ -3,8 +3,7 @@ events:
   description:
   maps:
   - map:
-    objectives:
-    - objective:
+    objective:
     teams:
     - team:
     loadouts:
@@ -13,7 +12,7 @@ events:
   description: Deliver the opposing team's banner to your team's banner spawn to score points.
   maps:
   - map: Vulture Valley
-    objective: CaptureTheQueenVultureValley
+    objective: VTVL
     teams:
     - team: Blue
       color: Blue
@@ -43,7 +42,7 @@ events:
   description: Kick a creeper into the opposing team's net to score points.
   maps:
   - map: Stadium
-    objective: CreeperballStadium
+    objective: SDU
     teams:
     - team: Blue
       color: Blue
@@ -70,7 +69,7 @@ events:
   description: Last one standing in the arena wins.
   maps:
   - map: Nylium Hills
-    objective: DeathmatchNyliumHills
+    objective: NLUH
     loadout:
     - head: Diamond Helmet
       enchantments: Protection III
@@ -190,7 +189,7 @@ events:
   description: Control beacons as a team to score points.
   maps:
   - map: Frostbite
-    objective: KingOfTheHillFrostbite
+    objective: FB
     teams:
     - team: Blue
       color: Blue
@@ -228,4 +227,4 @@ events:
   description: Achieve the fastest time possible on the course.
   maps:
   - map: Elements
-    objective: ParkourElements
+    objective: ELM
