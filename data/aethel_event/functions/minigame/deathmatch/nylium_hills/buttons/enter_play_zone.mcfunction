@@ -1,4 +1,3 @@
-# Loadout
 function aethel_event:minigame/deathmatch/nylium_hills/game/loadout
 
 # Random Spawn

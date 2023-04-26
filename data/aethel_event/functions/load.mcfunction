@@ -1,6 +1,3 @@
-# General
-scoreboard objectives add TimeSinceDeath minecraft.custom:minecraft.time_since_death
-
 # Capture the Queen
 team add CaptureTheQueenBlue
 team modify CaptureTheQueenBlue color blue
@@ -50,6 +47,17 @@ scoreboard players add FBThroneRoom KingOfTheHill 0
 scoreboard players add FBStoragePit KingOfTheHill 0
 scoreboard players add FBDragonSkull KingOfTheHill 0
 scoreboard players add FBIceBridges KingOfTheHill 0
+
+# Monster Contract
+team add MonsterContractMonsters
+team modify MonsterContractMonsters color dark_purple
+team modify MonsterContractMonsters friendlyFire false
+
+team add MonsterContractSlayers
+team modify MonsterContractSlayers color gold
+team modify MonsterContractSlayers friendlyFire false
+
+scoreboard objectives add MonsterContract dummy
 
 # Parkour
 scoreboard objectives add Parkour dummy

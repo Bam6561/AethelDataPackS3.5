@@ -5,5 +5,5 @@ execute as @a[predicate=aethel_event:minigame/king_of_the_hill/frostbite/zones/p
 function aethel_event:minigame/king_of_the_hill/frostbite/game/capture_points/blue
 function aethel_event:minigame/king_of_the_hill/frostbite/game/capture_points/red
 
-# Beacon Colors
+# Beacon Captures
 function aethel_event:minigame/king_of_the_hill/frostbite/game/beacon_color

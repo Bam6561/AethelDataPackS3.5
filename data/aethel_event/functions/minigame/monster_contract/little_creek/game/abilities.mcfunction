@@ -1,0 +1,4 @@
+execute as @a[predicate=aethel_event:minigame/monster_contract/little_creek/zones/play,tag=MonsterContractVampire,scores={SneakTime=1..}] run function aethel_event:minigame/monster_contract/little_creek/game/monsters/vampire/abilities
+execute as @a[predicate=aethel_event:minigame/monster_contract/little_creek/zones/play,tag=MonsterContractBountyHunter,scores={SneakTime=1..}] run function aethel_event:minigame/monster_contract/little_creek/game/slayers/bounty_hunter/abilities
+execute as @a[predicate=aethel_event:minigame/monster_contract/little_creek/zones/play,tag=MonsterContractCleric,scores={SneakTime=1..}] run function aethel_event:minigame/monster_contract/little_creek/game/slayers/cleric/abilities
+execute as @a[predicate=aethel_event:minigame/monster_contract/little_creek/zones/play,tag=MonsterContractTrapper,scores={SneakTime=1..}] run function aethel_event:minigame/monster_contract/little_creek/game/slayers/trapper/abilities

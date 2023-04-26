@@ -126,7 +126,7 @@ minigames:
         effects: Invisibility (0:08)
       - inventory: Splash Potion
         name: Stun
-        effects: Jump Boost 129 (0:03), Slowness 255 (0:03)
+        effects: Jump Boost 251 (0:03), Slowness 255 (0:03)
     - type: Seeker
       loadout:
       - feet: Leather Boots
@@ -150,7 +150,7 @@ minigames:
         effects: Invisibility (0:10)
       - inventory: Splash Potion
         name: Stun
-        effects: Jump Boost 129 (0:04), Slowness 255 (0:04)
+        effects: Jump Boost 251 (0:04), Slowness 255 (0:04)
     - type: Seeker
       loadout:
       - boots: Leather Boots
@@ -174,7 +174,7 @@ minigames:
         effects: Invisibility (0:08)
       - inventory: Splash Potion
         name: Stun
-        effects: Jump Boost 129 (0:03), Slowness 255 (0:03)
+        effects: Jump Boost 251 (0:03), Slowness 255 (0:03)
     - type: Seeker
       loadout:
       - chest: Elytra
