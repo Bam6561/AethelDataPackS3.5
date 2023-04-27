@@ -1,29 +1,29 @@
 seasons:
-- season:
+- season: 
   builds:
-  - id:
-    build:
+  - id: 
+    name: 
 - season: 1
   builds:
   - id: aug_isl
-    build: Augurey's Island
+    name: Augurey's Island
   - id: sku_mou 
-    build: Skull Mountain
+    name: Skull Mountain
   - id: spa_pan
-    build: Spartan's Pantheon
+    name: Spartan's Pantheon
   - id: tit_ord
-    build: The Titan's Order
+    name: The Titan's Order
 - season: 2
   builds:
   - id: cat_isl
-    build: Catboy_Island
+    name: Catboy_Island
   - id: sup_isl
-    build: Super's Island
+    name: Super's Island
 - season: 3
   builds:
   - id: aug_isl_2
-    build: Augurey's Island 2
+    name: Augurey's Island 2
   - id: nec_sad
-    build: Necron and Sadan
+    name: Necron and Sadan
   - id: que_mus_isl
-    build: Queen's Mushroom Island
+    name: Queen's Mushroom Island

@@ -1,0 +1,1 @@
+function aet_mob:zombie/standard/buff
