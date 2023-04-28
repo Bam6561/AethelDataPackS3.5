@@ -1,13 +1,13 @@
 # Capture the Queen
-team add CaptureTheQueenBlue
-team modify CaptureTheQueenBlue color blue
-team modify CaptureTheQueenBlue friendlyFire false
+team add CapQueBlue
+team modify CapQueBlue color blue
+team modify CapQueBlue friendlyFire false
 
-team add CaptureTheQueenRed
-team modify CaptureTheQueenRed color red
-team modify CaptureTheQueenRed friendlyFire false
+team add CapQueRed
+team modify CapQueRed color red
+team modify CapQueRed friendlyFire false
 
-scoreboard objectives add CaptureTheQueen dummy
+scoreboard objectives add CapQue dummy
 
 # Creeperball
 team add CreeperballBlue
