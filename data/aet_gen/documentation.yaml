@@ -1,0 +1,19 @@
+types:
+- type: 
+  commands:
+  - id: 
+    name: 
+    description: 
+    conditions: 
+- type: Operator
+  commands:
+  - id: gset
+    name: God Set
+    description: Gears the user instantly with a god set.
+    conditions:
+- type: Trigger
+  commands:
+  - id: unstuck
+    name: Unstuck
+    description: Teleports the user to a set location in Isladora.
+    conditions: In world_isladora
