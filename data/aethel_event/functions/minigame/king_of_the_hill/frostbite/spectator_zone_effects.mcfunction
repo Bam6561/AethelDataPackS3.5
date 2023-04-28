@@ -1,2 +1,0 @@
-execute as @a[predicate=aethel_event:minigame/king_of_the_hill/frostbite/zones/spectator] run effect give @s resistance 2 4 true
-execute as @a[predicate=aethel_event:minigame/king_of_the_hill/frostbite/zones/spectator] run effect give @s saturation 2 1 true

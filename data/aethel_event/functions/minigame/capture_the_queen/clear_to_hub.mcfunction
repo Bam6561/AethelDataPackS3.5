@@ -1,2 +1,0 @@
-clear @s
-function aethel_event:minigame/capture_the_queen/return_to_hub

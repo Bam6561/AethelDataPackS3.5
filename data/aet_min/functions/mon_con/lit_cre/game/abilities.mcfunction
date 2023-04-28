@@ -1,0 +1,4 @@
+execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractVampire,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/monsters/vampire/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractBountyHunter,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/bounty_hunter/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractCleric,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/cleric/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractTrapper,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/trapper/abilities

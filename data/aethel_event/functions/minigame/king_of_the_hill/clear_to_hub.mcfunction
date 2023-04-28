@@ -1,2 +1,0 @@
-clear @s
-function aethel_event:minigame/king_of_the_hill/return_to_hub
