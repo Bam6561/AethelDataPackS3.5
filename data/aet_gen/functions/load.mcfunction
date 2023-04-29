@@ -1,4 +1,5 @@
 # General
+scoreboard objectives add PlayerKills minecraft.custom:player_kills
 scoreboard objectives add Deaths minecraft.custom:deaths
 scoreboard objectives add Health health
 scoreboard objectives add SneakTime minecraft.custom:sneak_time

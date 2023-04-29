@@ -21,8 +21,8 @@ team modify CreBallRed friendlyFire false
 scoreboard objectives add CreBall dummy
 
 # Deathmatch
-scoreboard objectives add Deathmatch dummy
-scoreboard players set NLUHRandomSpawn Deathmatch 0
+scoreboard objectives add DeaMat dummy
+scoreboard players set NLUHRandSpa DeaMat 0
 
 # Hide and Seek
 team add Hider
