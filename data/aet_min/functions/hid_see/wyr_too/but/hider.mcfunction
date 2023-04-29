@@ -1,4 +1,4 @@
-team join Hider @s
+team join HidSeeHider @s
 effect give @s invisibility 15 0 true
 
 tp @s 581 63 660 270 0

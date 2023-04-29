@@ -1,4 +1,4 @@
-team join Seeker @s
+team join HidSeeSeeker @s
 
 tp @s 780 63 670
 item replace entity @s armor.chest with elytra{display: {Name: '[{"text":"Seeker Elytra","italic":false}]'}, Enchantments: [{id: "binding_curse", lvl: 1}, {id: "vanishing_curse", lvl: 1}], Damage: 381}

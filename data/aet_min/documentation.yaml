@@ -2,6 +2,7 @@ minigames:
 - id: 
   name: 
   description: 
+  objective: 
   maps:
   - id: 
     name: 
@@ -13,15 +14,16 @@ minigames:
 - id: cap_que
   name: Capture The Queen
   description: Deliver the opposing team's banner to your team's banner spawn to score points.
+  objective: CapQue
   maps:
   - id: vul_val
     name: Vulture Valley
     oid: VTVL
     teams:
-    - team: Blue
+    - team: CapQueBlue
       color: Blue
       friendlyFire: 'false'
-    - team: Red
+    - team: CapQueRed
       color: Red
       friendlyFire: 'false'
     loadout:
@@ -45,15 +47,16 @@ minigames:
 - id: cre_ball
   name: Creeperball
   description: Kick a creeper into the opposing team's net to score points.
+  objective: CreBall
   maps:
   - id: sta
     name: Stadium
     oid: SDU
     teams:
-    - team: Blue
+    - team: CreBallBlue
       color: Blue
       friendlyFire: 'false'
-    - team: Red
+    - team: CreBallRed
       color: Red
       friendlyFire: 'false'
     loadouts:
@@ -117,15 +120,17 @@ minigames:
 - id: hid_see
   name: Hide & Seek
   description: Evade the Seekers. Find the Hiders.
+  objective: HidSee
   maps:
   - id: hea_wat
     name: Headwater
+    oid: HWT
     teams:
-    - team: Hider
+    - team: HidSeeHider
       color: Gray
       friendlyFire: 'false'
       nametagVisibility: Hide for other teams
-    - team: Seeker
+    - team: HidSeeSeeker
       color: Gold
       friendlyFire: 'false'
     loadouts:
@@ -143,35 +148,11 @@ minigames:
         attributes:
         - movement_speed: +0.075
       - inventory: Spyglass
-  - id: wyr_too
-    name: Wyrmtooth
-    teams:
-    - team: Hider
-      color: Gray
-      friendlyFire: 'false'
-      nametagVisibility: Hide for other teams
-    - team: Seeker
-      color: Gold
-      friendlyFire: 'false'
-    loadouts:
-    - type: Hider
-      loadout:
-      - inventory: Potion
-        name: Hide
-        effects: Invisibility (0:10)
-      - inventory: Splash Potion
-        name: Stun
-        effects: Jump Boost 251 (0:04), Slowness 255 (0:04)
-    - type: Seeker
-      loadout:
-      - boots: Leather Boots
-        attributes:
-        - movement_speed: +0.09
-      - inventory: Spyglass
   - id: pek_vil
     name: PekoVille
+    oid: PKV
     teams:
-    - team: Hider
+    - team: HidSeeHider
       color: Gray
       friendlyFire: 'false'
       nametagVisibility: Hide for other teams
@@ -179,7 +160,7 @@ minigames:
       color: Gold
       friendlyFire: 'false'
     loadouts:
-    - type: Hider
+    - type: HidSeeHider
       loadout:
       - inventory: Potion
         name: Hide
@@ -197,6 +178,32 @@ minigames:
       - inventory: Spyglass
       - inventory: Firework Rocket
         quantity: 8
+  - id: wyr_too
+    name: Wyrmtooth
+    oid: WT
+    teams:
+    - team: HidSeeHider
+      color: Gray
+      friendlyFire: 'false'
+      nametagVisibility: Hide for other teams
+    - team: Seeker
+      color: Gold
+      friendlyFire: 'false'
+    loadouts:
+    - type: HidSeeHider
+      loadout:
+      - inventory: Potion
+        name: Hide
+        effects: Invisibility (0:10)
+      - inventory: Splash Potion
+        name: Stun
+        effects: Jump Boost 251 (0:04), Slowness 255 (0:04)
+    - type: Seeker
+      loadout:
+      - boots: Leather Boots
+        attributes:
+        - movement_speed: +0.09
+      - inventory: Spyglass
 - id: kin_hill
   name: King of the Hill
   description: Control beacons as a team to score points.
