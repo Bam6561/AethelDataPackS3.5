@@ -10,13 +10,15 @@ team modify CapQueRed friendlyFire false
 scoreboard objectives add CapQue dummy
 
 # Creeperball
-team add CreeperballBlue
-team modify CreeperballBlue friendlyFire false
+team add CreBallBlue
+team modify CreBallBlue color blue
+team modify CreBallBlue friendlyFire false
 
-team add CreeperballRed
-team modify CreeperballRed friendlyFire false
+team add CreBallRed
+team modify CreBallRed color red
+team modify CreBallRed friendlyFire false
 
-scoreboard objectives add Creeperball dummy
+scoreboard objectives add CreBall dummy
 
 # Deathmatch
 scoreboard objectives add Deathmatch dummy

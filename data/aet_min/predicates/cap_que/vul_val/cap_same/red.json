@@ -3,7 +3,7 @@
   "entity": "this",
   "predicate": {
     "nbt": "{Inventory: [{id: \"minecraft:red_banner\", tag: {id: \"CapQueRed\"}}]}",
-    "team": "CapQueBlue",
+    "team": "CapQueRed",
     "location": {
       "position": {
         "x": {

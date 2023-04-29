@@ -1,0 +1,24 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:creeper",
+    "nbt": "{Tags:[\"CreBallBall\"]}",
+    "location": {
+      "position": {
+        "x": {
+          "min": 580,
+          "max": 581
+        },
+        "y": {
+          "min": 63,
+          "max": 65
+        },
+        "z": {
+          "min": 544,
+          "max": 562
+        }
+      }
+    }
+  }
+}

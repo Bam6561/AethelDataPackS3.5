@@ -42,7 +42,7 @@ minigames:
       quantity: 3
     - inventory: Cooked Beef
       quantity: 16
-- id: cre_bal
+- id: cre_ball
   name: Creeperball
   description: Kick a creeper into the opposing team's net to score points.
   maps:

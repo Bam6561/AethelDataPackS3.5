@@ -2,7 +2,7 @@
   "condition": "minecraft:entity_properties",
   "entity": "this",
   "predicate": {
-    "nbt": "{Inventory: [{id: \"minecraft:red_banner\", tag: {id: \"CapQueRed\"}}]}",
+    "nbt": "{Inventory: [{id: \"minecraft:blue_banner\", tag: {id: \"CapQueBlue\"}}]}",
     "team": "CapQueBlue",
     "location": {
       "position": {
