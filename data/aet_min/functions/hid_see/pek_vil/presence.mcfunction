@@ -1,2 +1,0 @@
-execute if entity @a[predicate=aet_min:hid_see/pek_vil/zone/event] run function aet_min:hid_see/pek_vil/game/event_effects
-execute if entity @a[predicate=aet_min:hid_see/pek_vil/zone/play] run function aet_min:hid_see/pek_vil/game/play

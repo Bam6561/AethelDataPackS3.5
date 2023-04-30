@@ -25,16 +25,16 @@ scoreboard objectives add DeaMat dummy
 scoreboard players set NLUHRandSpa DeaMat 0
 
 # Hide and Seek
-team add HidSeeHider
-team modify HidSeeHider color gray
-team modify HidSeeHider nametagVisibility hideForOtherTeams
-team modify HidSeeHider friendlyFire false
+team add HideSeekHider
+team modify HideSeekHider color gray
+team modify HideSeekHider nametagVisibility hideForOtherTeams
+team modify HideSeekHider friendlyFire false
 
-team add HidSeeSeeker
-team modify HidSeeSeeker color gold
-team modify HidSeeSeeker friendlyFire false
+team add HideSeekSeeker
+team modify HideSeekSeeker color gold
+team modify HideSeekSeeker friendlyFire false
 
-scoreboard objectives add HidSee dummy
+scoreboard objectives add HideSeek dummy
 
 # King of the Hill
 team add KingOfTheHillBlue

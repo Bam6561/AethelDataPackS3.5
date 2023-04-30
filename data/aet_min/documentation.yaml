@@ -120,20 +120,20 @@ minigames:
       quantity: 3
     - inventory: Bread
       quantity: 32
-- id: hid_see
+- id: hide_seek
   name: Hide & Seek
   description: Evade the Seekers. Find the Hiders.
-  objective: HidSee
+  objective: HideSeek
   maps:
   - id: hea_wat
     name: Headwater
     oid: HWT
     teams:
-    - team: HidSeeHider
+    - team: HideSeekHider
       color: Gray
       friendlyFire: 'false'
       nametagVisibility: Hide for other teams
-    - team: HidSeeSeeker
+    - team: HideSeekSeeker
       color: Gold
       friendlyFire: 'false'
     loadouts:
@@ -155,7 +155,7 @@ minigames:
     name: PekoVille
     oid: PKV
     teams:
-    - team: HidSeeHider
+    - team: HideSeekHider
       color: Gray
       friendlyFire: 'false'
       nametagVisibility: Hide for other teams
@@ -163,7 +163,7 @@ minigames:
       color: Gold
       friendlyFire: 'false'
     loadouts:
-    - type: HidSeeHider
+    - type: HideSeekHider
       loadout:
       - inventory: Potion
         name: Hide
@@ -185,7 +185,7 @@ minigames:
     name: Wyrmtooth
     oid: WT
     teams:
-    - team: HidSeeHider
+    - team: HideSeekHider
       color: Gray
       friendlyFire: 'false'
       nametagVisibility: Hide for other teams
@@ -193,7 +193,7 @@ minigames:
       color: Gold
       friendlyFire: 'false'
     loadouts:
-    - type: HidSeeHider
+    - type: HideSeekHider
       loadout:
       - inventory: Potion
         name: Hide
@@ -210,6 +210,7 @@ minigames:
 - id: kin_hill
   name: King of the Hill
   description: Control beacons as a team to score points.
+  objective: KinHill
   maps:
   - id: fro_bit
     name: Frostbite
