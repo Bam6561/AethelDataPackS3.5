@@ -77,6 +77,9 @@ minigames:
 - id: dea_mat
   name: Deathmatch
   description: Last one standing in the arena wins.
+  objectives: 
+  - objective: Deaths
+  - objective: Kills
   maps:
   - id: nyl_hills
     name: Nylium Hills
@@ -247,6 +250,7 @@ minigames:
 - id: parkour
   name: Parkour
   description: Achieve the fastest time possible on the course.
+  objective: Parkour
   maps:
   - id: ele
     name: Elements
