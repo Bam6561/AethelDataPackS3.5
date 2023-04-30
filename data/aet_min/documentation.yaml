@@ -8,9 +8,9 @@ minigames:
     name: 
     oid: 
     teams:
-    - team:
-    loadouts:
-    - loadout:
+    - team: 
+    kits:
+    - kit: 
 - id: cap_que
   name: Capture The Queen
   description: Deliver the opposing team's banner to your team's banner spawn to score points.
@@ -26,7 +26,7 @@ minigames:
     - team: CapQueRed
       color: Red
       friendlyFire: 'false'
-    loadout:
+    kit:
     - chest: Iron Chestplate
       enchantments: Protection II, Unbreaking III
     - legs: Iron Leggings
@@ -59,16 +59,16 @@ minigames:
     - team: CreBallRed
       color: Red
       friendlyFire: 'false'
-    loadouts:
+    kits:
     - type: Blue
-      loadout:
+      kit:
       - inventory: Rabbit Foot
         enchantments: Knockback I
       - inventory: Leather Armor
         color: Blue
         unique: Unbreakable
     - type: Red
-      loadout:
+      kit:
       - inventory: Rabbit Foot
         enchantments: Knockback I
       - inventory: Leather Armor
@@ -84,7 +84,7 @@ minigames:
   - id: nyl_hills
     name: Nylium Hills
     oid: NLUH
-    loadout:
+    kit:
     - head: Diamond Helmet
       enchantments: Protection III
     - chest: Diamond Chestplate
@@ -136,9 +136,9 @@ minigames:
     - team: HideSeekSeeker
       color: Gold
       friendlyFire: 'false'
-    loadouts:
+    kits:
     - type: Hider
-      loadout:
+      kit:
       - inventory: Potion
         name: Hide
         effects: Invisibility (0:08)
@@ -146,7 +146,7 @@ minigames:
         name: Stun
         effects: Jump Boost 251 (0:03), Slowness 255 (0:03)
     - type: Seeker
-      loadout:
+      kit:
       - feet: Leather Boots
         attributes:
         - movement_speed: +0.075
@@ -162,9 +162,9 @@ minigames:
     - team: Seeker
       color: Gold
       friendlyFire: 'false'
-    loadouts:
+    kits:
     - type: HideSeekHider
-      loadout:
+      kit:
       - inventory: Potion
         name: Hide
         effects: Invisibility (0:08)
@@ -172,7 +172,7 @@ minigames:
         name: Stun
         effects: Jump Boost 251 (0:03), Slowness 255 (0:03)
     - type: Seeker
-      loadout:
+      kit:
       - chest: Elytra
         durability: 51
       - feet: Leather Boots
@@ -192,9 +192,9 @@ minigames:
     - team: Seeker
       color: Gold
       friendlyFire: 'false'
-    loadouts:
+    kits:
     - type: HideSeekHider
-      loadout:
+      kit:
       - inventory: Potion
         name: Hide
         effects: Invisibility (0:10)
@@ -202,27 +202,27 @@ minigames:
         name: Stun
         effects: Jump Boost 251 (0:04), Slowness 255 (0:04)
     - type: Seeker
-      loadout:
+      kit:
       - boots: Leather Boots
         attributes:
         - movement_speed: +0.09
       - inventory: Spyglass
-- id: kin_hill
+- id: king_hill
   name: King of the Hill
   description: Control beacons as a team to score points.
-  objective: KinHill
+  objective: KingHill
   maps:
   - id: fro_bit
     name: Frostbite
     oid: FB
     teams:
-    - team: Blue
+    - team: KingHillBlue
       color: Blue
       friendlyFire: 'false'
-    - team: Red
+    - team: KingHillRed
       color: Red
       friendlyFire: 'false'
-    loadout:
+    kit:
     - head: Chainmail Helmet
       enchantments: Protection I
     - chest: Chainmail Chestplate

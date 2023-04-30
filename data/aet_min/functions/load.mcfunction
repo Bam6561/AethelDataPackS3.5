@@ -37,20 +37,20 @@ team modify HideSeekSeeker friendlyFire false
 scoreboard objectives add HideSeek dummy
 
 # King of the Hill
-team add KingOfTheHillBlue
-team modify KingOfTheHillBlue color blue
-team modify KingOfTheHillBlue friendlyFire false
+team add KingHillBlue
+team modify KingHillBlue color blue
+team modify KingHillBlue friendlyFire false
 
-team add KingOfTheHillRed
-team modify KingOfTheHillRed color red
-team modify KingOfTheHillRed friendlyFire false
+team add KingHillRed
+team modify KingHillRed color red
+team modify KingHillRed friendlyFire false
 
-scoreboard objectives add KingOfTheHill dummy
-scoreboard players add FBRefinery KingOfTheHill 0
-scoreboard players add FBThroneRoom KingOfTheHill 0
-scoreboard players add FBStoragePit KingOfTheHill 0
-scoreboard players add FBDragonSkull KingOfTheHill 0
-scoreboard players add FBIceBridges KingOfTheHill 0
+scoreboard objectives add KingHill dummy
+scoreboard players add FBRefinery KingHill 0
+scoreboard players add FBThrone KingHill 0
+scoreboard players add FBStorage KingHill 0
+scoreboard players add FBSkull KingHill 0
+scoreboard players add FBBridges KingHill 0
 
 # Monster Contract
 team add MonsterContractMonsters
