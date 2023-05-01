@@ -1,5 +1,5 @@
 # Loadouts
-execute as @a[predicate=aet_min:king_hill/fro_bit/zone/play,scores={TimeSinceDeath=..5}] run function aet_min:king_hill/fro_bit/game/loadout
+execute as @a[predicate=aet_min:king_hill/fro_bit/zone/play,scores={TimeSinceDeath=..5}] run function aet_min:king_hill/fro_bit/game/kit
 
 # Team Scoring
 function aet_min:king_hill/fro_bit/game/cap_blue

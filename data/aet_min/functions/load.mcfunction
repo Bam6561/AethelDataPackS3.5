@@ -53,15 +53,15 @@ scoreboard players add FBSkull KingHill 0
 scoreboard players add FBBridges KingHill 0
 
 # Monster Contract
-team add MonsterContractMonsters
-team modify MonsterContractMonsters color dark_purple
-team modify MonsterContractMonsters friendlyFire false
+team add MonConMonster
+team modify MonConMonster color dark_purple
+team modify MonConMonster friendlyFire false
 
-team add MonsterContractSlayers
-team modify MonsterContractSlayers color gold
-team modify MonsterContractSlayers friendlyFire false
+team add MonConSlayer
+team modify MonConSlayer color gold
+team modify MonConSlayer friendlyFire false
 
-scoreboard objectives add MonsterContract dummy
+scoreboard objectives add MonCon dummy
 
 # Parkour
 scoreboard objectives add Parkour dummy

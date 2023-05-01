@@ -1,0 +1,1 @@
+execute if data entity @s {SelectedItem: {id: "minecraft:tripwire_hook"}} at @s unless block ~ ~-1 ~ air run function aet_min:mon_con/lit_cre/game/trapper/a_bear_trap_p

@@ -1,4 +1,4 @@
-execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractVampire,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/monsters/vampire/abilities
-execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractBountyHunter,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/bounty_hunter/abilities
-execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractCleric,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/cleric/abilities
-execute as @a[predicate=aet_min:mon_con/lit_cre/zones/play,tag=MonsterContractTrapper,scores={SneakTime=1..}] run function aet_min:mon_con/lit_cre/game/slayers/trapper/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/activate/bou_hun] run function aet_min:mon_con/lit_cre/game/bou_hun/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/activate/cleric] run function aet_min:mon_con/lit_cre/game/cleric/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/activate/trapper] run function aet_min:mon_con/lit_cre/game/trapper/abilities
+execute as @a[predicate=aet_min:mon_con/lit_cre/activate/vamp] run function aet_min:mon_con/lit_cre/game/vamp/abilities
