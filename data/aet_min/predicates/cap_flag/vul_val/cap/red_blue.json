@@ -1,0 +1,25 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "nbt": "{Inventory: [{id: \"minecraft:blue_banner\", tag: {id: \"CapFlagBlue\"}}]}",
+    "team": "CapFlagRed",
+    "location": {
+      "position": {
+        "x": {
+          "min": 501,
+          "max": 649
+        },
+        "y": {
+          "min": 59,
+          "max": 85
+        },
+        "z": {
+          "min": 1239,
+          "max": 1503
+        }
+      }
+    }
+  }
+}

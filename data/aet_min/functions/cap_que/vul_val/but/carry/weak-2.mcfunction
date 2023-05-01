@@ -1,2 +1,0 @@
-execute as @a[predicate=aet_min:cap_que/vul_val/carry/blue] run effect give @s weakness 2 1 true
-execute as @a[predicate=aet_min:cap_que/vul_val/carry/red] run effect give @s weakness 2 1 true

@@ -1,3 +1,0 @@
-execute if data entity @s {SelectedItem: {id: "minecraft:beetroot"}} at @s positioned ^ ^ ^2 if entity @a[team=MonConSlayer,distance=..3] run function aet_min:mon_con/lit_cre/game/vamp/a_blo_tra
-execute if data entity @s {SelectedItem: {id: "minecraft:ink_sac"}} at @s if block ^ ^ ^-6 air run function aet_min:mon_con/lit_cre/game/vamp/a_umb_ret
-execute if data entity @s {SelectedItem: {id: "minecraft:zombie_villager_spawn_egg"}} at @s if block ^ ^ ^4 air at @s positioned ^ ^ ^4 run function aet_min:mon_con/lit_cre/game/vamp/a_thralls

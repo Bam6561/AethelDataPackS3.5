@@ -11,19 +11,19 @@ minigames:
     - team: 
     kits:
     - kit: 
-- id: cap_que
-  name: Capture The Queen
+- id: cap_flag
+  name: Capture The Flag
   description: Deliver the opposing team's banner to your team's banner spawn to score points.
-  objective: CapQue
+  objective: CapFlag
   maps:
   - id: vul_val
     name: Vulture Valley
     oid: VTVL
     teams:
-    - team: CapQueBlue
+    - team: CapFlagBlue
       color: Blue
       friendlyFire: 'false'
-    - team: CapQueRed
+    - team: CapFlagRed
       color: Red
       friendlyFire: 'false'
     kit:
@@ -45,7 +45,7 @@ minigames:
     - inventory: Cooked Beef
       quantity: 16
 - id: cre_ball
-  name: Creeperball
+  name: Creeper Ball
   description: Kick a creeper into the opposing team's net to score points.
   objective: CreBall
   maps:

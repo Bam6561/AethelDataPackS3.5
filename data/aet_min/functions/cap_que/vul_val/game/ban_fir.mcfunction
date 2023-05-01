@@ -1,3 +1,0 @@
-# Summon fireworks above banner carriers' heads
-execute at @a[predicate=aet_min:cap_que/vul_val/carry/blue] run summon firework_rocket ~ 75 ~ {LifeTime: 30, FireworksItem: {id: "firework_rocket", Count: 1, tag: {Fireworks: {Flight: 2, Explosions: [{Type: 1, Flicker: 1, Trail: 0, Colors: [I; 1973019, 14188952], FadeColors: [I; 1973019, 8073150]}]}}}}
-execute at @a[predicate=aet_min:cap_que/vul_val/carry/red] run summon firework_rocket ~ 75 ~ {LifeTime: 30, FireworksItem: {id: "firework_rocket", Count: 1, tag: {Fireworks: {Flight: 2, Explosions: [{Type: 1, Flicker: 1, Trail: 0, Colors: [I; 1973019, 14188952], FadeColors: [I; 1973019, 8073150]}]}}}}

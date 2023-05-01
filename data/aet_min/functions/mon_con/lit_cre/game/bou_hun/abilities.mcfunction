@@ -1,2 +1,0 @@
-execute if data entity @s {SelectedItem: {id: "minecraft:chain"}} at @s positioned ^ ^ ^6 if entity @a[team=MonConMonster,distance=..4] run function aet_min:mon_con/lit_cre/game/bou_hun/a_gra_hoo
-execute if data entity @s {SelectedItem: {id: "minecraft:bone"}} at @s positioned ^ ^ ^2 if entity @a[team=MonConMonster,distance=..3] run function aet_min:mon_con/lit_cre/game/bou_hun/a_maim
