@@ -1,2 +1,0 @@
-execute if entity @a[predicate=aet_min:king_hill/fro_bit/zone/spec] run function aet_min:king_hill/fro_bit/game/spec_effects
-execute if entity @a[predicate=aet_min:king_hill/fro_bit/zone/play] run function aet_min:king_hill/fro_bit/game/play

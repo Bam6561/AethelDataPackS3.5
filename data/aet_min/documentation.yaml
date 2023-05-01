@@ -49,7 +49,7 @@ minigames:
   description: Kick a creeper into the opposing team's net to score points.
   objective: CreBall
   maps:
-  - id: sta
+  - id: stadium
     name: Stadium
     oid: SDU
     teams:
@@ -74,7 +74,7 @@ minigames:
       - inventory: Leather Armor
         color: Red
         unique: Unbreakable
-- id: dea_mat
+- id: deathmatch
   name: Deathmatch
   description: Last one standing in the arena wins.
   objectives: 
@@ -125,7 +125,7 @@ minigames:
   description: Evade the Seekers. Find the Hiders.
   objective: HideSeek
   maps:
-  - id: hea_wat
+  - id: headwater
     name: Headwater
     oid: HWT
     teams:
@@ -151,7 +151,7 @@ minigames:
         attributes:
         - movement_speed: +0.075
       - inventory: Spyglass
-  - id: pek_vil
+  - id: pekoville
     name: PekoVille
     oid: PKV
     teams:
@@ -181,7 +181,7 @@ minigames:
       - inventory: Spyglass
       - inventory: Firework Rocket
         quantity: 8
-  - id: wyr_too
+  - id: wyrmtooth
     name: Wyrmtooth
     oid: WT
     teams:
@@ -212,7 +212,7 @@ minigames:
   description: Control beacons as a team to score points.
   objective: KingHill
   maps:
-  - id: fro_bit
+  - id: frostbite
     name: Frostbite
     oid: FB
     teams:
@@ -253,6 +253,6 @@ minigames:
   description: Achieve the fastest time possible on the course.
   objective: Parkour
   maps:
-  - id: ele
+  - id: elements
     name: Elements
     oid: ELM

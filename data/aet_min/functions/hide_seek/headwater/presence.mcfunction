@@ -1,0 +1,2 @@
+execute if entity @a[predicate=aet_min:hide_seek/headwater/zone/event] run function aet_min:hide_seek/headwater/game/event_effects
+execute if entity @a[predicate=aet_min:hide_seek/headwater/zone/play] run function aet_min:hide_seek/headwater/game/play

@@ -1,0 +1,2 @@
+execute if entity @a[predicate=aet_min:hide_seek/wyrmtooth/zone/event] run function aet_min:hide_seek/wyrmtooth/game/event_effects
+execute if entity @a[predicate=aet_min:hide_seek/wyrmtooth/zone/play] run function aet_min:hide_seek/wyrmtooth/game/play
