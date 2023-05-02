@@ -1,2 +1,2 @@
 clear @s
-function aet_min:dea_mat/hub
+function aet_min:deathmatch/hub

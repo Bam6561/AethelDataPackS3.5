@@ -1,3 +1,3 @@
 clear @s
-spawnpoint @s 596 116 867 0
-tp @s 596 116 867 0 0
+spawnpoint @s 599 116 869
+tp @s 599 116 869 90 0

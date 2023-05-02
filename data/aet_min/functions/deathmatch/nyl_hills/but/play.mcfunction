@@ -1,4 +1,4 @@
-function aet_min:dea_mat/nyl_hills/game/kit
+function aet_min:deathmatch/nyl_hills/game/kit
 
 # Random Spawn
 execute if score NLUHRandSpa DeaMat matches 0 run tp @s 586 69 1774 30 0
