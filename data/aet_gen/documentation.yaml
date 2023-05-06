@@ -10,7 +10,16 @@ types:
   - id: gset
     name: God Set
     description: Gears the user instantly with a god set.
-    conditions:
+- type: Passive
+  commands: 
+  - id: eve_hub_effects
+    name: Events Hub Effects
+    description: Resistance 5 and saturation to all players within the zone.
+    conditions: In world_events, at events hub
+  - id: tut_isl_effects
+    name: Tutorial Island Effects
+    description: Resistance 5 and saturation to all players within the zone.
+    conditions: In world_events, at tutorial island
 - type: Trigger
   commands:
   - id: unstuck

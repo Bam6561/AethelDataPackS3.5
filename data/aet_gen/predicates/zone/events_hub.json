@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "location": {
+      "dimension": "minecraft:world_events",
+      "position": {
+        "x": {
+          "min": -175,
+          "max": 175
+        },
+        "y": {
+          "min": -52,
+          "max": 162
+        },
+        "z": {
+          "min": -175,
+          "max": 175
+        }
+      }
+    }
+  }
+}
