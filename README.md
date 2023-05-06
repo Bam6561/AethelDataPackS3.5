@@ -3,7 +3,7 @@
 <!-- LOGO -->
 <div align="center">
   <h3>Aethel Data Pack</h3>
-  <img src="https://i.ibb.co/TWLK0tT/aethel-Data-Pack128x128.png" alt="aethel-Data-Pack128x128">
+  <img src="https://i.ibb.co/3rQP5gf/aethel-data-pack-128x128.png" alt="aethel-data-pack-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
@@ -68,7 +68,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 <!-- ABOUT US -->
 ## About Us
 <a href="https://discord.gg/FzeC4aC6Tg">
-  <img src="https://i.ibb.co/HtpW9g1/aethel-Server-Banner-Background228x128.jpg" alt="aethel-Server-Banner-Background228x128">
+  <img src="https://i.ibb.co/m43zN8N/aethel-server-banner-background-228x128.jpg" alt="aethel-server-banner-background-228x128">
 </a>
 
 **Realm of Aethel**
