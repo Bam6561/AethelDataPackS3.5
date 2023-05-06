@@ -71,9 +71,9 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
   <img src="https://i.ibb.co/m43zN8N/aethel-server-banner-background-228x128.jpg" alt="aethel-server-banner-background-228x128">
 </a>
 
-**Realm of Aethel**
+**Aethel**
 
-Realm of Aethel is a Discord community that mainly focuses on playing Minecraft together, but we also play other games and frequently host server events.
+Aethel is a Discord community that mainly focuses on playing Minecraft together, but we also play other games and frequently host server events.
 
 Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
 
