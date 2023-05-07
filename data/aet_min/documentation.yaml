@@ -11,6 +11,15 @@ minigames:
     - team: 
     kits:
     - kit: 
+- id: boat_race
+  name: Boat Race
+  description: Achieve the fastest time possible on the course using a boat.
+  objective: 
+  maps:
+  - id: yos_dri
+    name: Yoshi Drift
+    oid: 
+    kit: Oak Boat 
 - id: cap_flag
   name: Capture The Flag
   description: Deliver the opposing team's banner to your team's banner spawn to score points.

@@ -2,20 +2,21 @@
   "condition": "minecraft:entity_properties",
   "entity": "this",
   "predicate": {
+    "type": "minecraft:creeper",
+    "nbt": "{Tags:[\"CreBallBall\"]}",
     "location": {
-      "dimension": "minecraft:world_events",
       "position": {
         "x": {
-          "min": 500,
-          "max": 959
+          "min": 822,
+          "max": 823
         },
         "y": {
-          "min": 41,
-          "max": 190
+          "min": 63,
+          "max": 65
         },
         "z": {
-          "min": -818,
-          "max": -500
+          "min": 515,
+          "max": 534
         }
       }
     }

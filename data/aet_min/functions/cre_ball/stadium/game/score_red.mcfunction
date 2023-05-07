@@ -11,5 +11,5 @@ summon firework_rocket 513 63 542 {LifeTime: 10, Motion: [0.0d, 1.0d, 0.0d], Fir
 execute as @a[predicate=aet_min:cre_ball/stadium/zone/event] run tellraw @s [{"text":"Blue: ","color":"dark_blue"},{"score":{"name":"SDUBlue","objective":"CreBall"},"color":"white"},{"text":" | ","color":"gray"},{"text":"Red: ","color":"red"},{"score":{"name":"SDURed","objective":"CreBall"},"color":"white"}]
 
 # TP players to their side of the field
-tp @a[team=CreBallBlue] 539 63 539 270 0
-tp @a[team=CreBallRed] 555 63 539 90 0
+tp @a[team=CreBallBlue] 522 63 539 270 0
+tp @a[team=CreBallRed] 572 63 539 90 0
