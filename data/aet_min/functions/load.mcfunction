@@ -1,3 +1,8 @@
+# Boat Race
+scoreboard objectives add BoatRace dummy
+
+scoreboard objectives add BoatRaceYosDri dummy
+
 # Capture the Queen
 team add CapFlagBlue
 team modify CapFlagBlue color blue

@@ -14,11 +14,13 @@ minigames:
 - id: boat_race
   name: Boat Race
   description: Achieve the fastest time possible on the course using a boat.
-  objective: 
+  objectives: 
+  - BoatRace
+  - BoatRaceYosDri
   maps:
   - id: yos_dri
     name: Yoshi Drift
-    oid: 
+    oid: YSD
     kit: Oak Boat 
 - id: cap_flag
   name: Capture The Flag
