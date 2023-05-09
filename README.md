@@ -73,9 +73,8 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 **Aethel**
 
-Aethel is a Discord community that mainly focuses on playing Minecraft together, but we also play other games and frequently host server events.
-
-Want to join the community? [Click here!](https://discord.gg/FzeC4aC6Tg)
+Survival ❤️ RPG 🗺️ Minigames 🧨 <br>
+[Whitelist today!](discord.gg/FzeC4aC6Tg)
 
 **Related Forms**
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
