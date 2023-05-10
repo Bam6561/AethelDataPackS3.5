@@ -10,6 +10,9 @@ types:
   - id: gset
     name: God Set
     description: Gears the user instantly with a god set.
+  - id: lunet
+    name: Lunet
+    description: Gives the user a single lunet.
 - type: Passive
   commands: 
   - id: eve_hub_effects

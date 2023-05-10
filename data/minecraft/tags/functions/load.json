@@ -1,6 +1,7 @@
 {
 	"values": [
 		"aet_min:load",
-		"aet_gen:load"
+		"aet_gen:load",
+		"aet_str:load"
 	]
 }
