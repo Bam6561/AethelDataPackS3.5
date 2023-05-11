@@ -1,0 +1,2 @@
+execute as @a[predicate=aet_str:vault/1-1,name=!"Bam6561"] run execute in world_rpg run tp @s -248 20 -58 180 0
+execute as @a[predicate=aet_str:vault/1-2,name=!"Diatonius"] run execute in world_rpg run tp @s -248 20 -58 180 0

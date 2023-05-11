@@ -1,0 +1,27 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type_specific": {
+      "type": "player",
+      "gamemode": "adventure"
+    },
+    "location": {
+      "position": {
+        "x": {
+          "min": -609,
+          "max": -500
+        },
+        "y": {
+          "min": 0,
+          "max": 6
+        },
+        "z": {
+          "min": -609,
+          "max": -500
+        }
+      },
+      "dimension": "minecraft:world_events"
+    }
+  }
+}
