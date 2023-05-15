@@ -17,6 +17,8 @@ seasons:
   builds:
   - id: cat_isl
     name: Catboy_Island
+  - id: spa_snow_val
+    name: Spartan's Snow Valley
   - id: sup_isl
     name: Super's Island
 - season: 3
