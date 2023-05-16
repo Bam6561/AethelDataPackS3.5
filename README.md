@@ -82,7 +82,8 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 * 🍰 Playful cosmetics such as plushes, furniture, pets, and more
 * 🔧 Continuous development based on community feedback
 
-👥 [Join an evolving community built by the players, for the players today!](https://discord.gg/FzeC4aC6Tg)
+👥 Join an evolving community built by the players, for the players today!<br>
+[Join our Discord!](https://discord.gg/FzeC4aC6Tg)
 
 📱 **Socials**
 * [YouTube](https://www.youtube.com/@aethelsmp)
