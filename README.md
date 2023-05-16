@@ -84,7 +84,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 👥 [Join an evolving community built by the players, for the players today!](https://discord.gg/FzeC4aC6Tg)
 
-📱 Socials
+📱 **Socials**
 * [Twitter](https://twitter.com/aethelsmp)
 * [Instagram](https://www.instagram.com/aethelsmp/)
 * [LinkTree](https://linktr.ee/aethelsmp)
