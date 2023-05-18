@@ -71,16 +71,30 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
   <img src="https://i.ibb.co/m43zN8N/aethel-server-banner-background-228x128.jpg" alt="aethel-server-banner-background-228x128">
 </a>
 
-**Aethel**
+**Survival ❤️ RPG 🗺️ Minigames 🧨 Crossplay 💻 📱**
 
-Survival ❤️ RPG 🗺️ Minigames 🧨 <br>
-[Whitelist today!](discord.gg/FzeC4aC6Tg)
+⛏️ Aethel is a Minecraft community with a rich history that dates back to 2020.
 
-**Related Forms**
+**Currently in its third season, the SMP offers new players:**
+* ❤️ An immersive semi-vanilla survival experience
+* 🗺️ RPG aspects ranging from dungeons, equipment, and lore driven events
+* 🧨 Minigames with adjustable settings anyone can play with a group of friends
+* 🍰 Playful cosmetics such as plushes, furniture, pets, and more
+* 🔧 Continuous development based on community feedback
+
+👥 Join an evolving community built by the players, for the players today!<br>
+[Join our Discord!](https://discord.gg/FzeC4aC6Tg)
+
+📱 **Socials**
+* [YouTube](https://www.youtube.com/@aethelsmp)
+* [Twitter](https://twitter.com/aethelsmp)
+* [Instagram](https://www.instagram.com/aethelsmp/)
+* [LinkTree](https://linktr.ee/aethelsmp)
+
+📝 **Related Forms**
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
-* [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
-**Related Repositories** 
+⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
 <p align="right"><a href="#top">Back to Top</a></p>
