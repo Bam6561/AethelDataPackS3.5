@@ -1,5 +1,5 @@
 # Stop Timer
-setblock 593 121 869 air
+setblock 593 114 869 air
 tellraw @a[predicate=aet_min:parkour/elements/zone/event] [{"text":"Time: "},{"score":{"name":"ELMTime","objective":"Parkour"},"color":"yellow"}]
 
 #Checks for Weekly Task

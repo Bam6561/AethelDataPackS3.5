@@ -1,3 +1,3 @@
 # Stop Timer
-setblock 593 121 869 air
+setblock 593 114 869 air
 scoreboard players set ELMTime Parkour 0
