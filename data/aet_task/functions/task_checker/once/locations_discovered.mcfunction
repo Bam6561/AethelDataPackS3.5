@@ -9,7 +9,7 @@ execute as @a[predicate = aet_task:once_discover/wild_zone_east] run tag @s add 
 
 execute as @a[tag = Bank, tag = MainTemple, tag = MiniTemple, tag = SunTemple, tag = TownNorthWest, tag = WildZoneEast] run tag @s add LocationsDone
 
-execute as @a[tag = LocationsDone] run give @s dirt 5
+execute as @a[tag = LocationsDone] run scoreboard players add @s LunetBal 5
 
 execute as @a[tag = LocationsDone] run tag @s remove Bank
 execute as @a[tag = LocationsDone] run tag @s remove MainTemple
