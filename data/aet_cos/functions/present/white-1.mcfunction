@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"White Present"}'}, SkullOwner: {Id: [I; -2113431392, 1018054303, -2082368837, -144301175], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ3YjM3ZTY3YTg5MTU5YmY0YWNjNGE0NGQ0MzI4ZjRlZmMwMTgxNjA1MTQyMjg4ZTVlZWQxYWI4YWVkOTEzYyJ9fX0="}]}}}

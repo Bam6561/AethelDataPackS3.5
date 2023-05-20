@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Books"}'}, SkullOwner: {Id: [I; 743924009, -670023481, -1462334552, 1436603543], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVlOGQ2ZjVjYjdhMzVhNGRkYmRhNDZmMDQ3ODkxNWRkOWViYmNlZjkyNGViOGNhMjg4ZTkxZDE5YzhjYiJ9fX0="}]}}} 1

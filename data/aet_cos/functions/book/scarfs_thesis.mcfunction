@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Scarfs Thesis"}'}, SkullOwner: {Id: [I; -835524816, 1249198628, -1730738567, -2028930308], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNlNGM4N2ViNGRkZTI3NDU5ZTNlN2Y4NTkyMWU3ZTU3YjExMTk5MjYwY2FhNWNlNjNmMTM5ZWUzZDE4OGMifX19"}]}}}

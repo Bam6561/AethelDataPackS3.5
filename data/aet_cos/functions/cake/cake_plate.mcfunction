@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Cake on a Plate"}'}, SkullOwner: {Id: [I; -2135362386, -1818738292, -1915962173, -1837377194], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ0NzVkMTQ4ZGIzZWJjNzBiYmU1MjZhY2IxZDNjYzNiM2QwNTA4NjE2NDg3MGVhNTFkMWEwOTNhOWM0NDhkOSJ9fX0="}]}}}

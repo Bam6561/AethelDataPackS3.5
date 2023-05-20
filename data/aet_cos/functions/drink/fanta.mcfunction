@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: "{\"text\":\"Fanta\"}"}, SkullOwner: {Id: [I; -1232603169, 1279606832, -1886651152, 576303608], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzk3ZGI3MDdjYzUzNmEzMDM4MWVkNzIzNjkyOGQ4MmZlNTYxYWM1NTgyYTJhMzIwNWRjMGE1ODVjMDBiNGRhYSJ9fX0="}]}}}

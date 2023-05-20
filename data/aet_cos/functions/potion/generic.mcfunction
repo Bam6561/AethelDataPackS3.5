@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Potion"}'}, SkullOwner: {Id: [I; 1468233165, 1732594611, -1805204848, -564803477], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI3YzZlZTZlYThjMGRiMzUxM2YxZWM4ZmYyOGRlMmU4NGRhYmUxZGU3ZDdmMzBlMjM1M2I3ODg4NDU4Nzc0NSJ9fX0="}]}}}

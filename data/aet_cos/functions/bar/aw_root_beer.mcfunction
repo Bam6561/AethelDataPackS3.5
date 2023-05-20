@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"A&W Root Beer"}'}, SkullOwner: {Id: [I; 1302028428, 576668355, -1587868864, -830426721], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTZkNjhkMGQ0MDc4YzQ1NGRjYmIxZmRmOTI5N2IxYTE1ZjlmNjgyMDNmMDgxYTFjY2MyNDQ1YzkzOTIyNTZhMyJ9fX0="}]}}}

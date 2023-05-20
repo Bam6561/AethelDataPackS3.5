@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @p minecraft:player_head{display: {Name: '{"text":"Medieval Beer"}'}, SkullOwner: {Id: [I; -919099029, -843296815, -1978014726, -1632767213], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDE2OGI5ODA5OGEwYzRhMjllMjA0NjcwNDYzMDkxZGI2MDcwZTc3ZDg2NzY5ZDk4NWY2YmVmNDA3NWU1In19fQ=="}]}}} 1

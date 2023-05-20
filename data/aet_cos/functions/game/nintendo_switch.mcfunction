@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Nintendo Switch"}'}, SkullOwner: {Id: [I; -2094403034, -1809561593, -2131946147, 302965721], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM4NGZhMDEzMjg3MzhmYjg4NmNhNjU2N2UzYjJiMGQwYjU1M2QxNjJkOTBjODJiNDdhZDMwYzhmZTQwNGNhNiJ9fX0="}]}}}

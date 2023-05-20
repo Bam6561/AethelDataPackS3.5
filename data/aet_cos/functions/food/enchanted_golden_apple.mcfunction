@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Enchanted Golden Apple"}'}, SkullOwner: {Id: [I; -1374225621, -890748350, -1887123379, 916838217], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjlhMzg0YzU3MmJjMWJlMDc3NGE5NDM5MzVmZGRjNmFlNTM3ZWNhODY2ZGFkZGI2MzZkZWEwYmNmYzRmIn19fQ=="}]}}}

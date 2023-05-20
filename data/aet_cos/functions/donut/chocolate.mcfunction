@@ -1,0 +1,2 @@
+scoreboard players remove @s LunetBal 4
+give @s minecraft:player_head{display: {Name: '{"text":"Donut (chocolate)"}'}, SkullOwner: {Id: [I; 381932863, 1581728100, -1676635144, -1890278685], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FiMDQ4NDdmMDliM2YyZTExZmM0MTJjMmUyNDFhY2NmOTk2NzU0MzI5MzNiNDcxNjgxMDA1YzQyZTVkMjI4NSJ9fX0="}]}}}
