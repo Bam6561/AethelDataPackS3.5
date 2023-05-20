@@ -25,6 +25,9 @@ types:
     conditions: In world_events, at tutorial island
 - type: Trigger
   commands:
+  - id: balance
+    name: Balance
+    description: Tells the user's Lunet bank balance.
   - id: unstuck
     name: Unstuck
     description: Teleports the user to a set location in Isladora.
