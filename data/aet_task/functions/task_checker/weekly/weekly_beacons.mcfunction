@@ -1,0 +1,3 @@
+execute as @a[predicate = aet_min:king_hill/frostbite/zone/event, tag =! BeaconsCompleted] if score @s WeeklyBeacons matches 10 run scoreboard players add @s LunetBal 4
+execute as @a[predicate = aet_min:king_hill/frostbite/zone/event, tag =! BeaconsCompleted] if score @s WeeklyBeacons matches 10 run title @s actionbar "Weekly Challenge Completed-Capture 10 Beacons"
+execute as @a[predicate = aet_min:king_hill/frostbite/zone/event] if score @s WeeklyBeacons matches 10 run tag @s add BeaconsCompleted

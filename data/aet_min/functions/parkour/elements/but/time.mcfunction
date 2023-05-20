@@ -6,13 +6,13 @@ tellraw @a[predicate=aet_min:parkour/elements/zone/event] [{"text":"Time: "},{"s
 #Note:Second if statement makes sure that if the player has gotten a better time it doesnt remove the better time.
 
 #Time=1:40
-execute if score ELMTime Parkour matches ..2000 if score @s WeeklyParkour matches ..1 run scoreboard players set @s WeeklyParkour 1
+execute if score ELMTime Parkour matches ..2000 run tag @s add Elements1
 #Time=1:25
-execute if score ELMTime Parkour matches ..1700 if score @s WeeklyParkour matches ..2 run scoreboard players set @s WeeklyParkour 2
+execute if score ELMTime Parkour matches ..1700 run tag @s add Elements2
 #Time=1:10
-execute if score ELMTime Parkour matches ..1400 if score @s WeeklyParkour matches ..3 run scoreboard players set @s WeeklyParkour 3
+execute if score ELMTime Parkour matches ..1400 run tag @s add Elements3
 #Time=1:05
-execute if score ELMTime Parkour matches ..1300 run scoreboard players set @s WeeklyParkour 4
+execute if score ELMTime Parkour matches ..1300 run tag @s add Elements4
 
 scoreboard players set ELMTime Parkour 0
 tp @s 599 116 869 90 0

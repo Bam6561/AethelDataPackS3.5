@@ -13,14 +13,13 @@ execute as @a[predicate=aet_min:boat_race/yos_dri/section/0,nbt={Tags: ["BoatRac
 tag @s remove BoatRaceYosDri2
 tag @s remove BoatRaceYosDri5
 
-#Checks for Weekly Task
-#Note:Third if statement makes sure that if the player has gotten a better time it doesnt remove the better time.
+#Weekly Task
 
 #Time=7:00
-execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..8400 if score @s WeeklyBoatYosDri matches ..1 run scoreboard players set @s WeeklyBoatYosDri 1
+execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..8400 run tag @s add Yoshi1
 #Time=6:00
-execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..7200 if score @s WeeklyBoatYosDri matches ..2 run scoreboard players set @s WeeklyBoatYosDri 2
+execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..7200 run tag @s add Yoshi2
 #Time=5:00
-execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..6000 if score @s WeeklyBoatYosDri matches ..3 run scoreboard players set @s WeeklyBoatYosDri 3
+execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..6000 run tag @s add Yoshi3
 #Time=4:30
-execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..5400 run scoreboard players set @s WeeklyBoatYosDri 4
+execute if score @s BoatRaceYosDri matches 3 if score YSDTime BoatRace matches ..5400 run tag @s add Yoshi4

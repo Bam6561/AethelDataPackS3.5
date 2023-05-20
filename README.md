@@ -93,7 +93,6 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 📝 **Related Forms**
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
-* [Community Feedback](https://forms.gle/s3iRyqfKTv6vi4Hq7)
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
