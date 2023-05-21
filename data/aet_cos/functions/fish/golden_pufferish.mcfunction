@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Golden Pufferfish"}'}, SkullOwner: {Id: [I; -1337440203, 1590902903, -1532526948, -1607803267], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QwNzliMGNiNmE3MjI5MmRiYTc3ZGRjZTM1YmZhZjgxNjJlM2MxMDcxNmM2Y2U2ZWQ4ZDI3ZjRmYWQxODgwNCJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Golden Pufferfish"}'}, SkullOwner: {Id: [I; -1337440203, 1590902903, -1532526948, -1607803267], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QwNzliMGNiNmE3MjI5MmRiYTc3ZGRjZTM1YmZhZjgxNjJlM2MxMDcxNmM2Y2U2ZWQ4ZDI3ZjRmYWQxODgwNCJ9fX0="}]}}}

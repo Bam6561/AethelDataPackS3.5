@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Sculk Sensor Note"}'}, SkullOwner: {Id: [I; -522200008, -355971984, -1314992317, 865852924], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdkYjI3NDc5YWZlNmE5MGQxMDdiOTk4MTBjZDc1ZmMxMDVlNGRjODNjNGYzNzNjNDUyNmUwZDZhNWQxZWNmOCJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Sculk Sensor Note"}'}, SkullOwner: {Id: [I; -522200008, -355971984, -1314992317, 865852924], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdkYjI3NDc5YWZlNmE5MGQxMDdiOTk4MTBjZDc1ZmMxMDVlNGRjODNjNGYzNzNjNDUyNmUwZDZhNWQxZWNmOCJ9fX0="}]}}}

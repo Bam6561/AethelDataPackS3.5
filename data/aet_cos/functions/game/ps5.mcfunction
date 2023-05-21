@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"PS5"}'}, SkullOwner: {Id: [I; -1345610968, -1075884733, -1486863894, 801391741], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE0ZGI3ZGRhZTZmMTMwZjc3NzQzZjlkNzYxYTk0NzYyMTEwNTZkMWIwZTQ3MjdjMDZhMGJlYWU1MjAxNGEyZSJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"PS5"}'}, SkullOwner: {Id: [I; -1345610968, -1075884733, -1486863894, 801391741], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE0ZGI3ZGRhZTZmMTMwZjc3NzQzZjlkNzYxYTk0NzYyMTEwNTZkMWIwZTQ3MjdjMDZhMGJlYWU1MjAxNGEyZSJ9fX0="}]}}}

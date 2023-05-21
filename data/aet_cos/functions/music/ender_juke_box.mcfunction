@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Ender Juke Box"}'}, SkullOwner: {Id: [I; -857827170, 1396985390, -2145985523, 1207039862], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZlNWQ5M2ZmNDFiZGVkNTc2MjA5M2JmODFhMzI3M2RiMDc5YWE0NTdiOGRiZjQ4Mjc1NDg3MGFmNGIwZjBhOSJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Ender Juke Box"}'}, SkullOwner: {Id: [I; -857827170, 1396985390, -2145985523, 1207039862], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZlNWQ5M2ZmNDFiZGVkNTc2MjA5M2JmODFhMzI3M2RiMDc5YWE0NTdiOGRiZjQ4Mjc1NDg3MGFmNGIwZjBhOSJ9fX0="}]}}}

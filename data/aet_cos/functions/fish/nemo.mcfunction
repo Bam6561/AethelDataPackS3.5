@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Nemo"}'}, SkullOwner: {Id: [I; 1563267756, -1516483395, -1584613794, 1573130937], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc0MGZhMWZhOTA5MmUzNjhlNjc5OGY5YmNmZThjODMxOGUwMzk5NmEyMDJiZWFlOTE5ZTVjYjkwMDAzOWQ0YyJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Nemo"}'}, SkullOwner: {Id: [I; 1563267756, -1516483395, -1584613794, 1573130937], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc0MGZhMWZhOTA5MmUzNjhlNjc5OGY5YmNmZThjODMxOGUwMzk5NmEyMDJiZWFlOTE5ZTVjYjkwMDAzOWQ0YyJ9fX0="}]}}}

@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Mushroom Books"}'}, SkullOwner: {Id: [I; -465810855, 1355304900, -1190253773, -1267431445], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ1NWYzODVmNmRjNTMzZGY0NmYxNWYwY2Q2YTllYzZiMDdlZjcwMjA1ZWI4ODNjOWUwNzFjOTBlODg0OGYxYiJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Mushroom Books"}'}, SkullOwner: {Id: [I; -465810855, 1355304900, -1190253773, -1267431445], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ1NWYzODVmNmRjNTMzZGY0NmYxNWYwY2Q2YTllYzZiMDdlZjcwMjA1ZWI4ODNjOWUwNzFjOTBlODg0OGYxYiJ9fX0="}]}}}

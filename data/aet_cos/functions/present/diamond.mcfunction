@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Diamond Gift"}'}, SkullOwner: {Id: [I; -168448369, 230706505, -1264922710, -797731259], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNiZDlmNzZjMjhjZDI0MjEzM2MxYzNjNjYzM2UzZTU4NDc3NjhjODk0YTQwODljZjBmN2E3ZGI3MjM5ZGMyYyJ9fX0="}]}}}
+give @s player_head{display: {Name: '{"text":"Diamond Gift"}'}, SkullOwner: {Id: [I; -168448369, 230706505, -1264922710, -797731259], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNiZDlmNzZjMjhjZDI0MjEzM2MxYzNjNjYzM2UzZTU4NDc3NjhjODk0YTQwODljZjBmN2E3ZGI3MjM5ZGMyYyJ9fX0="}]}}}

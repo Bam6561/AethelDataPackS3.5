@@ -1,2 +1,2 @@
 scoreboard players remove @s LunetBal 4
-give @s minecraft:player_head{display: {Name: '{"text":"Pile of Farmer Hats"}'}, SkullOwner: {Id: [I; 264659192, -1776072254, -1843593041, 1078889352], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjZDVjYzQwMzU2ZGE3N2ZkMjU1NzI3NjNlMzkzNjE3Njc2NzEwZDNiNjEwZjY1ZDZmNTgwNjI0NmQ5Nzc3NyJ9fX0="}]}}} 1
+give @s player_head{display: {Name: '{"text":"Pile of Farmer Hats"}'}, SkullOwner: {Id: [I; 264659192, -1776072254, -1843593041, 1078889352], Properties: {textures: [{Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjZDVjYzQwMzU2ZGE3N2ZkMjU1NzI3NjNlMzkzNjE3Njc2NzEwZDNiNjEwZjY1ZDZmNTgwNjI0NmQ5Nzc3NyJ9fX0="}]}}}
