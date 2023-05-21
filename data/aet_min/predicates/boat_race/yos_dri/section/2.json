@@ -17,7 +17,8 @@
           "min": 1203,
           "max": 1240
         }
-      }
+      },
+      "dimension": "minecraft:world_events"
     }
   }
 }

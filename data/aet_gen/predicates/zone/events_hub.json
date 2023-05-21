@@ -3,7 +3,6 @@
   "entity": "this",
   "predicate": {
     "location": {
-      "dimension": "minecraft:world_events",
       "position": {
         "x": {
           "min": -175,
@@ -17,7 +16,8 @@
           "min": -175,
           "max": 175
         }
-      }
+      },
+      "dimension": "minecraft:world_events"
     }
   }
 }
