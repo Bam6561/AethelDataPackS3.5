@@ -12,5 +12,5 @@ items:
   condition: Crouching
 - item: Weak Magnet
   id: weak_magnet
-  description: Pulls items within 5.75 blocks radius of the player, and consumes itself.
+  description: Pulls items within 5.75 blocks radius of the player and consumes itself.
   condition: Crouching

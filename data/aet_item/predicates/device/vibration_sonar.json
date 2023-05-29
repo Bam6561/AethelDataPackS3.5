@@ -5,7 +5,7 @@
     "type_specific": {
       "type": "player"
     },
-    "nbt": "{SelectedItem:{id:\"minecraft:sculk_shrieker\",tag:{id:\"Vibration Sonar\"}}}",
+    "nbt": "{SelectedItem:{id:\"minecraft:sculk_sensor\",tag:{id:\"Vibration Sonar\"}}}",
     "flags": {
       "is_sneaking": true
     }

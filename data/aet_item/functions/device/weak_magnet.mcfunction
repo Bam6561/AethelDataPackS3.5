@@ -1,2 +1,2 @@
-tp @e[type=item,distance=..5.75] @s
-clear @s copper_ingot{id: "Weak Magnet"} 1
+tp @e[type=item,distance=..3.75] @s
+clear @s redstone 4

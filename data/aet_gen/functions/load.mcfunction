@@ -1,3 +1,6 @@
+# Interval
+scoreboard objectives add TickClock dummy
+
 # General
 scoreboard objectives add Deaths minecraft.custom:deaths
 scoreboard objectives add Health health

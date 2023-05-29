@@ -14,7 +14,11 @@ types:
     name: Lunet
     description: Gives the user a single lunet.
 - type: Passive
-  commands: 
+  commands:
+  - id: cos_effects
+    name: Cosmetics World Effects
+    description: Resistance 5 and saturation to all players within the world.
+    conditions: In world_cosmetics.
   - id: eve_hub_effects
     name: Events Hub Effects
     description: Resistance 5 and saturation to all players within the zone.
