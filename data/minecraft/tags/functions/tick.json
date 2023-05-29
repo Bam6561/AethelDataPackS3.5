@@ -1,6 +1,7 @@
 {
 	"values": [
 		"aet_gen:tick",
-		"aet_mob:tick"
+		"aet_mob:tick",
+		"aet_item:tick"
 	]
 }

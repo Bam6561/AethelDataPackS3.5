@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type_specific": {
+      "type": "player"
+    },
+    "nbt": "{SelectedItem:{id:\"minecraft:sculk_shrieker\",tag:{id:\"Vibration Sonar\"}}}",
+    "flags": {
+      "is_sneaking": true
+    }
+  }
+}

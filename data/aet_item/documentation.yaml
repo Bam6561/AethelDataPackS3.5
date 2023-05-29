@@ -1,0 +1,16 @@
+items:
+- item:
+  description:
+  condition:
+- item: Strong Magnet
+  id: strong_magnet
+  description: Pulls items within 5.75 blocks radius of the player.
+  condition: Crouching
+- item: Vibration Sonar
+  id: vibration_sonar
+  description: Reveals all entities within 18 blocks of the player's vision line within a 3 block radius.
+  condition: Crouching
+- item: Weak Magnet
+  id: weak_magnet
+  description: Pulls items within 5.75 blocks radius of the player, and consumes itself.
+  condition: Crouching
