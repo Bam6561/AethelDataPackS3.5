@@ -1,0 +1,2 @@
+summon silverfish ~ ~ ~ {Health: 5, NoAI: 1b, PersistenceRequired: 1b, Tags: ["VentMine"], ActiveEffects: [{Id: 14, Duration: -1, ShowParticles: 0b}, {Id: 19, Duration: 100, ShowParticles: 0b}], Attributes: [{Name: "generic.max_health", Base: 5d}]}
+clear @s tnt{id: "Vent Mine"} 1

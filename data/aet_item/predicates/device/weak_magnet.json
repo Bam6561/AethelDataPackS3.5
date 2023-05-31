@@ -2,12 +2,17 @@
   "condition": "minecraft:entity_properties",
   "entity": "this",
   "predicate": {
-    "type_specific": {
-      "type": "player"
-    },
-    "nbt": "{SelectedItem:{id:\"minecraft:copper_ingot\",tag:{id:\"Weak Magnet\"}}}",
+    "type": "minecraft:player",
     "flags": {
       "is_sneaking": true
+    },
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:copper_ingot"
+        ],
+        "nbt": "{id:\"Weak Magnet\"}"
+      }
     }
   }
 }

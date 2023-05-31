@@ -2,12 +2,17 @@
   "condition": "minecraft:entity_properties",
   "entity": "this",
   "predicate": {
-    "type_specific": {
-      "type": "player"
-    },
-    "nbt": "{SelectedItem:{id:\"minecraft:sculk_sensor\",tag:{id:\"Vibration Sonar\"}}}",
+    "type": "minecraft:player",
     "flags": {
       "is_sneaking": true
+    },
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:sculk_sensor"
+        ],
+        "nbt": "{id:\"Vibration Sensor\"}"
+      }
     }
   }
 }

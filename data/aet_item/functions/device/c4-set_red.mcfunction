@@ -1,0 +1,2 @@
+summon creeper ~ ~ ~ {Fuse: 40, ExplosionRadius: 4, CustomName: '[{"text":"C4 "},{"text":"Red","color":"red"}]', Health: 40, NoAI: 1b, PersistenceRequired: 1b, Silent: 1b, Tags: ["C4Red"], Attributes: [{Name: "generic.max_health", Base: 40d}]}
+clear @s tnt{id: "C4"} 1

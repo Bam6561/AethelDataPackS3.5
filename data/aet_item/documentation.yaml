@@ -1,16 +1,39 @@
 items:
-- item:
+- id:
+  name:
   description:
   condition:
-- item: Strong Magnet
-  id: strong_magnet
-  description: Pulls items within 5.75 blocks radius of the player.
-  condition: Crouching
-- item: Vibration Sonar
-  id: vibration_sonar
-  description: Reveals all entities within 18 blocks of the player's vision line within a 3 block radius.
-  condition: Crouching
-- item: Weak Magnet
-  id: weak_magnet
-  description: Pulls items within 5.75 blocks radius of the player and consumes itself.
-  condition: Crouching
+- id: c4
+  names: 
+  - C4
+  - Remote Detonator
+  description: Sets and detonates based on a color frequency within 24 blocks.
+  condition: Selected & crouching with offhand dye
+- id: carpet_bomb
+  name: Carpet Bomb
+  description: Drops tnt while in elytra flight.
+  condition: Flying with an elytra
+- id: heat_sink
+  name: Heat Sink
+  description: Removes lava within 4.25 blocks and fires within 7.25 blocks.
+  condition: Selected & crouching
+- id: pip
+  name: Pip
+  description: Place and GTFO. Not for use anywhere near civilization.
+  condition: Selected & crouching
+- id: strong_magnet
+  name: Strong Magnet
+  description: Pulls items within 5.75 blocks.
+  condition: Selected & crouching
+- id: vent_mine
+  name: Vent Mine
+  description: Invisible and arms itself after a duration. Detonates based on proximity.
+  condition: Selected & crouching
+- id: vibration_sonar
+  name: Vibration Sonar
+  description: Reveals all entities within 18 blocks of the player's vision line within 3 blocks.
+  condition: Selected & crouching
+- id: weak_magnet
+  name: Weak Magnet
+  description: Pulls items within 5.75 blocks and consumes itself.
+  condition: Selected & crouching

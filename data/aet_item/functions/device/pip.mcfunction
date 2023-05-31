@@ -1,0 +1,2 @@
+summon minecraft:creeper ~ ~ ~ {powered: 1, Fuse: 300, ExplosionRadius: 15, ignited: 1, CustomName: '[{"text":"Pip"}]', Health: 50, Glowing: 1b, Silent: 1b, ActiveEffects: [{Id: 20, Duration: 500, Amplifier: 1, ShowParticles: 0b}], Attributes: [{Name: "generic.movement_speed", Base: 0d}, {Name: "generic.max_health", Base: 50d}]}
+clear @s end_crystal{id: "Pip"} 1

@@ -3,15 +3,17 @@
   "entity": "this",
   "predicate": {
     "type": "minecraft:player",
-    "flags": {
-      "is_sneaking": true
-    },
     "equipment": {
+      "chest": {
+        "items": [
+          "minecraft:elytra"
+        ]
+      },
       "mainhand": {
         "items": [
-          "minecraft:copper_ingot"
+          "minecraft:tnt"
         ],
-        "nbt": "{id:\"Strong Magnet\"}"
+        "nbt": "{id:\"Carpet Bomb\"}"
       }
     }
   }

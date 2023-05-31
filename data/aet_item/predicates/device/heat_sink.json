@@ -9,9 +9,9 @@
     "equipment": {
       "mainhand": {
         "items": [
-          "minecraft:copper_ingot"
+          "minecraft:wet_sponge"
         ],
-        "nbt": "{id:\"Strong Magnet\"}"
+        "nbt": "{id:\"Heat Sink\"}"
       }
     }
   }

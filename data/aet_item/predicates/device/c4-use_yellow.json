@@ -9,9 +9,14 @@
     "equipment": {
       "mainhand": {
         "items": [
-          "minecraft:copper_ingot"
+          "minecraft:tnt"
         ],
-        "nbt": "{id:\"Strong Magnet\"}"
+        "nbt": "{id:\"C4\"}"
+      },
+      "offhand": {
+        "items": [
+          "minecraft:yellow_dye"
+        ]
       }
     }
   }

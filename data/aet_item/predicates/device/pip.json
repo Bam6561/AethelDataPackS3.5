@@ -9,9 +9,9 @@
     "equipment": {
       "mainhand": {
         "items": [
-          "minecraft:copper_ingot"
+          "minecraft:end_crystal"
         ],
-        "nbt": "{id:\"Strong Magnet\"}"
+        "nbt": "{id:\"Pip\"}"
       }
     }
   }
