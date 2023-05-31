@@ -7,7 +7,7 @@ items:
   names: 
   - C4
   - Remote Detonator
-  description: Sets and detonates based on a color frequency within 24 blocks.
+  description: Places payload and detonates payload based on a red, blue, or yellow color frequency within 24 blocks.
   condition: Selected & crouching with offhand dye
 - id: carpet_bomb
   name: Carpet Bomb
@@ -19,11 +19,15 @@ items:
   condition: Selected & crouching
 - id: pip
   name: Pip
-  description: Place and GTFO. Not for use anywhere near civilization.
+  description: Place payload and GTFO. Not for use anywhere near civilization.
   condition: Selected & crouching
 - id: strong_magnet
   name: Strong Magnet
   description: Pulls items within 5.75 blocks.
+  condition: Selected & crouching
+- id: ticking_payload
+  name: Ticking Payload
+  description: Places an auto-detonating payload.
   condition: Selected & crouching
 - id: vent_mine
   name: Vent Mine
