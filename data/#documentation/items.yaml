@@ -1,6 +1,6 @@
 # Items
 # @author Danny Nguyen
-# @version 1.10.4
+# @version 1.10.5
 # @since 1.6.0
 items:
 - id:
@@ -17,14 +17,22 @@ items:
   name: Carpet Bomb
   description: Drops tnt while in elytra flight.
   condition: Flying with an elytra
+- id: gruperts_paw
+  name: Grupert's Paw
+  description: Summons a manifestation of Grupert, granting players within 6.5 blocks absorption and speed every 15 seconds.
+  condition: Selected & crouching.
 - id: heat_sink
   name: Heat Sink
   description: Removes lava within 4.25 blocks and fires within 7.25 blocks.
   condition: Selected & crouching
 - id: pip
   name: Pip
-  description: Place payload and GTFO. Not for use anywhere near civilization.
+  description: Detonates a high powered payload after 15 seconds.
   condition: Selected & crouching
+- id: life_vest
+  name: Life Vest
+  description: Floats the user to the surface in a body of water.
+  condition: Worn in water
 - id: strong_magnet
   name: Strong Magnet
   description: Pulls items within 5.75 blocks.
