@@ -33,6 +33,10 @@ items:
   name: Life Vest
   description: Floats the user to the surface in a body of water.
   condition: Worn in water
+- id: prisoner_restraints
+  name: Prisoner Restraints
+  description: Leads the closest villager within 1.5 blocks to the player.
+  condition: Selected & crouching.
 - id: strong_magnet
   name: Strong Magnet
   description: Pulls items within 5.75 blocks.
