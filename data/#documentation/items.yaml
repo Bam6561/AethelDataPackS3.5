@@ -60,6 +60,18 @@ ticks:
     description: Places an auto-detonating payload.
     condition: Selected & crouching
 - tick: 19
+  - id: annihilation_protocol
+    name: Annihilation Protocol
+    description: Summons an extremely strong iron golem.
+    condition: Selected & crouching.
+  - id: copper_construct
+    name: Copper Construct
+    description: Summons a weaker, faster iron golem.
+    condition: Selected & crouching.
+  - id: steel_construct
+    name: steel_construct
+    description: Summons a stronger iron golem.
+    condition: Selected & crouching.
   - id: vent_mine
     name: Vent Mine
     description: Invisible and arms itself after a duration. Detonates based on proximity.
