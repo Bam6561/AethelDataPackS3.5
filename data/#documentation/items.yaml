@@ -1,59 +1,67 @@
 # Items
 # @author Danny Nguyen
-# @version 1.10.5
+# @version 1.10.7
 # @since 1.6.0
-items:
-- id:
-  name:
-  description:
-  condition:
-- id: c4
-  names: 
-  - C4
-  - Remote Detonator
-  description: Places payload and detonates payload based on a red, blue, or yellow color frequency within 24 blocks.
-  condition: Selected & crouching with offhand dye
-- id: carpet_bomb
-  name: Carpet Bomb
-  description: Drops tnt while in elytra flight.
-  condition: Flying with an elytra
-- id: gruperts_paw
-  name: Grupert's Paw
-  description: Summons a manifestation of Grupert, granting players within 6.5 blocks absorption and speed every 15 seconds.
-  condition: Selected & crouching.
-- id: heat_sink
-  name: Heat Sink
-  description: Removes lava within 4.25 blocks and fires within 7.25 blocks.
-  condition: Selected & crouching
-- id: pip
-  name: Pip
-  description: Detonates a high powered payload after 15 seconds.
-  condition: Selected & crouching
-- id: life_vest
-  name: Life Vest
-  description: Floats the user to the surface in a body of water.
-  condition: Worn in water
-- id: prisoner_restraints
-  name: Prisoner Restraints
-  description: Leads the closest villager within 1.5 blocks to the player.
-  condition: Selected & crouching.
-- id: strong_magnet
-  name: Strong Magnet
-  description: Pulls items within 5.75 blocks.
-  condition: Selected & crouching
-- id: ticking_payload
-  name: Ticking Payload
-  description: Places an auto-detonating payload.
-  condition: Selected & crouching
-- id: vent_mine
-  name: Vent Mine
-  description: Invisible and arms itself after a duration. Detonates based on proximity.
-  condition: Selected & crouching
-- id: vibration_sonar
-  name: Vibration Sonar
-  description: Reveals all entities within 18 blocks of the player's vision line within 3 blocks.
-  condition: Selected & crouching
-- id: weak_magnet
-  name: Weak Magnet
-  description: Pulls items within 5.75 blocks and consumes itself.
-  condition: Selected & crouching
+ticks:
+- tick: 
+  - id:
+    name:
+    description:
+    condition:
+- tick: -1
+  - id: life_vest
+    name: Life Vest
+    description: Floats the user to the surface in a body of water.
+    condition: Worn in water
+  - id: strong_magnet
+    name: Strong Magnet
+    description: Pulls items within 5.75 blocks.
+    condition: Selected & crouching
+- tick: 0
+  - id: c4
+    names: 
+    - C4
+    - Remote Detonator
+    description: Places payload and detonates payload based on a red, blue, or yellow color frequency within 24 blocks.
+    condition: Selected & crouching with offhand dye
+  - id: carpet_bomb
+    name: Carpet Bomb
+    description: Drops tnt while in elytra flight.
+    condition: Flying with an elytra
+- tick: 4
+  - id: gruperts_paw
+    name: Grupert's Paw
+    description: Summons a manifestation of Grupert, granting players within 6.5 blocks absorption and speed every 15 seconds.
+    condition: Selected & crouching.
+  - id: heat_sink
+    name: Heat Sink
+    description: Removes lava within 4.25 blocks and fires within 7.25 blocks.
+    condition: Selected & crouching
+- tick: 9
+  - id: pip
+    name: Pip
+    description: Detonates a high powered payload after 15 seconds.
+    condition: Selected & crouching
+  - id: vibration_sonar
+    name: Vibration Sonar
+    description: Reveals all entities within 18 blocks of the player's vision line within 3 blocks.
+    condition: Selected & crouching
+  - id: weak_magnet
+    name: Weak Magnet
+    description: Pulls items within 5.75 blocks and consumes itself.
+    condition: Selected & crouching
+- tick: 14
+  - id: prisoner_restraints
+    name: Prisoner Restraints
+    description: Leads the closest villager within 1.5 blocks to the player.
+    condition: Selected & crouching.
+  - id: ticking_payload
+    name: Ticking Payload
+    description: Places an auto-detonating payload.
+    condition: Selected & crouching
+- tick: 19
+  - id: vent_mine
+    name: Vent Mine
+    description: Invisible and arms itself after a duration. Detonates based on proximity.
+    condition: Selected & crouching
+  

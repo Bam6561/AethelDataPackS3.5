@@ -11,7 +11,7 @@
         "items": [
           "minecraft:sculk_sensor"
         ],
-        "nbt": "{id:\"Vibration Sensor\"}"
+        "nbt": "{id:\"Vibration Sonar\"}"
       }
     }
   }
