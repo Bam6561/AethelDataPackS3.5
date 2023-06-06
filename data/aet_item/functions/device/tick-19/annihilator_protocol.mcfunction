@@ -1,0 +1,2 @@
+summon minecraft:iron_golem ~ ~ ~ {PlayerCreated: 1, CustomName: '[{"text":"Annihilator Golem"}]', Health: 1000, Attributes: [{Name: "generic.attack_damage", Base: 33.75d}, {Name: "generic.max_health", Base: 1000d}, {Name: "generic.movement_speed", Base: 0.3125d}]}
+clear @s netherite_block{id: "Annihilator Protocol"} 1

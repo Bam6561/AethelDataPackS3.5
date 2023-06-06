@@ -1,0 +1,2 @@
+summon minecraft:iron_golem ~ ~ ~ {PlayerCreated: 1, CustomName: '[{"text":"Copper Construct"}]', Health: 50, Attributes: [{Name: "generic.attack_damage", Base: 10d}, {Name: "generic.max_health", Base: 50d}, {Name: "generic.movement_speed", Base: 0.3125d}]}
+clear @s copper_block{id: "Copper Construct"} 1

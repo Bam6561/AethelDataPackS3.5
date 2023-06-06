@@ -1,0 +1,2 @@
+summon minecraft:iron_golem ~ ~ ~ {PlayerCreated: 1, CustomName: '[{"text":"Steel Construct"}]', Health: 200, Attributes: [{Name: "generic.attack_damage", Base: 22.5d}, {Name: "generic.max_health", Base: 200d}]}
+clear @s iron_block{id: "Steel Construct"} 1
