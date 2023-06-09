@@ -1,14 +1,15 @@
 # Items
 # @author Danny Nguyen
-# @version 1.10.7
+# @version 1.10.9
 # @since 1.6.0
 ticks:
-- tick: 
-  - id:
-    name:
-    description:
-    condition:
-- tick: -1
+- tick:
+  - type: 
+    - id:
+      name:
+      description:
+      condition:
+- tick: all
   - id: life_vest
     name: Life Vest
     description: Floats the user to the surface in a body of water.
@@ -18,16 +19,25 @@ ticks:
     description: Pulls items within 5.75 blocks.
     condition: Selected & crouching
 - tick: 0
-  - id: c4
-    names: 
-    - C4
-    - Remote Detonator
-    description: Places payload and detonates payload based on a red, blue, or yellow color frequency within 24 blocks.
-    condition: Selected & crouching with offhand dye
-  - id: carpet_bomb
-    name: Carpet Bomb
-    description: Drops tnt while in elytra flight.
-    condition: Flying with an elytra
+  - type: armor
+    - id: honey_gold
+      description: Full set bonus of haste I, slow-falling I.
+      condition: Full set
+  - type: devices
+    - id: c4
+      names: 
+      - C4
+      - Remote Detonator
+      description: Places payload and detonates payload based on a red, blue, or yellow color frequency within 24 blocks.
+      condition: Selected & crouching with offhand dye
+    - id: carpet_bomb
+      name: Carpet Bomb
+      description: Drops tnt while in elytra flight.
+      condition: Flying with an elytra
+    - id: incubated_turtle_egg
+      name: Incubated Turtle Egg
+      description: Instantly hatches a turtle egg.
+      condition: Selected & shifting
 - tick: 4
   - id: gruperts_paw
     name: Grupert's Paw
@@ -76,4 +86,3 @@ ticks:
     name: Vent Mine
     description: Invisible and arms itself after a duration. Detonates based on proximity.
     condition: Selected & crouching
-  
