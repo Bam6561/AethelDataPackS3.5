@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:item",
+    "location": {
+      "block": {
+        "blocks": [
+          "minecraft:water_cauldron"
+        ]
+      }
+    }
+  }
+}

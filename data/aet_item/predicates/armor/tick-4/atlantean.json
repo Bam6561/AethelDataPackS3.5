@@ -1,0 +1,33 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "items": [
+          "minecraft:diamond_helmet"
+        ],
+        "nbt": "{id:\"Atlantean Helmet\"}"
+      },
+      "chest": {
+        "items": [
+          "minecraft:diamond_chestplate"
+        ],
+        "nbt": "{id:\"Atlantean Chestplate\"}"
+      },
+      "legs": {
+        "items": [
+          "minecraft:diamond_leggings"
+        ],
+        "nbt": "{id:\"Atlantean Leggings\"}"
+      },
+      "feet": {
+        "items": [
+          "minecraft:diamond_boots"
+        ],
+        "nbt": "{id:\"Atlantean Boots\"}"
+      }
+    }
+  }
+}

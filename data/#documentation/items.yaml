@@ -1,6 +1,6 @@
 # Items
 # @author Danny Nguyen
-# @version 1.10.9
+# @version 1.10.10
 # @since 1.6.0
 ticks:
 - tick:
@@ -20,6 +20,12 @@ ticks:
     condition: Selected & crouching
 - tick: 0
   - type: armor
+    - id: atlantean
+      description: Full set bonus of conduit, dolphin's grace.
+      condition: Full set
+    - id: brimstone
+      description: Full set bonus of fire resistance.
+      condition: Full set
     - id: honey_gold
       description: Full set bonus of haste I, slow-falling I.
       condition: Full set
@@ -37,7 +43,7 @@ ticks:
     - id: incubated_turtle_egg
       name: Incubated Turtle Egg
       description: Instantly hatches a turtle egg.
-      condition: Selected & shifting
+      condition: Selected & crouching
 - tick: 4
   - id: gruperts_paw
     name: Grupert's Paw
@@ -61,6 +67,10 @@ ticks:
     description: Pulls items within 5.75 blocks and consumes itself.
     condition: Selected & crouching
 - tick: 14
+  - id: incubated_frog_spawn
+    name: Incubated Frog Spawn
+    description: Instantly hatches a tadpole bucket.
+    condition: Selected & crouching
   - id: prisoner_restraints
     name: Prisoner Restraints
     description: Leads the closest villager within 1.5 blocks to the player.

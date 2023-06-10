@@ -1,3 +1,12 @@
+# @author Danny Nguyen
+# @version 1.11.0
+# @since 1.11.0
+
+# --- Armor ---
+# Brimstone
+execute as @a[predicate=aet_item:armor/tick-9/brimstone] run function aet_item:armor/tick-9/brimstone
+
+# --- Device ---
 # Pip
 execute as @a[predicate=aet_item:device/tick-9/pip] at @s run function aet_item:device/tick-9/pip
 
