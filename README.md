@@ -96,6 +96,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for document
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
+* [Aethel Resource Pack](https://github.com/Bam6561/AethelDataPack)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
