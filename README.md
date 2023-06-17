@@ -3,7 +3,7 @@
 <!-- LOGO -->
 <div align="center">
   <h3>Aethel Data Pack</h3>
-  <img src="https://i.ibb.co/3rQP5gf/aethel-data-pack-128x128.png" alt="aethel-data-pack-128x128">
+  <img src="https://i.ibb.co/YcvbFPD/aethel-data-pack-128x128.png" alt="aethel-data-pack-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
