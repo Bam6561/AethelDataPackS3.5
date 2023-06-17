@@ -23,8 +23,8 @@
     <li><a href="#usage"> Usage </a></li>
     <li><a href="#about-us"> About Us </a></li>
     <li><a href="#license"> License </a></li>
-    <li><a href="#contact"> Contact <a/></li>
-    <li><a href="#acknowledgements"> Acknowledgements </li>
+    <li><a href="#contact"> Contact </a></li>
+    <li><a href="#acknowledgements"> Acknowledgements </a></li>
 </details>
 
 <!-- ABOUT THE PROJECT -->
