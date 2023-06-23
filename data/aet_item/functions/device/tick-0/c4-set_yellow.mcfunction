@@ -1,2 +1,0 @@
-summon creeper ~ ~ ~ {Fuse: 40, ExplosionRadius: 4, CustomName: '[{"text":"C4 "},{"text":"Yellow","color":"yellow"}]', Health: 40, NoAI: 1b, PersistenceRequired: 1b, Silent: 1b, Tags: ["C4Yellow"], Attributes: [{Name: "generic.max_health", Base: 40d}]}
-clear @s tnt{id: "C4"} 1
