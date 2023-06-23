@@ -1,0 +1,21 @@
+{
+  "author": "Danny Nguyen",
+  "version": "1.12.0",
+  "since": "1.12.0",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "flags": {
+      "is_sneaking": true
+    },
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:rabbit_foot"
+        ],
+        "nbt": "{CustomModelData:1}"
+      }
+    }
+  }
+}

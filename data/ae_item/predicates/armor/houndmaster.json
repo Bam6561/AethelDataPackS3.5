@@ -1,0 +1,36 @@
+{
+  "author": "Danny Nguyen",
+  "version": "1.12.0",
+  "since": "1.12.0",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "items": [
+          "minecraft:chainmail_helmet"
+        ],
+        "nbt": "{CustomModelData:1001}"
+      },
+      "chest": {
+        "items": [
+          "minecraft:chainmail_chestplate"
+        ],
+        "nbt": "{CustomModelData:1001}"
+      },
+      "legs": {
+        "items": [
+          "minecraft:chainmail_leggings"
+        ],
+        "nbt": "{CustomModelData:1001}"
+      },
+      "feet": {
+        "items": [
+          "minecraft:chainmail_boots"
+        ],
+        "nbt": "{CustomModelData:1001}"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "author": "Danny Nguyen",
+  "version": "1.12.0",
+  "since": "1.12.0",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:item_frame",
+    "nbt": "{Item:{tag:{CustomModelData:2}}}"
+  }
+}

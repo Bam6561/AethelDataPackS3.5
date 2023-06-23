@@ -1,2 +1,0 @@
-summon minecraft:creeper ~ ~ ~ {Fuse: 100, ExplosionRadius: 4, ignited: 1, CustomName: '[{"text":"Ticking Payload"}]', Silent: 1b, Attributes: [{Name: "generic.movement_speed", Base: 0d}]}
-clear @s tnt{id: "Ticking Payload"} 1

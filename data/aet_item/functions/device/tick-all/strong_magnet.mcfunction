@@ -1,1 +1,0 @@
-tp @e[type=item,distance=..5.75] @s

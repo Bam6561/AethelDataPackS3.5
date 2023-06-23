@@ -1,7 +1,5 @@
 {
 	"values": [
-		"aet_gen:passive/tick_clock",
-		"aet_mob:tick",
-		"aet_item:tick"
+		"ae_item:tick"
 	]
 }
