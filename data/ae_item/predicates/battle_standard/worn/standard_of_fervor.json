@@ -1,0 +1,18 @@
+{
+  "author": "Danny Nguyen",
+  "version": "1.13.0",
+  "since": "1.13.0",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "items": [
+          "minecraft:gray_banner"
+        ],
+        "nbt": "{CustomModelData:4}"
+      }
+    }
+  }
+}
