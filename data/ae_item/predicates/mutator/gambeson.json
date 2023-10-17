@@ -1,6 +1,6 @@
 {
   "author": "Danny Nguyen",
-  "version": "1.13.0",
+  "version": "1.13.1",
   "since": "1.13.0",
   "condition": "minecraft:entity_properties",
   "entity": "this",
@@ -12,7 +12,7 @@
     "equipment": {
       "mainhand": {
         "items": [
-          "minecraft:white_wool"
+          "minecraft:string"
         ],
         "nbt": "{CustomModelData:1}"
       }
