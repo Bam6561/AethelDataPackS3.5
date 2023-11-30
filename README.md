@@ -96,7 +96,7 @@ See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_DataPack/wiki/Home) for do
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
-* [Aethel Resource Pack](https://github.com/Bam6561/Aethel_S3.5_ResourcePack)
+* [Aethel S3.5 Resource Pack](https://github.com/Bam6561/Aethel_S3.5_ResourcePack)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
