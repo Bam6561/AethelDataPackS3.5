@@ -7,7 +7,7 @@
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
-  <a href="https://github.com/Bam6561/Aethel_S3.5_DataPack/wiki">Wiki</a>
+  <a href="https://github.com/Bam6561/AethelDataPackS3.5/wiki">Wiki</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -32,7 +32,7 @@
 ## About The Project
 Minecraft data pack written for Aethel SMP S3.5.
 
-See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_DataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
+See the [Wiki](https://github.com/Bam6561/AethelDataPackS3.5/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -43,7 +43,7 @@ See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_DataPack/wiki/Home) for do
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
 3. Choose the world you want to use the data pack on inside your `saves` folder. 
-4. Insert `Aethel_S3.5_DataPack` into the world's `datapacks` folder.
+4. Insert `AethelDataPackS3.5` into the world's `datapacks` folder.
 5. Launch Minecraft and enter the world the data pack was added to.
 
 <p align="right"><a href="#top">Back to Top</a></p>
@@ -97,7 +97,7 @@ See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_DataPack/wiki/Home) for do
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
-* [Aethel S3.5 Resource Pack](https://github.com/Bam6561/Aethel_S3.5_ResourcePack)
+* [Aethel S3.5 Resource Pack](https://github.com/Bam6561/AethelResourcePackS3.5)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: https://github.com/Bam6561/Aethel_S3.5_DataPack
+Project Link: https://github.com/Bam6561/AethelDataPackS3.5
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -123,7 +123,7 @@ Project Link: https://github.com/Bam6561/Aethel_S3.5_DataPack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/Aethel_S3.5_DataPack
-[stars-url]: https://github.com/Bam6561/Aethel_S3.5_DataPack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/Aethel_S3.5_DataPack
-[license-url]: https://github.com/Bam6561/Aethel_S3.5_DataPack/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDataPackS3.5
+[stars-url]: https://github.com/Bam6561/AethelDataPackS3.5/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/AethelDataPackS3.5
+[license-url]: https://github.com/Bam6561/AethelDataPackS3.5/blob/main/LICENSE
