@@ -76,7 +76,7 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPackS3.5/wiki/Home) for docu
 
 ⛏️ Aethel is a Minecraft community with a rich history that dates back to 2020.
 
-**Currently in its third season, the SMP offers new players:**
+**In its third season, the SMP offers new players:**
 * ❤️ An immersive semi-vanilla survival experience
 * 🗺️ RPG aspects ranging from dungeons, equipment, and lore driven events
 * 🧨 Minigames with adjustable settings anyone can play with a group of friends
@@ -85,15 +85,6 @@ See the [Wiki](https://github.com/Bam6561/AethelDataPackS3.5/wiki/Home) for docu
 
 👥 Join an evolving community built by the players, for the players today!<br>
 [Join our Discord!](https://discord.gg/FzeC4aC6Tg)
-
-📱 **Socials**
-* [YouTube](https://www.youtube.com/@aethelsmp)
-* [Twitter](https://twitter.com/aethelsmp)
-* [Instagram](https://www.instagram.com/aethelsmp/)
-* [LinkTree](https://linktr.ee/aethelsmp)
-
-📝 **Related Forms**
-* [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
